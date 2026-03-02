@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>财经科技简报（24h）</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <div class="title">财经科技简报</div>
+      <div class="sub" id="range">加载中…</div>
+    </div>
+    <div class="meta">
+      <div class="pill" id="updated">更新：加载中…</div>
+      <a class="pill link" id="raw" href="data.json" target="_blank" rel="noreferrer">data.json</a>
+    </div>
+  </header>
+
+  <main class="grid">
+    <section class="card" id="c1"><h2>美股大厂 / AI / 芯片</h2><div class="list" data-bucket="us-ai-chip"></div></section>
+    <section class="card" id="c2"><h2>宏观 / 利率 / 油价 / 大宗</h2><div class="list" data-bucket="macro-commodities"></div></section>
+    <section class="card" id="c3"><h2>A股 / 中概 / 国内产业</h2><div class="list" data-bucket="cn-stocks-industry"></div></section>
+    <section class="card" id="c4"><h2>监管 / 安全 / 政策（全球）</h2><div class="list" data-bucket="policy-regulation"></div></section>
+  </main>
+
+  <footer class="foot">
+    <div>规则：优先中文来源；尽量交叉引用；付费墙只引用标题/摘要。</div>
+  </footer>
+
+<script>
+function el(tag, cls, text){
+  const e=document.createElement(tag);
+  if(cls) e.className=cls;
+  if(text!=null) e.textContent=text;
+  return e;
+}
+
+function fmtItem(it){
+  const row=el('div','item');
+  const line1=el('div','line1');
+  const time=el('span','time', it.time || '');
+  const source=el('span','source', it.source || '');
+  const title=el('a','title', it.title || '');
+  title.href=it.url || '#';
+  title.target='_blank';
+  title.rel='noreferrer';
+  line1.append(time, source, title);
+
+  const line2=el('div','line2');
+  const tags=[];
+  if(it.topic) tags.push(it.topic);
+  if(it.impact) tags.push('影响:'+it.impact);
+  if(it.crosscheck===false) tags.push('未交叉');
+  line2.textContent=tags.join('｜');
+
+  row.append(line1, line2);
+  return row;
+}
+
+fetch('data.json', {cache:'no-store'})
+  .then(r=>r.json())
+  .then(data=>{
+    document.getElementById('range').textContent = '时间窗（北京时间）：' + data.window_bjt;
+    document.getElementById('updated').textContent = '更新：' + data.generated_at_bjt;
+    const groups=data.buckets || {};
+    document.querySelectorAll('.list').forEach(list=>{
+      const key=list.getAttribute('data-bucket');
+      const items=groups[key] || [];
+      if(items.length===0){
+        list.append(el('div','empty','（24小时内暂无条目）'));
+        return;
+      }
+      items.forEach(it=>list.append(fmtItem(it)));
+    });
+  })
+  .catch(err=>{
+    document.getElementById('range').textContent='加载失败：'+err;
+  });
+</script>
+</body>
+</html>
