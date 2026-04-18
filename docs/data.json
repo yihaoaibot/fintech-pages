@@ -1,103 +1,67 @@
 {
-  "window_bjt": "2026-04-16 11:41 ～ 2026-04-17 11:41",
-  "generated_at_bjt": "2026-04-17 11:41",
+  "window_bjt": "2026-04-17 11:28 ～ 2026-04-18 11:28",
+  "generated_at_bjt": "2026-04-18 11:28",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-04-17 09:04",
+        "time": "2026-04-18 09:20",
+        "source": "爱范儿",
+        "title": "早报｜刚刚，OpenAI两位大牛离职/一季度iPhone出货量激增20%/雷军回应小米做入门车型：10万块难做好智能化",
+        "url": "https://www.ifanr.com/1662774?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 22:56",
+        "source": "爱范儿",
+        "title": "35.68 万元起，1400 匹马力、零百 2.9 秒的极氪 8X，要做新能源时代的「公路之王」",
+        "url": "https://www.ifanr.com/1662725?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 18:57",
+        "source": "爱范儿",
+        "title": "预售 11.58 万元起！埃安 N60 标配激光雷达+端到端智驾，换电版也在路上",
+        "url": "https://www.ifanr.com/1662702?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 17:50",
         "source": "少数派",
-        "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
-        "url": "https://sspai.com/post/108742",
+        "title": "本周看什么 | 最近值得一看的 9 部作品",
+        "url": "https://sspai.com/post/108760",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-04-17 08:53",
+        "time": "2026-04-17 17:50",
         "source": "爱范儿",
-        "title": "早报｜雷军:不能因为有黑稿就不说话/曝OLED版iPad Air明年到来/2999起，大疆发布Osmo Pocket 4",
-        "url": "https://www.ifanr.com/1662626?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "一句话，AI 直接给我建了个能跑能跳的「吉卜力」3D小镇",
+        "url": "https://www.ifanr.com/1662676?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-04-17 08:41",
-        "source": "爱范儿",
-        "title": "DJI Pocket 4：为点赞而生的相机",
-        "url": "https://www.ifanr.com/1662433?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 01:31",
-        "source": "爱范儿",
-        "title": "刚刚，Claude Opus 4.7突然发布：不是最强，但奥特曼又得失眠",
-        "url": "https://www.ifanr.com/1662528?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 23:30",
-        "source": "爱范儿",
-        "title": "迟到六年，大众 ID.3 Neo 终于改掉「反人类」设计，可惜时代不等人",
-        "url": "https://www.ifanr.com/1662506?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 19:18",
-        "source": "爱范儿",
-        "title": "卸载龙虾后，我找到了更香的爱马仕 Agent，5 分钟带你极速上手",
-        "url": "https://www.ifanr.com/1662529?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 17:15",
+        "time": "2026-04-17 16:22",
         "source": "少数派",
-        "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
-        "url": "https://sspai.com/post/108070",
+        "title": "TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验",
+        "url": "https://sspai.com/post/108741",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-04-16 16:49",
-        "source": "爱范儿",
-        "title": "沃尔沃三车齐发！ES90 卖 42.99 万，XC70 卖 24.99 万，还有一辆旗舰轿车",
-        "url": "https://www.ifanr.com/1662452?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 16:47",
-        "source": "爱范儿",
-        "title": "苹果把Siri员工送进AI「补习班」，黄仁勋的暴论开始应验了",
-        "url": "https://www.ifanr.com/1662432?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 15:30",
+        "time": "2026-04-17 11:29",
         "source": "少数派",
-        "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
-        "url": "https://sspai.com/post/108694",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 15:00",
-        "source": "少数派",
-        "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
-        "url": "https://sspai.com/post/108630",
+        "title": "来一杯不翻车的自信：手冲咖啡入门指北",
+        "url": "https://sspai.com/post/108547",
         "topic": "",
         "impact": "",
         "crosscheck": false
@@ -105,19 +69,262 @@
     ],
     "macro-commodities": [
       {
-        "time": "2026-04-17 11:40",
+        "time": "2026-04-18 11:25",
         "source": "36kr快讯",
-        "title": "国家发展改革委和交通运输部正在牵头编制《现代综合交通运输体系发展“十五五”规划》",
-        "url": "https://36kr.com/newsflashes/3770371366076935?f=rss",
+        "title": "公积金使用范围再扩容",
+        "url": "https://36kr.com/newsflashes/3771772554265352?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-04-17 11:39",
+        "time": "2026-04-18 11:18",
         "source": "36kr快讯",
-        "title": "机器人租赁平台擎天租官宣出海动作，首批业务落地13国",
-        "url": "https://36kr.com/newsflashes/3770370408841984?f=rss",
+        "title": "马斯克：SpaceX和特斯拉始终是台积电的重要客户",
+        "url": "https://36kr.com/newsflashes/3771765305524741?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 11:17",
+        "source": "36kr快讯",
+        "title": "霍尔木兹海峡重开 国际金银价格大涨",
+        "url": "https://36kr.com/newsflashes/3771764707066630?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 10:00",
+        "source": "36kr快讯",
+        "title": "智元机器人，要做AI大模型平台和开放生态",
+        "url": "https://36kr.com/p/3770721219035649?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:54",
+        "source": "36kr快讯",
+        "title": "江苏发布2026年消费品以旧换新地方自主品类补贴政策",
+        "url": "https://36kr.com/newsflashes/3771682949989128?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:53",
+        "source": "36kr快讯",
+        "title": "一季度全国完成水利建设投资2070亿元，同比增长4.1%",
+        "url": "https://36kr.com/newsflashes/3771682220016388?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:51",
+        "source": "36kr快讯",
+        "title": "金饰价格涨到1475元",
+        "url": "https://36kr.com/newsflashes/3771680228918024?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:48",
+        "source": "36kr快讯",
+        "title": "Sora负责人离职",
+        "url": "https://36kr.com/newsflashes/3771676858827523?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:47",
+        "source": "36kr快讯",
+        "title": "特朗普称很快发布第一批UFO文件",
+        "url": "https://36kr.com/newsflashes/3771675938390787?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:44",
+        "source": "36kr快讯",
+        "title": "美股三大指数收盘集体上涨，纳指13连涨再创新高",
+        "url": "https://36kr.com/newsflashes/3771673261097736?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:06",
+        "source": "36kr快讯",
+        "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
+        "url": "https://36kr.com/p/3771628958843398?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 08:54",
+        "source": "36kr快讯",
+        "title": "大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长",
+        "url": "https://36kr.com/newsflashes/3771624413463049?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 08:43",
+        "source": "36kr快讯",
+        "title": "海康威视一季度营收增长11.78%   净利润同比增长36.42%",
+        "url": "https://36kr.com/newsflashes/3771613142024967?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:53",
+        "source": "36kr快讯",
+        "title": "热门中概股美股盘前多数走强，拼多多涨超3%",
+        "url": "https://36kr.com/newsflashes/3770915618996995?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:52",
+        "source": "36kr快讯",
+        "title": "美股大型科技股盘前多数上涨，奈飞跌超9%",
+        "url": "https://36kr.com/newsflashes/3770914477392384?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:49",
+        "source": "36kr快讯",
+        "title": "臻镭科技：因信披违规将被实施其他风险警示，股票停牌",
+        "url": "https://36kr.com/newsflashes/3770911795069442?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:41",
+        "source": "36kr快讯",
+        "title": "加拿大邮政将终止住宅邮件投递",
+        "url": "https://36kr.com/newsflashes/3770903680451074?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:40",
+        "source": "36kr快讯",
+        "title": "仕佳光子：拟12.65亿元投建高速光芯片与器件开发及产业化项目",
+        "url": "https://36kr.com/newsflashes/3770902281863945?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:32",
+        "source": "36kr快讯",
+        "title": "国信证券：2025年净利润110.73亿元，同比增长34.76%",
+        "url": "https://36kr.com/newsflashes/3770894485193218?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:20",
+        "source": "36kr快讯",
+        "title": "盛新锂能：董事及高管拟合计减持不超0.091%股份",
+        "url": "https://36kr.com/newsflashes/3770882502165001?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:17",
+        "source": "36kr快讯",
+        "title": "韵达股份：3月快递服务业务收入45.9亿元，同比增长4.08%",
+        "url": "https://36kr.com/newsflashes/3770880143557123?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:12",
+        "source": "36kr快讯",
+        "title": "问界加入逸安启，与宝马、奔驰三方各持有33.3%股份",
+        "url": "https://36kr.com/newsflashes/3770875399209737?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 19:23",
+        "source": "36kr快讯",
+        "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
+        "url": "https://36kr.com/p/3770688595214857?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 19:17",
+        "source": "36kr快讯",
+        "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+        "url": "https://36kr.com/p/3770819743728131?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 19:02",
+        "source": "36kr快讯",
+        "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+        "url": "https://36kr.com/p/3770787623404293?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 17:34",
+        "source": "36kr快讯",
+        "title": "求购长征火箭老股份额；求购多家机器人公司老股份额｜资情留言板第182期",
+        "url": "https://36kr.com/p/3770718127964928?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 17:19",
+        "source": "36kr快讯",
+        "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
+        "url": "https://36kr.com/p/3770699297800707?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 16:25",
+        "source": "36kr快讯",
+        "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
+        "url": "https://36kr.com/p/3770651778761481?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 15:23",
+        "source": "36kr快讯",
+        "title": "玩腻了AI的年轻人，爱上桔子酒店的「手搓」生活？",
+        "url": "https://36kr.com/p/3770578424676866?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
@@ -127,231 +334,6 @@
         "source": "36kr快讯",
         "title": "36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本",
         "url": "https://36kr.com/p/3770363954954755?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:32",
-        "source": "36kr快讯",
-        "title": "A股三大指数午间休盘涨跌不一，源杰科技股价超越茅台成A股新“股王”",
-        "url": "https://36kr.com/newsflashes/3770364089500419?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:26",
-        "source": "36kr快讯",
-        "title": "阿里开源千问3.6系列中等尺寸模型",
-        "url": "https://36kr.com/newsflashes/3770357608219395?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:16",
-        "source": "36kr快讯",
-        "title": "国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动",
-        "url": "https://36kr.com/newsflashes/3770348485558787?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:14",
-        "source": "36kr快讯",
-        "title": "广汽本田型格部分版本停产，涉手动挡车型",
-        "url": "https://36kr.com/newsflashes/3770345723429634?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:07",
-        "source": "36kr快讯",
-        "title": "光线传媒在北京成立文化娱乐公司",
-        "url": "https://36kr.com/newsflashes/3770339723411971?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:04",
-        "source": "36kr快讯",
-        "title": "发改委：要加快形成低空关键装备谱系，带动上下游配套产业",
-        "url": "https://36kr.com/newsflashes/3770336543506953?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:58",
-        "source": "36kr快讯",
-        "title": "发改委：加快有序投放8000亿元新型政策性金融工具资金",
-        "url": "https://36kr.com/newsflashes/3770330904101377?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:56",
-        "source": "36kr快讯",
-        "title": "生意社：尿素供应短缺影响持续，需关注产能恢复",
-        "url": "https://36kr.com/newsflashes/3770328807522817?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:55",
-        "source": "36kr快讯",
-        "title": "Canva可画正式发布Canva AI 2.0",
-        "url": "https://36kr.com/newsflashes/3770327661363971?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:54",
-        "source": "36kr快讯",
-        "title": "生意社：短期预计丙二醇市场将继续维持高位窄幅震荡格局",
-        "url": "https://36kr.com/newsflashes/3770326472983042?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:53",
-        "source": "36kr快讯",
-        "title": "国家发展改革委：一季度投资、消费、价格等指标明显改善",
-        "url": "https://36kr.com/newsflashes/3770325521892099?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:51",
-        "source": "36kr快讯",
-        "title": "潘功胜：中国人民银行将实施好适度宽松的货币政策",
-        "url": "https://36kr.com/newsflashes/3770324081459977?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:48",
-        "source": "36kr快讯",
-        "title": "王腾今日宜休在深圳成立科技新公司",
-        "url": "https://36kr.com/newsflashes/3770320643637765?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:43",
-        "source": "36kr快讯",
-        "title": "雷军：小米未来几年不会做十万元以内车型",
-        "url": "https://36kr.com/newsflashes/3770315863048966?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:39",
-        "source": "36kr快讯",
-        "title": "协创数据在天津成立词元智算科技公司，含AI业务",
-        "url": "https://36kr.com/newsflashes/3770311960658441?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:39",
-        "source": "36kr快讯",
-        "title": "发改委：预计到2030年非化石能源供应规模将比2025年显著增长",
-        "url": "https://36kr.com/newsflashes/3770311608009473?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:36",
-        "source": "36kr快讯",
-        "title": "索尼与本田将继续在移动出行领域展开合作",
-        "url": "https://36kr.com/newsflashes/3770309009687302?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:31",
-        "source": "36kr快讯",
-        "title": "武汉长江存储一季度收入已超200亿元，正进行“史诗级扩产”",
-        "url": "https://36kr.com/newsflashes/3770303536825092?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 09:00",
-        "source": "36kr快讯",
-        "title": "最前线｜大疆发布 Pocket 4 并预告双摄版本，起售价下调500元",
-        "url": "https://36kr.com/p/3769604011885316?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 08:02",
-        "source": "36kr快讯",
-        "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
-        "url": "https://36kr.com/p/3770155029398018?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 22:13",
-        "source": "36kr快讯",
-        "title": "智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线",
-        "url": "https://36kr.com/p/3769501816439555?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 18:55",
-        "source": "36kr快讯",
-        "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
-        "url": "https://36kr.com/p/3769360179298818?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 14:59",
-        "source": "36kr快讯",
-        "title": "新加坡的AI征途：孕育下一个“硅谷”",
-        "url": "https://36kr.com/p/3768997634130434?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 14:26",
-        "source": "36kr快讯",
-        "title": "找100个被资本选中的答案｜2026“最受关注”企业名册评选启动",
-        "url": "https://36kr.com/p/3768967684096521?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 12:06",
-        "source": "36kr快讯",
-        "title": "王子杰逝世：创办丝芭、久游网，引进《劲舞团》",
-        "url": "https://36kr.com/p/3768979949027840?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
@@ -359,19 +341,262 @@
     ],
     "cn-stocks-industry": [
       {
-        "time": "2026-04-17 11:40",
+        "time": "2026-04-18 11:25",
         "source": "36kr",
-        "title": "国家发展改革委和交通运输部正在牵头编制《现代综合交通运输体系发展“十五五”规划》",
-        "url": "https://36kr.com/newsflashes/3770371366076935?f=rss",
+        "title": "公积金使用范围再扩容",
+        "url": "https://36kr.com/newsflashes/3771772554265352?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-04-17 11:39",
+        "time": "2026-04-18 11:18",
         "source": "36kr",
-        "title": "机器人租赁平台擎天租官宣出海动作，首批业务落地13国",
-        "url": "https://36kr.com/newsflashes/3770370408841984?f=rss",
+        "title": "马斯克：SpaceX和特斯拉始终是台积电的重要客户",
+        "url": "https://36kr.com/newsflashes/3771765305524741?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 11:17",
+        "source": "36kr",
+        "title": "霍尔木兹海峡重开 国际金银价格大涨",
+        "url": "https://36kr.com/newsflashes/3771764707066630?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 10:00",
+        "source": "36kr",
+        "title": "智元机器人，要做AI大模型平台和开放生态",
+        "url": "https://36kr.com/p/3770721219035649?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:54",
+        "source": "36kr",
+        "title": "江苏发布2026年消费品以旧换新地方自主品类补贴政策",
+        "url": "https://36kr.com/newsflashes/3771682949989128?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:53",
+        "source": "36kr",
+        "title": "一季度全国完成水利建设投资2070亿元，同比增长4.1%",
+        "url": "https://36kr.com/newsflashes/3771682220016388?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:51",
+        "source": "36kr",
+        "title": "金饰价格涨到1475元",
+        "url": "https://36kr.com/newsflashes/3771680228918024?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:48",
+        "source": "36kr",
+        "title": "Sora负责人离职",
+        "url": "https://36kr.com/newsflashes/3771676858827523?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:47",
+        "source": "36kr",
+        "title": "特朗普称很快发布第一批UFO文件",
+        "url": "https://36kr.com/newsflashes/3771675938390787?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:44",
+        "source": "36kr",
+        "title": "美股三大指数收盘集体上涨，纳指13连涨再创新高",
+        "url": "https://36kr.com/newsflashes/3771673261097736?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 09:06",
+        "source": "36kr",
+        "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
+        "url": "https://36kr.com/p/3771628958843398?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 08:54",
+        "source": "36kr",
+        "title": "大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长",
+        "url": "https://36kr.com/newsflashes/3771624413463049?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-18 08:43",
+        "source": "36kr",
+        "title": "海康威视一季度营收增长11.78%   净利润同比增长36.42%",
+        "url": "https://36kr.com/newsflashes/3771613142024967?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:53",
+        "source": "36kr",
+        "title": "热门中概股美股盘前多数走强，拼多多涨超3%",
+        "url": "https://36kr.com/newsflashes/3770915618996995?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:52",
+        "source": "36kr",
+        "title": "美股大型科技股盘前多数上涨，奈飞跌超9%",
+        "url": "https://36kr.com/newsflashes/3770914477392384?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:49",
+        "source": "36kr",
+        "title": "臻镭科技：因信披违规将被实施其他风险警示，股票停牌",
+        "url": "https://36kr.com/newsflashes/3770911795069442?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:41",
+        "source": "36kr",
+        "title": "加拿大邮政将终止住宅邮件投递",
+        "url": "https://36kr.com/newsflashes/3770903680451074?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:40",
+        "source": "36kr",
+        "title": "仕佳光子：拟12.65亿元投建高速光芯片与器件开发及产业化项目",
+        "url": "https://36kr.com/newsflashes/3770902281863945?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:32",
+        "source": "36kr",
+        "title": "国信证券：2025年净利润110.73亿元，同比增长34.76%",
+        "url": "https://36kr.com/newsflashes/3770894485193218?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:20",
+        "source": "36kr",
+        "title": "盛新锂能：董事及高管拟合计减持不超0.091%股份",
+        "url": "https://36kr.com/newsflashes/3770882502165001?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:17",
+        "source": "36kr",
+        "title": "韵达股份：3月快递服务业务收入45.9亿元，同比增长4.08%",
+        "url": "https://36kr.com/newsflashes/3770880143557123?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 20:12",
+        "source": "36kr",
+        "title": "问界加入逸安启，与宝马、奔驰三方各持有33.3%股份",
+        "url": "https://36kr.com/newsflashes/3770875399209737?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 19:23",
+        "source": "36kr",
+        "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
+        "url": "https://36kr.com/p/3770688595214857?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 19:17",
+        "source": "36kr",
+        "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+        "url": "https://36kr.com/p/3770819743728131?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 19:02",
+        "source": "36kr",
+        "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+        "url": "https://36kr.com/p/3770787623404293?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 17:34",
+        "source": "36kr",
+        "title": "求购长征火箭老股份额；求购多家机器人公司老股份额｜资情留言板第182期",
+        "url": "https://36kr.com/p/3770718127964928?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 17:19",
+        "source": "36kr",
+        "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
+        "url": "https://36kr.com/p/3770699297800707?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 16:25",
+        "source": "36kr",
+        "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
+        "url": "https://36kr.com/p/3770651778761481?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-04-17 15:23",
+        "source": "36kr",
+        "title": "玩腻了AI的年轻人，爱上桔子酒店的「手搓」生活？",
+        "url": "https://36kr.com/p/3770578424676866?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
@@ -381,231 +606,6 @@
         "source": "36kr",
         "title": "36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本",
         "url": "https://36kr.com/p/3770363954954755?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:32",
-        "source": "36kr",
-        "title": "A股三大指数午间休盘涨跌不一，源杰科技股价超越茅台成A股新“股王”",
-        "url": "https://36kr.com/newsflashes/3770364089500419?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:26",
-        "source": "36kr",
-        "title": "阿里开源千问3.6系列中等尺寸模型",
-        "url": "https://36kr.com/newsflashes/3770357608219395?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:16",
-        "source": "36kr",
-        "title": "国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动",
-        "url": "https://36kr.com/newsflashes/3770348485558787?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:14",
-        "source": "36kr",
-        "title": "广汽本田型格部分版本停产，涉手动挡车型",
-        "url": "https://36kr.com/newsflashes/3770345723429634?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:07",
-        "source": "36kr",
-        "title": "光线传媒在北京成立文化娱乐公司",
-        "url": "https://36kr.com/newsflashes/3770339723411971?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 11:04",
-        "source": "36kr",
-        "title": "发改委：要加快形成低空关键装备谱系，带动上下游配套产业",
-        "url": "https://36kr.com/newsflashes/3770336543506953?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:58",
-        "source": "36kr",
-        "title": "发改委：加快有序投放8000亿元新型政策性金融工具资金",
-        "url": "https://36kr.com/newsflashes/3770330904101377?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:56",
-        "source": "36kr",
-        "title": "生意社：尿素供应短缺影响持续，需关注产能恢复",
-        "url": "https://36kr.com/newsflashes/3770328807522817?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:55",
-        "source": "36kr",
-        "title": "Canva可画正式发布Canva AI 2.0",
-        "url": "https://36kr.com/newsflashes/3770327661363971?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:54",
-        "source": "36kr",
-        "title": "生意社：短期预计丙二醇市场将继续维持高位窄幅震荡格局",
-        "url": "https://36kr.com/newsflashes/3770326472983042?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:53",
-        "source": "36kr",
-        "title": "国家发展改革委：一季度投资、消费、价格等指标明显改善",
-        "url": "https://36kr.com/newsflashes/3770325521892099?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:51",
-        "source": "36kr",
-        "title": "潘功胜：中国人民银行将实施好适度宽松的货币政策",
-        "url": "https://36kr.com/newsflashes/3770324081459977?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:48",
-        "source": "36kr",
-        "title": "王腾今日宜休在深圳成立科技新公司",
-        "url": "https://36kr.com/newsflashes/3770320643637765?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:43",
-        "source": "36kr",
-        "title": "雷军：小米未来几年不会做十万元以内车型",
-        "url": "https://36kr.com/newsflashes/3770315863048966?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:39",
-        "source": "36kr",
-        "title": "协创数据在天津成立词元智算科技公司，含AI业务",
-        "url": "https://36kr.com/newsflashes/3770311960658441?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:39",
-        "source": "36kr",
-        "title": "发改委：预计到2030年非化石能源供应规模将比2025年显著增长",
-        "url": "https://36kr.com/newsflashes/3770311608009473?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:36",
-        "source": "36kr",
-        "title": "索尼与本田将继续在移动出行领域展开合作",
-        "url": "https://36kr.com/newsflashes/3770309009687302?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 10:31",
-        "source": "36kr",
-        "title": "武汉长江存储一季度收入已超200亿元，正进行“史诗级扩产”",
-        "url": "https://36kr.com/newsflashes/3770303536825092?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 09:00",
-        "source": "36kr",
-        "title": "最前线｜大疆发布 Pocket 4 并预告双摄版本，起售价下调500元",
-        "url": "https://36kr.com/p/3769604011885316?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-17 08:02",
-        "source": "36kr",
-        "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
-        "url": "https://36kr.com/p/3770155029398018?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 22:13",
-        "source": "36kr",
-        "title": "智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线",
-        "url": "https://36kr.com/p/3769501816439555?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 18:55",
-        "source": "36kr",
-        "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
-        "url": "https://36kr.com/p/3769360179298818?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 14:59",
-        "source": "36kr",
-        "title": "新加坡的AI征途：孕育下一个“硅谷”",
-        "url": "https://36kr.com/p/3768997634130434?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 14:26",
-        "source": "36kr",
-        "title": "找100个被资本选中的答案｜2026“最受关注”企业名册评选启动",
-        "url": "https://36kr.com/p/3768967684096521?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-04-16 12:06",
-        "source": "36kr",
-        "title": "王子杰逝世：创办丝芭、久游网，引进《劲舞团》",
-        "url": "https://36kr.com/p/3768979949027840?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
