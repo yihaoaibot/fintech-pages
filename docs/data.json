@@ -1,8 +1,116 @@
 {
-  "window_bjt": "2026-07-12 11:54 ～ 2026-07-13 11:54",
-  "generated_at_bjt": "2026-07-13 11:54",
+  "window_bjt": "2026-07-13 11:28 ～ 2026-07-14 11:28",
+  "generated_at_bjt": "2026-07-14 11:28",
   "buckets": {
     "us-ai-chip": [
+      {
+        "time": "2026-07-14 08:25",
+        "source": "少数派",
+        "title": "派早报：全球智能手机出货量创 13 年来最低水平等",
+        "url": "https://sspai.com/post/112286",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 08:16",
+        "source": "爱范儿",
+        "title": "早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传闻",
+        "url": "https://www.ifanr.com/1671983?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 20:30",
+        "source": "爱范儿",
+        "title": "68 万元起！腾势 Z 开启国内预售，海外网友已吵翻",
+        "url": "https://www.ifanr.com/1671949?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 18:19",
+        "source": "爱范儿",
+        "title": "英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」",
+        "url": "https://www.ifanr.com/1671945?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 18:18",
+        "source": "爱范儿",
+        "title": "小米澎程 4 款新车公布，纯电续航最高 380km，N90 露营版要做成房车平替",
+        "url": "https://www.ifanr.com/1671928?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 17:55",
+        "source": "少数派",
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/112229",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 17:48",
+        "source": "少数派",
+        "title": "具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件",
+        "url": "https://sspai.com/prime/story/inside-release-notes-260713",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 17:14",
+        "source": "爱范儿",
+        "title": "Codex 不限时了，我先删掉了一堆 Skills ｜附 GPT-5.6 官方指南",
+        "url": "https://www.ifanr.com/1671899?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 15:00",
+        "source": "少数派",
+        "title": "依江伴湖，树影连绵：南昌公园散步指南",
+        "url": "https://sspai.com/post/111776",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 14:51",
+        "source": "爱范儿",
+        "title": "今年最期待的 AI 手机，要来了",
+        "url": "https://www.ifanr.com/1671872?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 14:43",
+        "source": "爱范儿",
+        "title": "对话蔚来李斌：蔚来 2026 年的新车发完了，接下来好好卖车",
+        "url": "https://www.ifanr.com/1671798?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 13:44",
+        "source": "爱范儿",
+        "title": "实测完这个国产 AI 生图，我发现了下一个刷屏玩法",
+        "url": "https://www.ifanr.com/1671817?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
       {
         "time": "2026-07-13 11:50",
         "source": "爱范儿",
@@ -11,86 +119,248 @@
         "topic": "",
         "impact": "",
         "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:07",
-        "source": "爱范儿",
-        "title": "2026 最值得期待的 AI 硬件，是卡片｜AI 器物志",
-        "url": "https://www.ifanr.com/1671775?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:52",
-        "source": "少数派",
-        "title": "你这图「保真」吗？AI 生图时代的信息防伪",
-        "url": "https://sspai.com/post/112185",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:06",
-        "source": "爱范儿",
-        "title": "三星「阔折叠」要来了，能挑战苹果华为吗？",
-        "url": "https://www.ifanr.com/1671749?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 08:26",
-        "source": "爱范儿",
-        "title": "早报｜曝苹果M7 Ultra最高支持1.5TB内存/海力士CEO:明年将迎史上最严峻储存短缺/马斯克奥特曼再次公开对垒",
-        "url": "https://www.ifanr.com/1671746?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 06:58",
-        "source": "少数派",
-        "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
-        "url": "https://sspai.com/post/112215",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-12 17:52",
-        "source": "爱范儿",
-        "title": "腾讯 WorkBuddy 入门指南：更适合国人体质的 Codex，真的能替我干活",
-        "url": "https://www.ifanr.com/1671739?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
       }
     ],
     "macro-commodities": [
       {
-        "time": "2026-07-13 11:48",
+        "time": "2026-07-14 11:26",
         "source": "36kr快讯",
-        "title": "韩国法院禁止两名前三星员工就职于SK海力士",
-        "url": "https://36kr.com/newsflashes/3893534570822400?f=rss",
+        "title": "高德发布通用世界模型工坊ABot-World Studio",
+        "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-07-13 11:44",
+        "time": "2026-07-14 11:21",
         "source": "36kr快讯",
-        "title": "阶跃星辰成立启跃星辰智能科技公司，注册资本1000万",
-        "url": "https://36kr.com/newsflashes/3893531254471170?f=rss",
+        "title": "韩国综指跌幅扩大至5%",
+        "url": "https://36kr.com/newsflashes/3894924055854336?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-07-13 11:34",
+        "time": "2026-07-14 11:09",
         "source": "36kr快讯",
-        "title": "A股三大指数午间休盘集体下跌，全市场超4500股飘绿",
-        "url": "https://36kr.com/newsflashes/3893521045666310?f=rss",
+        "title": "韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化卖盘",
+        "url": "https://36kr.com/newsflashes/3894912567802884?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:07",
+        "source": "36kr快讯",
+        "title": "海关总署：上半年中美货物贸易总值2万亿元",
+        "url": "https://36kr.com/newsflashes/3894910317444098?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:06",
+        "source": "36kr快讯",
+        "title": "软银集团推出基于OpenAI技术的网络安全服务",
+        "url": "https://36kr.com/newsflashes/3894908810771460?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:05",
+        "source": "36kr快讯",
+        "title": "中国电信旗下易信业务调整：余额功能将无法使用",
+        "url": "https://36kr.com/newsflashes/3894907732851976?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:01",
+        "source": "36kr快讯",
+        "title": "小米景明在绵阳成立新科技公司，注册资本100万",
+        "url": "https://36kr.com/newsflashes/3894904700828672?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:59",
+        "source": "36kr快讯",
+        "title": "韩国将2026年经济增长率预期从此前的2%上调至3%",
+        "url": "https://36kr.com/newsflashes/3894892282444809?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:57",
+        "source": "36kr快讯",
+        "title": "启境汽车增资至30.2亿，增幅约44%",
+        "url": "https://36kr.com/newsflashes/3894888469150725?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:51",
+        "source": "36kr快讯",
+        "title": "海关总署：中国6月稀土出口5104.8吨",
+        "url": "https://36kr.com/newsflashes/3894894048509184?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:48",
+        "source": "36kr快讯",
+        "title": "韩国拟大举放松资本交易外汇规定",
+        "url": "https://36kr.com/newsflashes/3894891516443905?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:44",
+        "source": "36kr快讯",
+        "title": "上半年我国体育用品及设备出口675.3亿元",
+        "url": "https://36kr.com/newsflashes/3894887747992583?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:41",
+        "source": "36kr快讯",
+        "title": "海关总署：中国6月出口（以美元计价）同比增27%",
+        "url": "https://36kr.com/newsflashes/3894884368055301?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:40",
+        "source": "36kr快讯",
+        "title": "上半年我国专用装备、船舶和海洋工程装备出口5402.4亿元和2149.9亿元",
+        "url": "https://36kr.com/newsflashes/3894883453418499?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:36",
+        "source": "36kr快讯",
+        "title": "金山云在武汉成立数智科技公司，注册资本1000万",
+        "url": "https://36kr.com/newsflashes/3894879658999048?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:28",
+        "source": "36kr快讯",
+        "title": "海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域",
+        "url": "https://36kr.com/newsflashes/3894871537449989?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:23",
+        "source": "36kr快讯",
+        "title": "T3出行在嘉兴成立新公司，注册资本500万",
+        "url": "https://36kr.com/newsflashes/3894866981256457?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:19",
+        "source": "36kr快讯",
+        "title": "沪指翻红",
+        "url": "https://36kr.com/newsflashes/3894862508276993?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:17",
+        "source": "36kr快讯",
+        "title": "海关总署：上半年算力硬件进出口增长56.6%",
+        "url": "https://36kr.com/newsflashes/3894861205044488?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:15",
+        "source": "36kr快讯",
+        "title": "海关总署：我国稳居全球货物贸易第一大国地位",
+        "url": "https://36kr.com/newsflashes/3894858752179458?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 09:38",
+        "source": "36kr快讯",
+        "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+        "url": "https://36kr.com/p/3894821059918855?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 08:46",
+        "source": "36kr快讯",
+        "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+        "url": "https://36kr.com/p/3893976502287618?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 08:04",
+        "source": "36kr快讯",
+        "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+        "url": "https://36kr.com/p/3894729787767810?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 19:59",
+        "source": "36kr快讯",
+        "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
+        "url": "https://36kr.com/p/3893943402707460?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 16:34",
+        "source": "36kr快讯",
+        "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+        "url": "https://36kr.com/p/3893815451417347?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 16:31",
+        "source": "36kr快讯",
+        "title": "潜入《遗忘之海》，我才读懂网易的心气",
+        "url": "https://36kr.com/p/3893769618569985?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 13:27",
+        "source": "36kr快讯",
+        "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
+        "url": "https://36kr.com/p/3893457328700165?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
@@ -100,240 +370,6 @@
         "source": "36kr快讯",
         "title": "倩碧押注PDRN护肤赛道，高端美妆品牌加速切入医美护理市场｜最前线",
         "url": "https://36kr.com/p/3893519389293056?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:19",
-        "source": "36kr快讯",
-        "title": "“趋境科技”完成A轮融资，半年内募资10亿元",
-        "url": "https://36kr.com/newsflashes/3893500332669697?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:13",
-        "source": "36kr快讯",
-        "title": "五一视界与环天智慧正式达成空天领域战略合作",
-        "url": "https://36kr.com/newsflashes/3893500374350338?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:07",
-        "source": "36kr快讯",
-        "title": "lululemon「割不动」中国人了",
-        "url": "https://36kr.com/p/3893430641703429?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:02",
-        "source": "36kr快讯",
-        "title": "金星啤酒回应招股书失效：仍按既定节奏推进上市工作",
-        "url": "https://36kr.com/newsflashes/3893486405810690?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:00",
-        "source": "36kr快讯",
-        "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
-        "url": "https://36kr.com/p/3879780282495236?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:58",
-        "source": "36kr快讯",
-        "title": "A股赛力斯盘中触及跌停",
-        "url": "https://36kr.com/newsflashes/3893485489011206?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:56",
-        "source": "36kr快讯",
-        "title": "中国建筑材料科学研究总院增资至33.4亿，增幅约23%",
-        "url": "https://36kr.com/newsflashes/3893455484549632?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:47",
-        "source": "36kr快讯",
-        "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
-        "url": "https://36kr.com/p/3893473722514181?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:47",
-        "source": "36kr快讯",
-        "title": "澳大利亚将全面推广电子入境卡",
-        "url": "https://36kr.com/newsflashes/3893474862676481?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:43",
-        "source": "36kr快讯",
-        "title": "韩国央行：全球半导体市场目前仍处于供不应求的状态，由AI驱动的芯片超级周期预计还将持续一段时间",
-        "url": "https://36kr.com/newsflashes/3893454854765059?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:39",
-        "source": "36kr快讯",
-        "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
-        "url": "https://36kr.com/p/3893445208717826?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:37",
-        "source": "36kr快讯",
-        "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
-        "url": "https://36kr.com/p/3885232033378308?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:27",
-        "source": "36kr快讯",
-        "title": "孙东旭明明天权在北京成立新科技公司",
-        "url": "https://36kr.com/newsflashes/3893448954657286?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:20",
-        "source": "36kr快讯",
-        "title": "今年上半年市场监管总局发布101项国家计量技术规范",
-        "url": "https://36kr.com/newsflashes/3893448490400261?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:12",
-        "source": "36kr快讯",
-        "title": "高盛：AI或引爆美国通胀，存储暴涨是核心推手",
-        "url": "https://36kr.com/newsflashes/3893440881621760?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:03",
-        "source": "36kr快讯",
-        "title": "沪深两市成交额突破1万亿元",
-        "url": "https://36kr.com/newsflashes/3893432046009095?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:03",
-        "source": "36kr快讯",
-        "title": "深成指、创业板指均跌超2%",
-        "url": "https://36kr.com/newsflashes/3893431763515910?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:59",
-        "source": "36kr快讯",
-        "title": "三大指数均跌超1%",
-        "url": "https://36kr.com/newsflashes/3893427630569990?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:53",
-        "source": "36kr快讯",
-        "title": "韩国首尔综指下跌5%",
-        "url": "https://36kr.com/newsflashes/3893421931887111?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:51",
-        "source": "36kr快讯",
-        "title": "韩国金融监督院院长呼吁资产管理公司加强对ETF的管理",
-        "url": "https://36kr.com/newsflashes/3893420081986305?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:43",
-        "source": "36kr快讯",
-        "title": "深成指跌超1%",
-        "url": "https://36kr.com/newsflashes/3893411695622920?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:30",
-        "source": "36kr快讯",
-        "title": "央行今日开展2240亿元7天期逆回购操作",
-        "url": "https://36kr.com/newsflashes/3893399079287303?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 08:00",
-        "source": "36kr快讯",
-        "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
-        "url": "https://36kr.com/p/3890940898867712?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 07:55",
-        "source": "36kr快讯",
-        "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
-        "url": "https://36kr.com/p/3893305996442118?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-12 17:29",
-        "source": "36kr快讯",
-        "title": "“背后空无一人”的LV，这次中国人彻底不买账了",
-        "url": "https://36kr.com/p/3892442708032264?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-12 15:59",
-        "source": "36kr快讯",
-        "title": "腾讯重仓一个IPO",
-        "url": "https://36kr.com/p/3892352153942530?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
@@ -341,28 +377,244 @@
     ],
     "cn-stocks-industry": [
       {
-        "time": "2026-07-13 11:48",
+        "time": "2026-07-14 11:26",
         "source": "36kr",
-        "title": "韩国法院禁止两名前三星员工就职于SK海力士",
-        "url": "https://36kr.com/newsflashes/3893534570822400?f=rss",
+        "title": "高德发布通用世界模型工坊ABot-World Studio",
+        "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-07-13 11:44",
+        "time": "2026-07-14 11:21",
         "source": "36kr",
-        "title": "阶跃星辰成立启跃星辰智能科技公司，注册资本1000万",
-        "url": "https://36kr.com/newsflashes/3893531254471170?f=rss",
+        "title": "韩国综指跌幅扩大至5%",
+        "url": "https://36kr.com/newsflashes/3894924055854336?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-07-13 11:34",
+        "time": "2026-07-14 11:09",
         "source": "36kr",
-        "title": "A股三大指数午间休盘集体下跌，全市场超4500股飘绿",
-        "url": "https://36kr.com/newsflashes/3893521045666310?f=rss",
+        "title": "韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化卖盘",
+        "url": "https://36kr.com/newsflashes/3894912567802884?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:07",
+        "source": "36kr",
+        "title": "海关总署：上半年中美货物贸易总值2万亿元",
+        "url": "https://36kr.com/newsflashes/3894910317444098?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:06",
+        "source": "36kr",
+        "title": "软银集团推出基于OpenAI技术的网络安全服务",
+        "url": "https://36kr.com/newsflashes/3894908810771460?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:05",
+        "source": "36kr",
+        "title": "中国电信旗下易信业务调整：余额功能将无法使用",
+        "url": "https://36kr.com/newsflashes/3894907732851976?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 11:01",
+        "source": "36kr",
+        "title": "小米景明在绵阳成立新科技公司，注册资本100万",
+        "url": "https://36kr.com/newsflashes/3894904700828672?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:59",
+        "source": "36kr",
+        "title": "韩国将2026年经济增长率预期从此前的2%上调至3%",
+        "url": "https://36kr.com/newsflashes/3894892282444809?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:57",
+        "source": "36kr",
+        "title": "启境汽车增资至30.2亿，增幅约44%",
+        "url": "https://36kr.com/newsflashes/3894888469150725?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:51",
+        "source": "36kr",
+        "title": "海关总署：中国6月稀土出口5104.8吨",
+        "url": "https://36kr.com/newsflashes/3894894048509184?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:48",
+        "source": "36kr",
+        "title": "韩国拟大举放松资本交易外汇规定",
+        "url": "https://36kr.com/newsflashes/3894891516443905?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:44",
+        "source": "36kr",
+        "title": "上半年我国体育用品及设备出口675.3亿元",
+        "url": "https://36kr.com/newsflashes/3894887747992583?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:41",
+        "source": "36kr",
+        "title": "海关总署：中国6月出口（以美元计价）同比增27%",
+        "url": "https://36kr.com/newsflashes/3894884368055301?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:40",
+        "source": "36kr",
+        "title": "上半年我国专用装备、船舶和海洋工程装备出口5402.4亿元和2149.9亿元",
+        "url": "https://36kr.com/newsflashes/3894883453418499?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:36",
+        "source": "36kr",
+        "title": "金山云在武汉成立数智科技公司，注册资本1000万",
+        "url": "https://36kr.com/newsflashes/3894879658999048?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:28",
+        "source": "36kr",
+        "title": "海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域",
+        "url": "https://36kr.com/newsflashes/3894871537449989?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:23",
+        "source": "36kr",
+        "title": "T3出行在嘉兴成立新公司，注册资本500万",
+        "url": "https://36kr.com/newsflashes/3894866981256457?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:19",
+        "source": "36kr",
+        "title": "沪指翻���",
+        "url": "https://36kr.com/newsflashes/3894862508276993?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:17",
+        "source": "36kr",
+        "title": "海关总署：上半年算力硬件进出口增长56.6%",
+        "url": "https://36kr.com/newsflashes/3894861205044488?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 10:15",
+        "source": "36kr",
+        "title": "海关总署：我国稳居全球货物贸易第一大国地位",
+        "url": "https://36kr.com/newsflashes/3894858752179458?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 09:38",
+        "source": "36kr",
+        "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+        "url": "https://36kr.com/p/3894821059918855?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 08:46",
+        "source": "36kr",
+        "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+        "url": "https://36kr.com/p/3893976502287618?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-14 08:04",
+        "source": "36kr",
+        "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+        "url": "https://36kr.com/p/3894729787767810?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 19:59",
+        "source": "36kr",
+        "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
+        "url": "https://36kr.com/p/3893943402707460?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 16:34",
+        "source": "36kr",
+        "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+        "url": "https://36kr.com/p/3893815451417347?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 16:31",
+        "source": "36kr",
+        "title": "潜入《遗忘之海》，我才读懂网易的心气",
+        "url": "https://36kr.com/p/3893769618569985?f=rss",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-07-13 13:27",
+        "source": "36kr",
+        "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
+        "url": "https://36kr.com/p/3893457328700165?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
@@ -372,240 +624,6 @@
         "source": "36kr",
         "title": "倩碧押注PDRN护肤赛道，高端美妆品牌加速切入医美护理市场｜最前线",
         "url": "https://36kr.com/p/3893519389293056?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:19",
-        "source": "36kr",
-        "title": "“趋境科技”完成A轮融资，半年内募资10亿元",
-        "url": "https://36kr.com/newsflashes/3893500332669697?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:13",
-        "source": "36kr",
-        "title": "五一视界与环天智慧正式达成空天领域战略合作",
-        "url": "https://36kr.com/newsflashes/3893500374350338?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:07",
-        "source": "36kr",
-        "title": "lululemon「割不动」中国人了",
-        "url": "https://36kr.com/p/3893430641703429?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:02",
-        "source": "36kr",
-        "title": "金星啤酒回应招股书失效：仍按既定节奏推进上市工作",
-        "url": "https://36kr.com/newsflashes/3893486405810690?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 11:00",
-        "source": "36kr",
-        "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
-        "url": "https://36kr.com/p/3879780282495236?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:58",
-        "source": "36kr",
-        "title": "A股赛力斯盘中触及跌停",
-        "url": "https://36kr.com/newsflashes/3893485489011206?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:56",
-        "source": "36kr",
-        "title": "中国建筑材料科学研究总院增资至33.4亿，增幅约23%",
-        "url": "https://36kr.com/newsflashes/3893455484549632?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:47",
-        "source": "36kr",
-        "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
-        "url": "https://36kr.com/p/3893473722514181?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:47",
-        "source": "36kr",
-        "title": "澳大利亚将全面推广电子入境卡",
-        "url": "https://36kr.com/newsflashes/3893474862676481?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:43",
-        "source": "36kr",
-        "title": "韩国央行：全球半导体市场目前仍处于供不应求的状态，由AI驱动的芯片超级周期预计还将持续一段时间",
-        "url": "https://36kr.com/newsflashes/3893454854765059?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:39",
-        "source": "36kr",
-        "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
-        "url": "https://36kr.com/p/3893445208717826?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:37",
-        "source": "36kr",
-        "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
-        "url": "https://36kr.com/p/3885232033378308?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:27",
-        "source": "36kr",
-        "title": "孙东旭明明天权在北京成立新科技公司",
-        "url": "https://36kr.com/newsflashes/3893448954657286?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:20",
-        "source": "36kr",
-        "title": "今年上半年市场监管总局发布101项国家计量技术规范",
-        "url": "https://36kr.com/newsflashes/3893448490400261?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:12",
-        "source": "36kr",
-        "title": "高盛：AI或引爆美国通胀，存储暴涨是核心推手",
-        "url": "https://36kr.com/newsflashes/3893440881621760?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:03",
-        "source": "36kr",
-        "title": "沪深两市成交额突破1万亿元",
-        "url": "https://36kr.com/newsflashes/3893432046009095?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 10:03",
-        "source": "36kr",
-        "title": "深成指、创业板指均跌超2%",
-        "url": "https://36kr.com/newsflashes/3893431763515910?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:59",
-        "source": "36kr",
-        "title": "三大指数均跌超1%",
-        "url": "https://36kr.com/newsflashes/3893427630569990?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:53",
-        "source": "36kr",
-        "title": "韩国首尔综指下跌5%",
-        "url": "https://36kr.com/newsflashes/3893421931887111?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:51",
-        "source": "36kr",
-        "title": "韩国金融监督院院长呼吁资产管理公司加强对ETF的管理",
-        "url": "https://36kr.com/newsflashes/3893420081986305?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:43",
-        "source": "36kr",
-        "title": "深成指跌超1%",
-        "url": "https://36kr.com/newsflashes/3893411695622920?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 09:30",
-        "source": "36kr",
-        "title": "央行今日开展2240亿元7天期逆回购操作",
-        "url": "https://36kr.com/newsflashes/3893399079287303?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 08:00",
-        "source": "36kr",
-        "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
-        "url": "https://36kr.com/p/3890940898867712?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-13 07:55",
-        "source": "36kr",
-        "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
-        "url": "https://36kr.com/p/3893305996442118?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-12 17:29",
-        "source": "36kr",
-        "title": "“背后空无一人”的LV，这次中国人彻底不买账了",
-        "url": "https://36kr.com/p/3892442708032264?f=rss",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-07-12 15:59",
-        "source": "36kr",
-        "title": "腾讯重仓一个IPO",
-        "url": "https://36kr.com/p/3892352153942530?f=rss",
         "topic": "",
         "impact": "",
         "crosscheck": false
