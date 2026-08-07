@@ -1,112 +1,157 @@
 {
-  "window_bjt": "2026-08-05 11:32 ～ 2026-08-06 11:32",
-  "generated_at_bjt": "2026-08-06 11:32",
+  "window_bjt": "2026-08-06 11:13 ～ 2026-08-07 11:13",
+  "generated_at_bjt": "2026-08-07 11:13",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-06 10:26",
+        "time": "2026-08-07 10:45",
         "source": "爱范儿",
-        "title": "Gemini 把逆风翻盘的希望，全押在这个人身上",
-        "url": "https://www.ifanr.com/1673901?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "独家体验｜千问大更新，把 Agent 装进了电脑和手机",
+        "url": "https://www.ifanr.com/1674265?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-06 10:18",
+        "time": "2026-08-07 10:06",
         "source": "爱范儿",
-        "title": "突发｜谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业",
-        "url": "https://www.ifanr.com/1673985?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "宝马 3 系换代、奔驰 C 级改款，谁更有机会翻盘？",
+        "url": "https://www.ifanr.com/1674199?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-06 10:14",
+        "time": "2026-08-07 08:51",
         "source": "少数派",
-        "title": "角落新声｜音乐，刻在时光里的私人地图",
-        "url": "https://sspai.com/post/113017",
+        "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+        "url": "https://sspai.com/post/113162",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-06 08:42",
-        "source": "少数派",
-        "title": "派早报：华为发布尊界 MPV 及多款新品等",
-        "url": "https://sspai.com/post/113110",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-06 08:41",
-        "source": "爱范儿",
-        "title": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
-        "url": "https://www.ifanr.com/1674104?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-06 08:30",
+        "time": "2026-08-07 08:18",
         "source": "极客公园",
-        "title": "<![CDATA[传 DeepSeek 重启融资；华为余承东：手机之后可能都要大规模涨价；首例破坏 AI 模型刑案宣判，程序员「删库跑路」获刑]]>",
-        "url": "http://www.geekpark.net/news/368444",
+        "title": "<![CDATA[OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/368504",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-05 17:24",
-        "source": "少数派",
-        "title": "196 张盗版碟，和我的游戏启蒙史",
-        "url": "https://sspai.com/post/112831",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-05 17:15",
+        "time": "2026-08-07 08:15",
         "source": "爱范儿",
-        "title": "华为全场景新品齐发，尊界 V800 领航版售价破百万，埃尔法们的加价生意不好做了",
-        "url": "https://www.ifanr.com/1674060?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台",
+        "url": "https://www.ifanr.com/1674259?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-05 16:47",
+        "time": "2026-08-06 22:34",
         "source": "爱范儿",
-        "title": "MacBook Air 快断货了，等等党不能再等了",
-        "url": "https://www.ifanr.com/1674038?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "Wan 3.0 有了自己的镜头美学",
+        "url": "https://www.ifanr.com/1674218?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-05 16:42",
+        "time": "2026-08-06 20:52",
         "source": "极客公园",
-        "title": "<![CDATA[办公 Agent 爆火，模型大战进入下一阶段]]>",
-        "url": "http://www.geekpark.net/news/368429",
+        "title": "<![CDATA[对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场]]>",
+        "url": "http://www.geekpark.net/news/368503",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-05 15:15",
-        "source": "少数派",
-        "title": "Bookology：从藏书到笔记，打造你的私人阅读档案",
-        "url": "https://sspai.com/post/112953",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-05 14:23",
+        "time": "2026-08-06 18:01",
         "source": "爱范儿",
-        "title": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
-        "url": "https://www.ifanr.com/1673990?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "价格一分没涨，非晶电驱上车：2027 款埃安 RT 上市，9.98 万元起",
+        "url": "https://www.ifanr.com/1674178?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 18:00",
+        "source": "爱范儿",
+        "title": "下个月的 iPhone 发布会，可能是五年来最有「活人感」的一次",
+        "url": "https://www.ifanr.com/1674187?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 17:30",
+        "source": "少数派",
+        "title": "新玩意 248｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/113139",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 17:28",
+        "source": "爱范儿",
+        "title": "20.18 万元起，唯一直接挂「长城」名号的 H10，要抢家庭 SUV 市场",
+        "url": "https://www.ifanr.com/1674168?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 17:02",
+        "source": "极客公园",
+        "title": "<![CDATA[这枚不到 5 克的戒指，藏着 AI 交互的未来]]>",
+        "url": "http://www.geekpark.net/news/368497",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 16:51",
+        "source": "爱范儿",
+        "title": "新内存战争",
+        "url": "https://www.ifanr.com/1674075?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 15:53",
+        "source": "极客公园",
+        "title": "<![CDATA[从会聊天到能管钱：Agent 进入交易时代]]>",
+        "url": "http://www.geekpark.net/news/368494",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 15:51",
+        "source": "极客公园",
+        "title": "<![CDATA[谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S]]>",
+        "url": "http://www.geekpark.net/news/368495",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 15:00",
+        "source": "少数派",
+        "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
+        "url": "https://sspai.com/post/112916",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-06 14:51",
+        "source": "爱范儿",
+        "title": "降价 3 万元！理想 i8 新增后驱长续航版，升级电动前备箱",
+        "url": "https://www.ifanr.com/1674159?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
