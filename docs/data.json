@@ -1,121 +1,22 @@
 {
-  "window_bjt": "2026-08-07 10:18 ～ 2026-08-08 10:18",
-  "generated_at_bjt": "2026-08-08 10:18",
+  "window_bjt": "2026-08-08 10:25 ～ 2026-08-09 10:25",
+  "generated_at_bjt": "2026-08-09 10:25",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-08 08:52",
-        "source": "爱范儿",
-        "title": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
-        "url": "https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-08 08:40",
+        "time": "2026-08-09 07:56",
         "source": "极客公园",
-        "title": "<![CDATA[王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/368565",
+        "title": "<![CDATA[苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍]]>",
+        "url": "http://www.geekpark.net/news/368577",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-07 23:25",
-        "source": "极客公园",
-        "title": "<![CDATA[Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新]]>",
-        "url": "http://www.geekpark.net/news/368563",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 23:24",
-        "source": "极客公园",
-        "title": "<![CDATA[Fitbit Air 手环深度体验：「无屏」只是手段，模型能力才是护城河]]>",
-        "url": "http://www.geekpark.net/news/368562",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 23:22",
-        "source": "极客公园",
-        "title": "<![CDATA[AI Agent 手机下半场，「国标」L3 只是起点]]>",
-        "url": "http://www.geekpark.net/news/368561",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 19:28",
-        "source": "爱范儿",
-        "title": "最后一辆 W16 布加迪，成为了拥有 1600 马力的艺术品",
-        "url": "https://www.ifanr.com/1674436?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 18:12",
-        "source": "爱范儿",
-        "title": "在 ChinaJoy ，我看到了第一台「科技潮玩」机器人",
-        "url": "https://www.ifanr.com/1674308?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 17:56",
-        "source": "极客公园",
-        "title": "<![CDATA[DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观]]>",
-        "url": "http://www.geekpark.net/news/368556",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 17:52",
+        "time": "2026-08-08 13:11",
         "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 10 部作品",
-        "url": "https://sspai.com/post/113191",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 17:40",
-        "source": "极客公园",
-        "title": "<![CDATA[打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线]]>",
-        "url": "http://www.geekpark.net/news/368553",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 15:39",
-        "source": "少数派",
-        "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
-        "url": "https://sspai.com/post/113108",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 12:00",
-        "source": "爱范儿",
-        "title": "解读｜OpenAI 音箱：果味设计，但比苹果多走一步",
-        "url": "https://www.ifanr.com/1674363?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-07 10:45",
-        "source": "爱范儿",
-        "title": "独家体验｜千问大更新，把 Agent 装进了电脑和手机",
-        "url": "https://www.ifanr.com/1674265?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "就内容创作而言，说话还是替代不了打字",
+        "url": "https://sspai.com/post/112901",
         "topic": "",
         "impact": "",
         "crosscheck": false
