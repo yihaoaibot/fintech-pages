@@ -1,22 +1,49 @@
 {
-  "window_bjt": "2026-08-08 10:25 ～ 2026-08-09 10:25",
-  "generated_at_bjt": "2026-08-09 10:25",
+  "window_bjt": "2026-08-09 10:30 ～ 2026-08-10 10:30",
+  "generated_at_bjt": "2026-08-10 10:30",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-09 07:56",
-        "source": "极客公园",
-        "title": "<![CDATA[苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍]]>",
-        "url": "http://www.geekpark.net/news/368577",
+        "time": "2026-08-10 08:44",
+        "source": "爱范儿",
+        "title": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
+        "url": "https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-08 13:11",
+        "time": "2026-08-10 08:16",
+        "source": "极客公园",
+        "title": "<![CDATA[苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/368581",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 07:08",
         "source": "少数派",
-        "title": "就内容创作而言，说话还是替代不了打字",
-        "url": "https://sspai.com/post/112901",
+        "title": "派早报：央视曝光酒店评级标识消费陷阱",
+        "url": "https://sspai.com/post/113268",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-09 15:00",
+        "source": "少数派",
+        "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+        "url": "https://sspai.com/post/113158",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-09 12:28",
+        "source": "极客公园",
+        "title": "<![CDATA[OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器]]>",
+        "url": "http://www.geekpark.net/news/368579",
         "topic": "",
         "impact": "",
         "crosscheck": false
