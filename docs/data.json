@@ -1,49 +1,157 @@
 {
-  "window_bjt": "2026-08-09 10:30 ～ 2026-08-10 10:30",
-  "generated_at_bjt": "2026-08-10 10:30",
+  "window_bjt": "2026-08-10 10:23 ～ 2026-08-11 10:23",
+  "generated_at_bjt": "2026-08-11 10:23",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-10 08:44",
+        "time": "2026-08-11 08:48",
+        "source": "极客公园",
+        "title": "<![CDATA[千问 App 推出付费服务，办公助理最高一年 1499 元；豆包酒店订单开收 12% 服务费；拼多多上线「最快明日达」｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/368640",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-11 08:44",
         "source": "爱范儿",
-        "title": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
-        "url": "https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热",
+        "url": "https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-10 08:16",
-        "source": "极客公园",
-        "title": "<![CDATA[苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/368581",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-10 07:08",
+        "time": "2026-08-11 08:09",
         "source": "少数派",
-        "title": "派早报：央视曝光酒店评级标识消费陷阱",
-        "url": "https://sspai.com/post/113268",
+        "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
+        "url": "https://sspai.com/post/113301",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-09 15:00",
+        "time": "2026-08-10 21:50",
         "source": "少数派",
-        "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
-        "url": "https://sspai.com/post/113158",
+        "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+        "url": "https://sspai.com/prime/story/direct-power-supply-mod",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-09 12:28",
+        "time": "2026-08-10 20:41",
         "source": "极客公园",
-        "title": "<![CDATA[OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器]]>",
-        "url": "http://www.geekpark.net/news/368579",
+        "title": "<![CDATA[语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了]]>",
+        "url": "http://www.geekpark.net/news/368638",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 18:00",
+        "source": "少数派",
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/113283",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 17:59",
+        "source": "爱范儿",
+        "title": "星海 V6 预售 10.49 万元起，华为智驾与十万级大六座的双向奔赴",
+        "url": "https://www.ifanr.com/1674592?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 17:48",
+        "source": "爱范儿",
+        "title": "Seedance 2.5 之后，AI 视频进入 Harness 时代",
+        "url": "https://www.ifanr.com/1674604?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 17:27",
+        "source": "爱范儿",
+        "title": "22.99万元起，阿维塔07L上市：车身加长，华为ADS 5全系上车",
+        "url": "https://www.ifanr.com/1674579?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 16:32",
+        "source": "极客公园",
+        "title": "<![CDATA[顶尖 AI 人才，不敢结婚]]>",
+        "url": "http://www.geekpark.net/news/368625",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 16:31",
+        "source": "极客公园",
+        "title": "<![CDATA[美国本土直播带货，长出一头 200 亿美元「巨兽」]]>",
+        "url": "http://www.geekpark.net/news/368627",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 15:44",
+        "source": "爱范儿",
+        "title": "马斯克的新生图模型，让我笑了一整晚",
+        "url": "https://www.ifanr.com/1674531?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 15:30",
+        "source": "爱范儿",
+        "title": "下一块 Apple Watch，苹果连屏幕都不想要",
+        "url": "https://www.ifanr.com/1674558?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 15:00",
+        "source": "少数派",
+        "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
+        "url": "https://sspai.com/post/113115",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 12:19",
+        "source": "爱范儿",
+        "title": "卡西欧小方块，是我今年最想要的智能戒指",
+        "url": "https://www.ifanr.com/1674518?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 11:40",
+        "source": "爱范儿",
+        "title": "AI 开始帮写朋友圈了，但我更想念「古法手作」文字",
+        "url": "https://www.ifanr.com/1673846?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-10 11:00",
+        "source": "少数派",
+        "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
+        "url": "https://sspai.com/post/113202",
         "topic": "",
         "impact": "",
         "crosscheck": false
