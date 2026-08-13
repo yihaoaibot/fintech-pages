@@ -1,157 +1,148 @@
 {
-  "window_bjt": "2026-08-11 10:40 ～ 2026-08-12 10:40",
-  "generated_at_bjt": "2026-08-12 10:40",
+  "window_bjt": "2026-08-12 10:42 ～ 2026-08-13 10:42",
+  "generated_at_bjt": "2026-08-13 10:42",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-12 08:44",
+        "time": "2026-08-13 09:04",
+        "source": "爱范儿",
+        "title": "DeepSeek V4 Pro 正式版上线，多项指标逼近 Fable 5",
+        "url": "https://www.ifanr.com/1674964?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-13 08:14",
         "source": "少数派",
-        "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
-        "url": "https://sspai.com/post/113343",
+        "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+        "url": "https://sspai.com/post/113385",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 08:35",
+        "time": "2026-08-13 08:14",
         "source": "极客公园",
-        "title": "<![CDATA[林俊旸创办 AI 公司，估值20亿美元；Gemini 月活用户达 10 亿；Manus 宣布恢复独立运营]]>",
-        "url": "http://www.geekpark.net/news/368700",
+        "title": "<![CDATA[Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道]]>",
+        "url": "http://www.geekpark.net/news/368747",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 08:06",
+        "time": "2026-08-13 08:04",
         "source": "爱范儿",
-        "title": "早报｜Manus官宣恢复独立运营/米哈游新作上线未满一月宣布停运/胖东来发放7万元「委屈奖」",
-        "url": "https://www.ifanr.com/1674811?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜9999起，荣耀Robot Phone发布/Google发布Pixel 11系列/岚图董事长卢放:开发周期短不等于「速成车」",
+        "url": "https://www.ifanr.com/1674986?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 00:40",
+        "time": "2026-08-13 06:55",
         "source": "爱范儿",
-        "title": "V8+手动挡，「大黄蜂」科迈罗推出四门版，但我们再也见不到它了",
-        "url": "https://www.ifanr.com/1674611?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "回来了，马斯克带着 24 小时干活的 Agent 回来了",
+        "url": "https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 00:27",
+        "time": "2026-08-13 06:55",
         "source": "爱范儿",
-        "title": "预售价 25.98 万元！小鹏 G9L 少了一排座椅，却要去往更大的全球市场",
-        "url": "https://www.ifanr.com/1674751?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招",
+        "url": "https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 00:25",
+        "time": "2026-08-12 21:51",
         "source": "爱范儿",
-        "title": "6.39 万起！零跑 A05 要把纯电小车重新卷一遍",
-        "url": "https://www.ifanr.com/1674769?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "荣耀 Robot Phone 发布：9999 元起，AI 手机开始长出「身体」",
+        "url": "https://www.ifanr.com/1674938?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-11 21:35",
+        "time": "2026-08-12 18:43",
         "source": "爱范儿",
-        "title": "9.99 万元起！新款海豹 06 上市，天神之眼 B、闪充和云辇-C 都来了",
-        "url": "https://www.ifanr.com/1674738?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "内饰揭晓！焕然一新的捷豹 Type 01，仍然很「捷豹」",
+        "url": "https://www.ifanr.com/1674925?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-11 21:00",
-        "source": "极客公园",
-        "title": "<![CDATA[AI 硬件都在做加法，阅星曈靠一块「减法屏」拿下近 5000 万融资]]>",
-        "url": "http://www.geekpark.net/news/368690",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-11 21:00",
-        "source": "极客公园",
-        "title": "<![CDATA[对话格式塔彭雷：AI 的下一站，是解读人的大脑]]>",
-        "url": "http://www.geekpark.net/news/368694",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-11 18:05",
-        "source": "爱范儿",
-        "title": "大模型开始卷「越狱」了",
-        "url": "https://www.ifanr.com/1674681?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-11 18:00",
-        "source": "爱范儿",
-        "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
-        "url": "https://www.ifanr.com/1674661?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-11 17:00",
+        "time": "2026-08-12 17:30",
         "source": "少数派",
-        "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
-        "url": "https://sspai.com/post/113304",
+        "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+        "url": "https://sspai.com/post/113219",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-11 15:53",
+        "time": "2026-08-12 17:24",
+        "source": "极客公园",
+        "title": "<![CDATA[实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新]]>",
+        "url": "http://www.geekpark.net/news/368744",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-12 17:14",
+        "source": "极客公园",
+        "title": "<![CDATA[AI 入口，开始收费]]>",
+        "url": "http://www.geekpark.net/news/368740",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-12 17:03",
         "source": "爱范儿",
-        "title": "双 17.2 英寸大屏、首发鸿蒙座舱 6，奕境 X9 最后一张牌留给价格",
-        "url": "https://www.ifanr.com/1674705?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "最擅长平台化的大众，盯上了辅助驾驶",
+        "url": "https://www.ifanr.com/1674909?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-11 15:30",
-        "source": "极客公园",
-        "title": "<![CDATA[对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」]]>",
-        "url": "http://www.geekpark.net/news/368667",
+        "time": "2026-08-12 15:03",
+        "source": "爱范儿",
+        "title": "iOS 27 曝光苹果 AI 收费：想让 iPhone 更聪明？得加钱",
+        "url": "https://www.ifanr.com/1674897?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-11 15:21",
-        "source": "极客公园",
-        "title": "<![CDATA[Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型]]>",
-        "url": "http://www.geekpark.net/news/368665",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-11 13:59",
+        "time": "2026-08-12 15:00",
         "source": "少数派",
-        "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线",
-        "url": "https://sspai.com/post/112887",
+        "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+        "url": "https://sspai.com/post/113352",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-11 12:00",
+        "time": "2026-08-12 11:39",
+        "source": "极客公园",
+        "title": "<![CDATA[造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈]]>",
+        "url": "http://www.geekpark.net/news/368707",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-12 11:04",
         "source": "少数派",
-        "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
-        "url": "https://sspai.com/post/113288",
+        "title": "我，与「唯一」的 iPhone Air",
+        "url": "https://sspai.com/post/112880",
         "topic": "",
         "impact": "",
         "crosscheck": false
