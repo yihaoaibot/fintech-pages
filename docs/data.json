@@ -1,148 +1,157 @@
 {
-  "window_bjt": "2026-08-12 10:42 ～ 2026-08-13 10:42",
-  "generated_at_bjt": "2026-08-13 10:42",
+  "window_bjt": "2026-08-13 10:41 ～ 2026-08-14 10:41",
+  "generated_at_bjt": "2026-08-14 10:41",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-13 09:04",
+        "time": "2026-08-14 10:22",
         "source": "爱范儿",
-        "title": "DeepSeek V4 Pro 正式版上线，多项指标逼近 Fable 5",
-        "url": "https://www.ifanr.com/1674964?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员",
+        "url": "https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-13 08:14",
+        "time": "2026-08-14 10:14",
+        "source": "爱范儿",
+        "title": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+        "url": "https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 08:52",
         "source": "少数派",
-        "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
-        "url": "https://sspai.com/post/113385",
+        "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
+        "url": "https://sspai.com/post/113434",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-13 08:14",
+        "time": "2026-08-14 08:52",
         "source": "极客公园",
-        "title": "<![CDATA[Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/368747",
+        "title": "<![CDATA[DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元]]>",
+        "url": "http://www.geekpark.net/news/368789",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-13 08:04",
+        "time": "2026-08-14 08:30",
         "source": "爱范儿",
-        "title": "早报｜9999起，荣耀Robot Phone发布/Google发布Pixel 11系列/岚图董事长卢放:开发周期短不等于「速成车」",
-        "url": "https://www.ifanr.com/1674986?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜曝iPhone全线涨价100美元/ChatGPT开始拥有你的电脑历史/长鑫科技市值超过腾讯",
+        "url": "https://www.ifanr.com/1675193?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-13 06:55",
+        "time": "2026-08-13 21:35",
         "source": "爱范儿",
-        "title": "回来了，马斯克带着 24 小时干活的 Agent 回来了",
-        "url": "https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "9.99 万元起，EV 版 9 分钟充到 97%，秦 MAX 正式上市",
+        "url": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-13 06:55",
+        "time": "2026-08-13 20:46",
         "source": "爱范儿",
-        "title": "实测 DeepSeek V4 Pro 正式版：能力直逼 Fable 5，还藏了一个大招",
-        "url": "https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "首发体验 &#124; DeepSeek Harness 来了，它不想做下一个Codex",
+        "url": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 21:51",
-        "source": "爱范儿",
-        "title": "荣耀 Robot Phone 发布：9999 元起，AI 手机开始长出「身体」",
-        "url": "https://www.ifanr.com/1674938?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-12 18:43",
-        "source": "爱范儿",
-        "title": "内饰揭晓！焕然一新的捷豹 Type 01，仍然很「捷豹」",
-        "url": "https://www.ifanr.com/1674925?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-12 17:30",
+        "time": "2026-08-13 17:30",
         "source": "少数派",
-        "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-        "url": "https://sspai.com/post/113219",
+        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+        "url": "https://sspai.com/post/113225",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 17:24",
+        "time": "2026-08-13 16:55",
         "source": "极客公园",
-        "title": "<![CDATA[实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新]]>",
-        "url": "http://www.geekpark.net/news/368744",
+        "title": "<![CDATA[实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新]]>",
+        "url": "http://www.geekpark.net/news/368777",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 17:14",
-        "source": "极客公园",
-        "title": "<![CDATA[AI 入口，开始收费]]>",
-        "url": "http://www.geekpark.net/news/368740",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-12 17:03",
-        "source": "爱范儿",
-        "title": "最擅长平台化的大众，盯上了辅助驾驶",
-        "url": "https://www.ifanr.com/1674909?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-12 15:03",
-        "source": "爱范儿",
-        "title": "iOS 27 曝光苹果 AI 收费：想让 iPhone 更聪明？得加钱",
-        "url": "https://www.ifanr.com/1674897?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-12 15:00",
+        "time": "2026-08-13 16:01",
         "source": "少数派",
-        "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
-        "url": "https://sspai.com/post/113352",
+        "title": "从原理出发，高效搞定夏日营养冷食",
+        "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 11:39",
-        "source": "极客公园",
-        "title": "<![CDATA[造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈]]>",
-        "url": "http://www.geekpark.net/news/368707",
+        "time": "2026-08-13 15:40",
+        "source": "爱范儿",
+        "title": "打工人的办公三件套，被 WorkBuddy 用 AI 重做了",
+        "url": "https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-12 11:04",
+        "time": "2026-08-13 15:01",
         "source": "少数派",
-        "title": "我，与「唯一」的 iPhone Air",
-        "url": "https://sspai.com/post/112880",
+        "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
+        "url": "https://sspai.com/post/113338",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-13 14:18",
+        "source": "极客公园",
+        "title": "<![CDATA[「美国豆包手机」全系涨价，新东西全留给了 Gemini]]>",
+        "url": "http://www.geekpark.net/news/368766",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-13 14:00",
+        "source": "爱范儿",
+        "title": "Pixel 11 上手：AI 不支棱，涨价不消停",
+        "url": "https://www.ifanr.com/1675041?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-13 12:01",
+        "source": "爱范儿",
+        "title": "具身智能迎来「DeepSeek 时刻」：国产机器人用更低成本反超 Figure AI",
+        "url": "https://www.ifanr.com/1675007?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-13 11:42",
+        "source": "爱范儿",
+        "title": "对话影石创始人刘靖康：全景相机的新范式，是「空间相机」",
+        "url": "https://www.ifanr.com/1675029?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-13 11:18",
+        "source": "少数派",
+        "title": "6 天时间丈量独库公路：我的平安骑行指南",
+        "url": "https://sspai.com/post/112873",
         "topic": "",
         "impact": "",
         "crosscheck": false
