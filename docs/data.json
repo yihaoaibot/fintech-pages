@@ -1,8 +1,116 @@
 {
-  "window_bjt": "2026-08-13 10:41 ～ 2026-08-14 10:41",
-  "generated_at_bjt": "2026-08-14 10:41",
+  "window_bjt": "2026-08-14 09:46 ～ 2026-08-15 09:46",
+  "generated_at_bjt": "2026-08-15 09:46",
   "buckets": {
     "us-ai-chip": [
+      {
+        "time": "2026-08-15 08:52",
+        "source": "极客公园",
+        "title": "<![CDATA[智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道]]>",
+        "url": "http://www.geekpark.net/news/368849",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-15 08:40",
+        "source": "爱范儿",
+        "title": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "url": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 21:55",
+        "source": "爱范儿",
+        "title": "23.98 万元起，大五座魏牌 V8X 上市，并非 V9X 的减法",
+        "url": "https://www.ifanr.com/1675246?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 18:44",
+        "source": "极客公园",
+        "title": "<![CDATA[这家靠全景起步的公司，正在逐步让用户「忘掉相机」]]>",
+        "url": "http://www.geekpark.net/news/368847",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 18:02",
+        "source": "极客公园",
+        "title": "<![CDATA[阿里云，接得住中国智驾吗？]]>",
+        "url": "http://www.geekpark.net/news/368846",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 17:50",
+        "source": "少数派",
+        "title": "本周看什么 | 最近值得一看的 9 部作品",
+        "url": "https://sspai.com/post/113459",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 17:44",
+        "source": "爱范儿",
+        "title": "实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键",
+        "url": "https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 15:00",
+        "source": "少数派",
+        "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
+        "url": "https://sspai.com/post/113416",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 14:00",
+        "source": "爱范儿",
+        "title": "首发 &#124; 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？",
+        "url": "https://www.ifanr.com/1675208?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 12:17",
+        "source": "极客公园",
+        "title": "<![CDATA[DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了]]>",
+        "url": "http://www.geekpark.net/news/368809",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 11:44",
+        "source": "少数派",
+        "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
+        "url": "https://sspai.com/post/111709",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-14 10:54",
+        "source": "少数派",
+        "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
+        "url": "https://sspai.com/post/112279",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
       {
         "time": "2026-08-14 10:22",
         "source": "爱范儿",
@@ -17,141 +125,6 @@
         "source": "爱范儿",
         "title": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
         "url": "https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 08:52",
-        "source": "少数派",
-        "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
-        "url": "https://sspai.com/post/113434",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 08:52",
-        "source": "极客公园",
-        "title": "<![CDATA[DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元]]>",
-        "url": "http://www.geekpark.net/news/368789",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 08:30",
-        "source": "爱范儿",
-        "title": "早报｜曝iPhone全线涨价100美元/ChatGPT开始拥有你的电脑历史/长鑫科技市值超过腾讯",
-        "url": "https://www.ifanr.com/1675193?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 21:35",
-        "source": "爱范儿",
-        "title": "9.99 万元起，EV 版 9 分钟充到 97%，秦 MAX 正式上市",
-        "url": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 20:46",
-        "source": "爱范儿",
-        "title": "首发体验 &#124; DeepSeek Harness 来了，它不想做下一个Codex",
-        "url": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 17:30",
-        "source": "少数派",
-        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
-        "url": "https://sspai.com/post/113225",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 16:55",
-        "source": "极客公园",
-        "title": "<![CDATA[实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新]]>",
-        "url": "http://www.geekpark.net/news/368777",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 16:01",
-        "source": "少数派",
-        "title": "从原理出发，高效搞定夏日营养冷食",
-        "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 15:40",
-        "source": "爱范儿",
-        "title": "打工人的办公三件套，被 WorkBuddy 用 AI 重做了",
-        "url": "https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 15:01",
-        "source": "少数派",
-        "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
-        "url": "https://sspai.com/post/113338",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 14:18",
-        "source": "极客公园",
-        "title": "<![CDATA[「美国豆包手机」全系涨价，新东西全留给了 Gemini]]>",
-        "url": "http://www.geekpark.net/news/368766",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 14:00",
-        "source": "爱范儿",
-        "title": "Pixel 11 上手：AI 不支棱，涨价不消停",
-        "url": "https://www.ifanr.com/1675041?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 12:01",
-        "source": "爱范儿",
-        "title": "具身智能迎来「DeepSeek 时刻」：国产机器人用更低成本反超 Figure AI",
-        "url": "https://www.ifanr.com/1675007?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 11:42",
-        "source": "爱范儿",
-        "title": "对话影石创始人刘靖康：全景相机的新范式，是「空间相机」",
-        "url": "https://www.ifanr.com/1675029?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-13 11:18",
-        "source": "少数派",
-        "title": "6 天时间丈量独库公路：我的平安骑行指南",
-        "url": "https://sspai.com/post/112873",
         "topic": "",
         "impact": "",
         "crosscheck": false
