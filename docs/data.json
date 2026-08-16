@@ -1,130 +1,40 @@
 {
-  "window_bjt": "2026-08-14 09:46 ～ 2026-08-15 09:46",
-  "generated_at_bjt": "2026-08-15 09:46",
+  "window_bjt": "2026-08-15 09:54 ～ 2026-08-16 09:54",
+  "generated_at_bjt": "2026-08-16 09:54",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-15 08:52",
+        "time": "2026-08-16 09:15",
         "source": "极客公园",
-        "title": "<![CDATA[智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/368849",
+        "title": "<![CDATA[Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭]]>",
+        "url": "http://www.geekpark.net/news/368854",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-15 08:40",
-        "source": "爱范儿",
-        "title": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
-        "url": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 21:55",
-        "source": "爱范儿",
-        "title": "23.98 万元起，大五座魏牌 V8X 上市，并非 V9X 的减法",
-        "url": "https://www.ifanr.com/1675246?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 18:44",
+        "time": "2026-08-15 16:46",
         "source": "极客公园",
-        "title": "<![CDATA[这家靠全景起步的公司，正在逐步让用户「忘掉相机」]]>",
-        "url": "http://www.geekpark.net/news/368847",
+        "title": "<![CDATA[3 个月烧掉 105 亿，腾讯急了]]>",
+        "url": "http://www.geekpark.net/news/368852",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-14 18:02",
+        "time": "2026-08-15 15:07",
+        "source": "少数派",
+        "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+        "url": "https://sspai.com/post/111974",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-15 14:41",
         "source": "极客公园",
-        "title": "<![CDATA[阿里云，接得住中国智驾吗？]]>",
-        "url": "http://www.geekpark.net/news/368846",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 17:50",
-        "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 9 部作品",
-        "url": "https://sspai.com/post/113459",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 17:44",
-        "source": "爱范儿",
-        "title": "实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键",
-        "url": "https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 15:00",
-        "source": "少数派",
-        "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
-        "url": "https://sspai.com/post/113416",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 14:00",
-        "source": "爱范儿",
-        "title": "首发 &#124; 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？",
-        "url": "https://www.ifanr.com/1675208?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 12:17",
-        "source": "极客公园",
-        "title": "<![CDATA[DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了]]>",
-        "url": "http://www.geekpark.net/news/368809",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 11:44",
-        "source": "少数派",
-        "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
-        "url": "https://sspai.com/post/111709",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 10:54",
-        "source": "少数派",
-        "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
-        "url": "https://sspai.com/post/112279",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 10:22",
-        "source": "爱范儿",
-        "title": "爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员",
-        "url": "https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-14 10:14",
-        "source": "爱范儿",
-        "title": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
-        "url": "https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "<![CDATA[当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题]]>",
+        "url": "http://www.geekpark.net/news/368851",
         "topic": "",
         "impact": "",
         "crosscheck": false
