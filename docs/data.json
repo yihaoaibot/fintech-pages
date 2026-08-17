@@ -1,40 +1,58 @@
 {
-  "window_bjt": "2026-08-15 09:54 ～ 2026-08-16 09:54",
-  "generated_at_bjt": "2026-08-16 09:54",
+  "window_bjt": "2026-08-16 09:52 ～ 2026-08-17 09:52",
+  "generated_at_bjt": "2026-08-17 09:52",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-16 09:15",
+        "time": "2026-08-17 08:29",
         "source": "极客公园",
-        "title": "<![CDATA[Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭]]>",
-        "url": "http://www.geekpark.net/news/368854",
+        "title": "<![CDATA[问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑]]>",
+        "url": "http://www.geekpark.net/news/368859",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-15 16:46",
-        "source": "极客公园",
-        "title": "<![CDATA[3 个月烧掉 105 亿，腾讯急了]]>",
-        "url": "http://www.geekpark.net/news/368852",
+        "time": "2026-08-17 08:22",
+        "source": "爱范儿",
+        "title": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+        "url": "https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-15 15:07",
+        "time": "2026-08-17 06:54",
         "source": "少数派",
-        "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
-        "url": "https://sspai.com/post/111974",
+        "title": "派早报：😭（放声大哭）成为最流行 emoji",
+        "url": "https://sspai.com/post/113524",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-15 14:41",
-        "source": "极客公园",
-        "title": "<![CDATA[当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题]]>",
-        "url": "http://www.geekpark.net/news/368851",
+        "time": "2026-08-16 22:47",
+        "source": "爱范儿",
+        "title": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+        "url": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-16 22:29",
+        "source": "爱范儿",
+        "title": "今年最激动人心的 AI 宣言，来自科技圈最不受待见的人",
+        "url": "https://www.ifanr.com/1674733?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-16 12:48",
+        "source": "少数派",
+        "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+        "url": "https://sspai.com/post/113495",
         "topic": "",
         "impact": "",
         "crosscheck": false
