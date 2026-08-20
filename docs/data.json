@@ -1,130 +1,139 @@
 {
-  "window_bjt": "2026-08-18 09:50 ～ 2026-08-19 09:50",
-  "generated_at_bjt": "2026-08-19 09:50",
+  "window_bjt": "2026-08-19 09:48 ～ 2026-08-20 09:48",
+  "generated_at_bjt": "2026-08-20 09:48",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-19 08:36",
-        "source": "爱范儿",
-        "title": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
-        "url": "https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-19 08:30",
+        "time": "2026-08-20 08:46",
         "source": "少数派",
-        "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
-        "url": "https://sspai.com/post/113607",
+        "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+        "url": "https://sspai.com/post/113638",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-19 08:23",
-        "source": "爱范儿",
-        "title": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
-        "url": "https://www.ifanr.com/1675531?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-19 08:10",
+        "time": "2026-08-20 08:39",
         "source": "极客公园",
-        "title": "<![CDATA[苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/368995",
+        "title": "<![CDATA[中国首次实现火箭陆地回收；宇树上市，市值最高超 4000 亿；蔡明同款机器人亮相，9.9 万元｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/369056",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-18 20:04",
+        "time": "2026-08-20 08:20",
         "source": "爱范儿",
-        "title": "网易传媒发布了「蜜蜂AI」 ：想探索 AI 与年轻化社区的新连接",
-        "url": "https://www.ifanr.com/1675521?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​",
+        "url": "https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-18 19:11",
-        "source": "爱范儿",
-        "title": "一台诞生于 AI 时代的电脑，该是什么样？",
-        "url": "https://www.ifanr.com/1675518?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-18 18:00",
-        "source": "爱范儿",
-        "title": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事",
-        "url": "https://www.ifanr.com/1675514?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-18 17:01",
-        "source": "少数派",
-        "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
-        "url": "https://sspai.com/post/113593",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-18 15:05",
-        "source": "少数派",
-        "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
-        "url": "https://sspai.com/post/113564",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-18 14:52",
-        "source": "爱范儿",
-        "title": "奔驰连发两款重磅油车：C 级全面焕新，国产 GLE 剑指 X5L",
-        "url": "https://www.ifanr.com/1675486?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-18 14:30",
-        "source": "少数派",
-        "title": "App+1 | 让任务栏更有用：WindowSill",
-        "url": "https://sspai.com/post/113438",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-18 13:56",
+        "time": "2026-08-19 20:29",
         "source": "极客公园",
-        "title": "<![CDATA[TikTok带货博主卷疯快递：三天，从深圳到伦敦]]>",
-        "url": "http://www.geekpark.net/news/368962",
+        "title": "<![CDATA[独家：��树上市庆功宴上，王兴兴首次明确「大脑」的技术路线]]>",
+        "url": "http://www.geekpark.net/news/369051",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-18 12:01",
+        "time": "2026-08-19 20:19",
+        "source": "极客公园",
+        "title": "<![CDATA[宇树往事]]>",
+        "url": "http://www.geekpark.net/news/369047",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 17:49",
         "source": "爱范儿",
-        "title": "Claude 给所有 AI 文字加了水印，全球用户彻底怒了！",
-        "url": "https://www.ifanr.com/1675465?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "预售 21.99 万元起，全新一代智己 L6 把全线控底盘带进 20 万级，还有一个高定限量版",
+        "url": "https://www.ifanr.com/1675639?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-18 10:52",
+        "time": "2026-08-19 17:39",
         "source": "少数派",
-        "title": "7月音乐精选：夏天赠予我们的 9 张专辑",
-        "url": "https://sspai.com/post/113454",
+        "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+        "url": "https://sspai.com/post/113618",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 15:50",
+        "source": "爱范儿",
+        "title": "制糖工厂发布「绿魔」细雳线 Pro：2m 主动式高速贴贴线，重塑专业体验",
+        "url": "https://www.ifanr.com/1675607?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 15:34",
+        "source": "爱范儿",
+        "title": "纯电 315km 的插混方盒子：钛 7 DM 长续航版上市，起售价 19.58 万元",
+        "url": "https://www.ifanr.com/1675594?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 15:20",
+        "source": "少数派",
+        "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+        "url": "https://sspai.com/post/113588",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 14:20",
+        "source": "爱范儿",
+        "title": "预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」",
+        "url": "https://www.ifanr.com/1675579?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 12:02",
+        "source": "极客公园",
+        "title": "<![CDATA[马斯克带火的太空算力领域，传一个 800MB 模型上天要四周]]>",
+        "url": "http://www.geekpark.net/news/369013",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 11:28",
+        "source": "爱范儿",
+        "title": "OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段",
+        "url": "https://www.ifanr.com/1675512?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 10:54",
+        "source": "少数派",
+        "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
+        "url": "https://sspai.com/post/111936",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-19 10:33",
+        "source": "极客公园",
+        "title": "<![CDATA[黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store]]>",
+        "url": "http://www.geekpark.net/news/369003",
         "topic": "",
         "impact": "",
         "crosscheck": false
