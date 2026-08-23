@@ -1,184 +1,40 @@
 {
-  "window_bjt": "2026-08-21 09:47 ～ 2026-08-22 09:47",
-  "generated_at_bjt": "2026-08-22 09:47",
+  "window_bjt": "2026-08-22 09:56 ～ 2026-08-23 09:56",
+  "generated_at_bjt": "2026-08-23 09:56",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-22 08:50",
-        "source": "爱范儿",
-        "title": "早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」",
-        "url": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-22 08:23",
+        "time": "2026-08-23 08:20",
         "source": "极客公园",
-        "title": "<![CDATA[微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车]]>",
-        "url": "http://www.geekpark.net/news/369206",
+        "title": "<![CDATA[DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络]]>",
+        "url": "http://www.geekpark.net/news/369215",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-21 19:32",
-        "source": "爱范儿",
-        "title": "19.68 万元起，华为乾崑双智上车，全新深蓝 G318 想从山野开回城市",
-        "url": "https://www.ifanr.com/1676102?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 19:32",
-        "source": "爱范儿",
-        "title": "捷尼赛思 GV90 正式亮相，全尺寸对开门量产，比劳斯莱斯更激进",
-        "url": "https://www.ifanr.com/1676069?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 18:58",
+        "time": "2026-08-22 18:07",
         "source": "极客公园",
-        "title": "<![CDATA[MiniMax，做视频领域的 Claude Code 的野心已经藏不住了]]>",
-        "url": "http://www.geekpark.net/news/369201",
+        "title": "<![CDATA[越会用 AI 的人，学习能力退化得越快]]>",
+        "url": "http://www.geekpark.net/news/369212",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-21 18:30",
+        "time": "2026-08-22 18:00",
         "source": "爱范儿",
-        "title": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕",
-        "url": "https://www.ifanr.com/1676070?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "Windows 是 AI PC 路上的绊脚石",
+        "url": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-21 18:23",
-        "source": "爱范儿",
-        "title": "突发&#124; DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
-        "url": "https://www.ifanr.com/1676067?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 18:15",
-        "source": "极客公园",
-        "title": "<![CDATA[从单点突破到全数 SOTA，阿里打响「模型团战」第一枪]]>",
-        "url": "http://www.geekpark.net/news/369200",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 18:08",
+        "time": "2026-08-22 11:00",
         "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 10 部作品",
-        "url": "https://sspai.com/post/113693",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 17:32",
-        "source": "爱范儿",
-        "title": "微信 AI 修图抢先体验：能用够用，但还不够好用",
-        "url": "https://www.ifanr.com/1676048?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 17:06",
-        "source": "爱范儿",
-        "title": "你的下一台 Pocket，能飞",
-        "url": "https://www.ifanr.com/1676006?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 16:45",
-        "source": "爱范儿",
-        "title": "「最便宜的问界」来了，车长 1.5 米，小蓝灯也没省下",
-        "url": "https://www.ifanr.com/1676005?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 15:17",
-        "source": "爱范儿",
-        "title": "比亚迪大汉预售价 24.99 万元起！第三代唐同步亮相，内饰大变样",
-        "url": "https://www.ifanr.com/1675982?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 14:15",
-        "source": "极客公园",
-        "title": "<![CDATA[前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资]]>",
-        "url": "http://www.geekpark.net/news/369162",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 14:12",
-        "source": "极客公园",
-        "title": "<![CDATA[小红书悄悄开源发布了自己的大模型，内容平台也要造底座]]>",
-        "url": "http://www.geekpark.net/news/369161",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 13:53",
-        "source": "爱范儿",
-        "title": "苹果 VR 部门再裁 60 人，VisionPro 2 真悬了？",
-        "url": "https://www.ifanr.com/1675978?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 11:39",
-        "source": "爱范儿",
-        "title": "苹果 Apple Music 不想放过任何一首 AI 音乐",
-        "url": "https://www.ifanr.com/1675958?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 11:34",
-        "source": "爱范儿",
-        "title": "ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切",
-        "url": "https://www.ifanr.com/1675954?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 11:05",
-        "source": "少数派",
-        "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
-        "url": "https://sspai.com/post/113586",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-21 10:43",
-        "source": "爱范儿",
-        "title": "零基础速通DeepSeek Harness，带你玩转赛博乐高",
-        "url": "https://www.ifanr.com/1675781?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+        "url": "https://sspai.com/post/113675",
         "topic": "",
         "impact": "",
         "crosscheck": false
