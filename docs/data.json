@@ -1,40 +1,76 @@
 {
-  "window_bjt": "2026-08-22 09:56 ～ 2026-08-23 09:56",
-  "generated_at_bjt": "2026-08-23 09:56",
+  "window_bjt": "2026-08-23 09:54 ～ 2026-08-24 09:54",
+  "generated_at_bjt": "2026-08-24 09:54",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-23 08:20",
+        "time": "2026-08-24 08:40",
         "source": "极客公园",
-        "title": "<![CDATA[DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络]]>",
-        "url": "http://www.geekpark.net/news/369215",
+        "title": "<![CDATA[传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军]]>",
+        "url": "http://www.geekpark.net/news/369224",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-22 18:07",
-        "source": "极客公园",
-        "title": "<![CDATA[越会用 AI 的人，学习能力退化得越快]]>",
-        "url": "http://www.geekpark.net/news/369212",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-22 18:00",
+        "time": "2026-08-24 08:00",
         "source": "爱范儿",
-        "title": "Windows 是 AI PC 路上的绊脚石",
-        "url": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+        "url": "https://www.ifanr.com/1676314?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-22 11:00",
+        "time": "2026-08-24 07:13",
         "source": "少数派",
-        "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-        "url": "https://sspai.com/post/113675",
+        "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+        "url": "https://sspai.com/post/113767",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-23 22:35",
+        "source": "极客公园",
+        "title": "<![CDATA[Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻]]>",
+        "url": "http://www.geekpark.net/news/369223",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-23 22:33",
+        "source": "极客公园",
+        "title": "<![CDATA[世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」]]>",
+        "url": "http://www.geekpark.net/news/369221",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-23 15:25",
+        "source": "少数派",
+        "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+        "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-23 11:53",
+        "source": "爱范儿",
+        "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+        "url": "https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-23 11:00",
+        "source": "少数派",
+        "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+        "url": "https://sspai.com/post/113002",
         "topic": "",
         "impact": "",
         "crosscheck": false
