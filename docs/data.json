@@ -1,139 +1,121 @@
 {
-  "window_bjt": "2026-08-26 17:36 ～ 2026-08-27 17:36",
-  "generated_at_bjt": "2026-08-27 17:36",
+  "window_bjt": "2026-08-27 19:18 ～ 2026-08-28 19:18",
+  "generated_at_bjt": "2026-08-28 19:18",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-27 16:48",
-        "source": "爱范儿",
-        "title": "智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌",
-        "url": "https://www.ifanr.com/1676970?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-27 15:33",
-        "source": "极客公园",
-        "title": "<![CDATA[影响了两代人后，Meta 被判赔 180 亿美元]]>",
-        "url": "http://www.geekpark.net/news/369463",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-27 15:28",
+        "time": "2026-08-28 17:44",
         "source": "少数派",
-        "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
-        "url": "https://sspai.com/post/89194",
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "url": "https://sspai.com/post/113944",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-27 15:24",
-        "source": "爱范儿",
-        "title": "OpenAI 的中场战事",
-        "url": "https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-27 15:09",
-        "source": "极客公园",
-        "title": "<![CDATA[129 亿美元，英伟达拿下 Hugging Face]]>",
-        "url": "http://www.geekpark.net/news/369458",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-27 14:25",
-        "source": "爱范儿",
-        "title": "苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing",
-        "url": "https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-27 11:01",
+        "time": "2026-08-28 15:04",
         "source": "少数派",
-        "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
-        "url": "https://sspai.com/post/113222",
+        "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+        "url": "https://sspai.com/post/68623",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-27 10:48",
-        "source": "爱范儿",
-        "title": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的",
-        "url": "https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-27 08:41",
-        "source": "爱范儿",
-        "title": "早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场",
-        "url": "https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-27 08:27",
+        "time": "2026-08-28 13:10",
         "source": "极客公园",
-        "title": "<![CDATA[Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/369414",
+        "title": "<![CDATA[世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」]]>",
+        "url": "http://www.geekpark.net/news/369508",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-27 07:33",
+        "time": "2026-08-28 12:00",
         "source": "少数派",
-        "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
-        "url": "https://sspai.com/post/113873",
+        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+        "url": "https://sspai.com/post/113883",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-26 20:07",
-        "source": "爱范儿",
-        "title": "AI 开始给自己造芯了，OpenAI 只用了九个月",
-        "url": "https://www.ifanr.com/1676824?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-08-28 09:56",
+        "source": "少数派",
+        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+        "url": "https://sspai.com/post/113909",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-26 20:02",
+        "time": "2026-08-28 09:00",
         "source": "爱范儿",
-        "title": "科隆游戏展 2026：米哈游出动作游戏，杰洛特又要回来了",
-        "url": "https://www.ifanr.com/1676805?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测",
+        "url": "https://www.ifanr.com/1677161?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-26 18:59",
-        "source": "爱范儿",
-        "title": "特斯拉辟谣数据中心「人去楼空」，但 FSD 仍遥遥无期，特斯拉车主还要等多久？",
-        "url": "https://www.ifanr.com/1676793?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-08-28 08:33",
+        "source": "极客公园",
+        "title": "<![CDATA[特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道]]>",
+        "url": "http://www.geekpark.net/news/369481",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-26 17:46",
+        "time": "2026-08-28 08:29",
+        "source": "少数派",
+        "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+        "url": "https://sspai.com/post/113922",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-28 08:09",
         "source": "爱范儿",
-        "title": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？",
-        "url": "https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店",
+        "url": "https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-28 07:43",
+        "source": "爱范儿",
+        "title": "《GTA 6》公开 26 分钟实机玩法，这个游戏真值得等 13 年",
+        "url": "https://www.ifanr.com/1677186?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-27 21:42",
+        "source": "爱范儿",
+        "title": "风云 T7 上市：9.49 万元起、全系 600km，电池出事赔新车",
+        "url": "https://www.ifanr.com/1677135?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-27 21:36",
+        "source": "爱范儿",
+        "title": "小鹏新版 VLA 9 月实装：记住过去 30 秒，预判未来 6 秒，开始在「时间里」开车",
+        "url": "https://www.ifanr.com/1677118?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-27 19:57",
+        "source": "极客公园",
+        "title": "<![CDATA[一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼]]>",
+        "url": "http://www.geekpark.net/news/369478",
         "topic": "",
         "impact": "",
         "crosscheck": false
