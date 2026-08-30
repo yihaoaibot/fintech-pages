@@ -1,67 +1,22 @@
 {
-  "window_bjt": "2026-08-28 14:59 ～ 2026-08-29 14:59",
-  "generated_at_bjt": "2026-08-29 14:59",
+  "window_bjt": "2026-08-29 13:18 ～ 2026-08-30 13:18",
+  "generated_at_bjt": "2026-08-30 13:18",
   "buckets": {
     "us-ai-chip": [
+      {
+        "time": "2026-08-30 08:28",
+        "source": "极客公园",
+        "title": "<![CDATA[OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元]]>",
+        "url": "http://www.geekpark.net/news/369551",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
       {
         "time": "2026-08-29 13:58",
         "source": "极客公园",
         "title": "<![CDATA[腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷]]>",
         "url": "http://www.geekpark.net/news/369550",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-29 09:20",
-        "source": "少数派",
-        "title": "2026 烟灶选购指南",
-        "url": "https://sspai.com/post/112775",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-29 08:32",
-        "source": "极客公园",
-        "title": "<![CDATA[Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃]]>",
-        "url": "http://www.geekpark.net/news/369549",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-29 08:21",
-        "source": "爱范儿",
-        "title": "早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万",
-        "url": "https://www.ifanr.com/1676877?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-28 21:02",
-        "source": "极客公园",
-        "title": "<![CDATA[Coding 自由之后，人开始成为最大的瓶颈]]>",
-        "url": "http://www.geekpark.net/news/369547",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-28 17:44",
-        "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 10 部作品",
-        "url": "https://sspai.com/post/113944",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-28 15:04",
-        "source": "少数派",
-        "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
-        "url": "https://sspai.com/post/68623",
         "topic": "",
         "impact": "",
         "crosscheck": false
