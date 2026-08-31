@@ -1,22 +1,76 @@
 {
-  "window_bjt": "2026-08-29 13:18 ～ 2026-08-30 13:18",
-  "generated_at_bjt": "2026-08-30 13:18",
+  "window_bjt": "2026-08-30 13:26 ～ 2026-08-31 13:26",
+  "generated_at_bjt": "2026-08-31 13:26",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-08-30 08:28",
-        "source": "极客公园",
-        "title": "<![CDATA[OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元]]>",
-        "url": "http://www.geekpark.net/news/369551",
+        "time": "2026-08-31 10:53",
+        "source": "少数派",
+        "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
+        "url": "https://sspai.com/post/113827",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-29 13:58",
+        "time": "2026-08-31 09:14",
         "source": "极客公园",
-        "title": "<![CDATA[腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷]]>",
-        "url": "http://www.geekpark.net/news/369550",
+        "title": "<![CDATA[编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结]]>",
+        "url": "http://www.geekpark.net/news/369517",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-31 08:02",
+        "source": "爱范儿",
+        "title": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+        "url": "https://www.ifanr.com/1677344?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-31 06:59",
+        "source": "少数派",
+        "title": "派早报：GTA 6 引发请假玩游戏热潮",
+        "url": "https://sspai.com/post/114022",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-31 04:25",
+        "source": "极客公园",
+        "title": "<![CDATA[折叠屏的尽头，是不折叠：华为 Pura X View 体验]]>",
+        "url": "http://www.geekpark.net/news/369558",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-30 18:58",
+        "source": "极客公园",
+        "title": "<![CDATA[造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌]]>",
+        "url": "http://www.geekpark.net/news/369556",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-30 18:53",
+        "source": "极客公园",
+        "title": "<![CDATA[OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了]]>",
+        "url": "http://www.geekpark.net/news/369555",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-08-30 15:00",
+        "source": "少数派",
+        "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
+        "url": "https://sspai.com/post/113974",
         "topic": "",
         "impact": "",
         "crosscheck": false
