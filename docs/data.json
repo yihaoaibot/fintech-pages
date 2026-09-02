@@ -1,184 +1,130 @@
 {
-  "window_bjt": "2026-08-31 13:01 ～ 2026-09-01 13:01",
-  "generated_at_bjt": "2026-09-01 13:01",
+  "window_bjt": "2026-09-01 12:24 ～ 2026-09-02 12:24",
+  "generated_at_bjt": "2026-09-02 12:24",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-01 11:00",
+        "time": "2026-09-02 12:15",
+        "source": "爱范儿",
+        "title": "13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？",
+        "url": "https://www.ifanr.com/1677973?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-02 11:00",
         "source": "少数派",
-        "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-        "url": "https://sspai.com/post/111081",
+        "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+        "url": "https://sspai.com/post/113581",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-01 08:45",
+        "time": "2026-09-02 08:18",
         "source": "爱范儿",
-        "title": "像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功",
-        "url": "https://www.ifanr.com/1677538?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布",
+        "url": "https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-01 08:20",
+        "time": "2026-09-02 08:13",
         "source": "极客公园",
-        "title": "<![CDATA[库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/369634",
+        "title": "<![CDATA[苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线]]>",
+        "url": "http://www.geekpark.net/news/369690",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-01 08:17",
+        "time": "2026-09-02 07:58",
         "source": "少数派",
-        "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
-        "url": "https://sspai.com/post/114055",
+        "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+        "url": "https://sspai.com/post/114093",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-01 08:16",
+        "time": "2026-09-01 23:44",
         "source": "爱范儿",
-        "title": "早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试",
-        "url": "https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "3899 元！戴森发布 AI 牙刷：有水牙线不够，还要塞个摄像头",
+        "url": "https://www.ifanr.com/1678053?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-01 07:50",
+        "time": "2026-09-01 20:31",
         "source": "爱范儿",
-        "title": "NASA 的「超广角」太空望远镜上天了，5 年要扫描 10 亿个星系",
-        "url": "https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "地表最强四缸守不住了！丰田 GR 硬刚 AMG，500 马力小跑车即将入场",
+        "url": "https://www.ifanr.com/1677994?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-31 20:01",
-        "source": "极客公园",
-        "title": "<![CDATA[流量红利退潮，快手想用 AI 和老友们破局]]>",
-        "url": "http://www.geekpark.net/news/369631",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 18:49",
+        "time": "2026-09-01 18:28",
         "source": "爱范儿",
-        "title": "一台 SUV，需要装下年轻人还没发生的生活",
-        "url": "https://www.ifanr.com/1677553?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "Lovart 悄悄大更新，这一次轮到 AI 适应设计师了",
+        "url": "https://www.ifanr.com/1677574?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-31 18:48",
+        "time": "2026-09-01 18:23",
+        "source": "爱范儿",
+        "title": "自动驾驶强制国标来了：享界智界提前押题，今明两年 L3 密集上车",
+        "url": "https://www.ifanr.com/1677995?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-01 18:04",
+        "source": "爱范儿",
+        "title": "苹果被骂惨的设计，在 AI 时代迎来高光时刻",
+        "url": "https://www.ifanr.com/1677890?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-01 17:00",
         "source": "少数派",
-        "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
-        "url": "https://sspai.com/post/114043",
+        "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+        "url": "https://sspai.com/post/114078",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-31 18:05",
+        "time": "2026-09-01 15:25",
+        "source": "爱范儿",
+        "title": "我提前体验了 DLSS 5，它居然把 GTA5 变成了 GTA6？",
+        "url": "https://www.ifanr.com/1677509?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-01 15:18",
         "source": "少数派",
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/114041",
+        "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+        "url": "https://sspai.com/post/114071",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-08-31 18:00",
-        "source": "爱范儿",
-        "title": "折叠屏 iPhone 永远不该配手写笔｜硬哲学",
-        "url": "https://www.ifanr.com/1677413?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 17:14",
-        "source": "爱范儿",
-        "title": "500 万人围观，AI 终于造出了「无限泔水机」",
-        "url": "https://www.ifanr.com/1677378?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 17:09",
+        "time": "2026-09-01 15:00",
         "source": "少数派",
-        "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-        "url": "https://sspai.com/prime/story/home-made-beverages-4",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 16:40",
-        "source": "极客公园",
-        "title": "<![CDATA[AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/369559",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 16:34",
-        "source": "爱范儿",
-        "title": "制糖工厂定制送礼｜拒绝千篇一律，让你的心意真正被记住",
-        "url": "https://www.ifanr.com/1677398?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 15:16",
-        "source": "极客公园",
-        "title": "<![CDATA[OpenAI 内部，AI 建立了三代「文明」  ]]>",
-        "url": "http://www.geekpark.net/news/369610",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 15:12",
-        "source": "极客公园",
-        "title": "<![CDATA[人类，越来越难理解 AI]]>",
-        "url": "http://www.geekpark.net/news/369609",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 15:09",
-        "source": "极客公园",
-        "title": "<![CDATA[399 美元的小黄鸭，藏着 Hugging Face 最大的野心]]>",
-        "url": "http://www.geekpark.net/news/369608",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 14:57",
-        "source": "少数派",
-        "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
-        "url": "https://sspai.com/post/114027",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-08-31 13:58",
-        "source": "爱范儿",
-        "title": "织物座椅、砍掉氛围灯，「丐版」特斯拉 Model 3 登陆香港，定价 20.5 万港元",
-        "url": "https://www.ifanr.com/1677366?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "开学季｜值得关注的官翻渠道汇总（2026）",
+        "url": "https://sspai.com/post/114062",
         "topic": "",
         "impact": "",
         "crosscheck": false
