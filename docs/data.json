@@ -1,121 +1,148 @@
 {
-  "window_bjt": "2026-09-02 12:17 ～ 2026-09-03 12:17",
-  "generated_at_bjt": "2026-09-03 12:17",
+  "window_bjt": "2026-09-03 12:24 ～ 2026-09-04 12:24",
+  "generated_at_bjt": "2026-09-04 12:24",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-03 08:31",
+        "time": "2026-09-04 10:33",
+        "source": "爱范儿",
+        "title": "特斯拉新车发布！Cybercab 正式投入运营，马斯克开始接单了",
+        "url": "https://www.ifanr.com/1678435?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-04 09:24",
+        "source": "爱范儿",
+        "title": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+        "url": "https://www.ifanr.com/1678332?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-04 08:47",
         "source": "少数派",
-        "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-        "url": "https://sspai.com/post/114113",
+        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
+        "url": "https://sspai.com/post/114164",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-03 08:22",
+        "time": "2026-09-04 08:36",
         "source": "爱范儿",
-        "title": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
-        "url": "https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "GPT-6 Astra 正式发布：性能 AGI，贵到要负债",
+        "url": "https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-03 08:03",
+        "time": "2026-09-04 08:25",
         "source": "极客公园",
-        "title": "<![CDATA[马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/369745",
+        "title": "<![CDATA[OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道]]>",
+        "url": "http://www.geekpark.net/news/369801",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-03 06:52",
+        "time": "2026-09-04 08:10",
         "source": "爱范儿",
-        "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-        "url": "https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "url": "https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-02 22:28",
+        "time": "2026-09-04 07:03",
         "source": "爱范儿",
-        "title": "50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版",
-        "url": "https://www.ifanr.com/1678181?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+        "url": "https://www.ifanr.com/1678196?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-02 19:48",
+        "time": "2026-09-04 06:48",
+        "source": "极客公园",
+        "title": "<![CDATA[GPT-6 曝光， OpenAI 总裁说：AGI 来了]]>",
+        "url": "http://www.geekpark.net/news/369800",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-03 23:25",
+        "source": "极客公园",
+        "title": "<![CDATA[逛完 WRC，我们发现机器人行业最该回答的 5 个问题]]>",
+        "url": "http://www.geekpark.net/news/369388",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-03 19:20",
         "source": "爱范儿",
-        "title": "比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起",
-        "url": "https://www.ifanr.com/1678169?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "730 马力+三把锁！传祺越 7 预售 17.18 万元起",
+        "url": "https://www.ifanr.com/1678320?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-02 18:30",
-        "source": "爱范儿",
-        "title": "李飞飞的 World Labs，把赛博朋克的「超梦」做出来了",
-        "url": "https://www.ifanr.com/1678150?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-02 17:40",
+        "time": "2026-09-03 18:18",
         "source": "少数派",
-        "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-        "url": "https://sspai.com/post/114084",
+        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/114154",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-02 15:31",
-        "source": "爱范儿",
-        "title": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
-        "url": "https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-02 15:22",
+        "time": "2026-09-03 15:00",
         "source": "少数派",
-        "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
-        "url": "https://sspai.com/post/80562",
+        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+        "url": "https://sspai.com/post/113998",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-02 14:59",
+        "time": "2026-09-03 14:05",
         "source": "极客公园",
-        "title": "<![CDATA[对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型]]>",
-        "url": "http://www.geekpark.net/news/369724",
+        "title": "<![CDATA[成立不到一年连融三轮，这个睡眠 AI 产品「火」了]]>",
+        "url": "http://www.geekpark.net/news/369768",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-02 14:54",
+        "time": "2026-09-03 13:54",
         "source": "极客公园",
-        "title": "<![CDATA[从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价]]>",
-        "url": "http://www.geekpark.net/news/369719",
+        "title": "<![CDATA[智谱和 MiniMax，把大模型做成了两种生意]]>",
+        "url": "http://www.geekpark.net/news/369775",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-02 14:49",
+        "time": "2026-09-03 13:30",
         "source": "极客公园",
-        "title": "<![CDATA[硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文]]>",
-        "url": "http://www.geekpark.net/news/369718",
+        "title": "<![CDATA[当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向]]>",
+        "url": "http://www.geekpark.net/news/369777",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-03 12:52",
+        "source": "极客公园",
+        "title": "<![CDATA[AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」]]>",
+        "url": "http://www.geekpark.net/news/369767",
         "topic": "",
         "impact": "",
         "crosscheck": false
