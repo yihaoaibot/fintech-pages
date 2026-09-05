@@ -1,148 +1,94 @@
 {
-  "window_bjt": "2026-09-03 12:24 ～ 2026-09-04 12:24",
-  "generated_at_bjt": "2026-09-04 12:24",
+  "window_bjt": "2026-09-04 12:20 ～ 2026-09-05 12:20",
+  "generated_at_bjt": "2026-09-05 12:20",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-04 10:33",
+        "time": "2026-09-05 08:44",
         "source": "爱范儿",
-        "title": "特斯拉新车发布！Cybercab 正式投入运营，马斯克开始接单了",
-        "url": "https://www.ifanr.com/1678435?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
+        "url": "https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-04 09:24",
-        "source": "爱范儿",
-        "title": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
-        "url": "https://www.ifanr.com/1678332?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 08:47",
-        "source": "少数派",
-        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
-        "url": "https://sspai.com/post/114164",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 08:36",
-        "source": "爱范儿",
-        "title": "GPT-6 Astra 正式发布：性能 AGI，贵到要负债",
-        "url": "https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 08:25",
+        "time": "2026-09-05 08:24",
         "source": "极客公园",
-        "title": "<![CDATA[OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/369801",
+        "title": "<![CDATA[传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元]]>",
+        "url": "http://www.geekpark.net/news/369871",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-04 08:10",
+        "time": "2026-09-04 21:09",
         "source": "爱范儿",
-        "title": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
-        "url": "https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "24.99 万元起、全系四激光雷达，启境 GX7 还准备了一件「午休神器」",
+        "url": "https://www.ifanr.com/1678459?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-04 07:03",
-        "source": "爱范儿",
-        "title": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
-        "url": "https://www.ifanr.com/1678196?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 06:48",
+        "time": "2026-09-04 17:47",
         "source": "极客公园",
         "title": "<![CDATA[GPT-6 曝光， OpenAI 总裁说：AGI 来了]]>",
-        "url": "http://www.geekpark.net/news/369800",
+        "url": "http://www.geekpark.net/news/369867",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-03 23:25",
+        "time": "2026-09-04 17:32",
+        "source": "少数派",
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "url": "https://sspai.com/post/114175",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-04 16:37",
         "source": "极客公园",
-        "title": "<![CDATA[逛完 WRC，我们发现机器人行业最该回答的 5 个问题]]>",
-        "url": "http://www.geekpark.net/news/369388",
+        "title": "<![CDATA[对话 Sharpa 李一帆：通用机器人要么全能，要么无能]]>",
+        "url": "http://www.geekpark.net/news/369851",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-03 19:20",
+        "time": "2026-09-04 16:33",
+        "source": "极客公园",
+        "title": "<![CDATA[梅卡曼德上市，具身智能又跑出一家百亿公司]]>",
+        "url": "http://www.geekpark.net/news/369850",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-04 15:11",
+        "source": "少数派",
+        "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+        "url": "https://sspai.com/post/114110",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-04 15:01",
+        "source": "少数派",
+        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+        "url": "https://sspai.com/post/114117",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-04 12:57",
         "source": "爱范儿",
-        "title": "730 马力+三把锁！传祺越 7 预售 17.18 万元起",
-        "url": "https://www.ifanr.com/1678320?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-03 18:18",
-        "source": "少数派",
-        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-        "url": "https://sspai.com/post/114154",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-03 15:00",
-        "source": "少数派",
-        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
-        "url": "https://sspai.com/post/113998",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-03 14:05",
-        "source": "极客公园",
-        "title": "<![CDATA[成立不到一年连融三轮，这个睡眠 AI 产品「火」了]]>",
-        "url": "http://www.geekpark.net/news/369768",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-03 13:54",
-        "source": "极客公园",
-        "title": "<![CDATA[智谱和 MiniMax，把大模型做成了两种生意]]>",
-        "url": "http://www.geekpark.net/news/369775",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-03 13:30",
-        "source": "极客公园",
-        "title": "<![CDATA[当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向]]>",
-        "url": "http://www.geekpark.net/news/369777",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-03 12:52",
-        "source": "极客公园",
-        "title": "<![CDATA[AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」]]>",
-        "url": "http://www.geekpark.net/news/369767",
+        "title": "神行者 8 上市 30.99 万元起，全系双电机+后轮转向，还在安全上玩出了新花样",
+        "url": "https://www.ifanr.com/1678333?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
