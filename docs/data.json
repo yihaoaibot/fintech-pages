@@ -1,94 +1,58 @@
 {
-  "window_bjt": "2026-09-04 12:20 ～ 2026-09-05 12:20",
-  "generated_at_bjt": "2026-09-05 12:20",
+  "window_bjt": "2026-09-05 12:31 ～ 2026-09-06 12:31",
+  "generated_at_bjt": "2026-09-06 12:31",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-05 08:44",
+        "time": "2026-09-06 08:06",
+        "source": "极客公园",
+        "title": "<![CDATA[传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站]]>",
+        "url": "http://www.geekpark.net/news/369875",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-05 17:28",
         "source": "爱范儿",
-        "title": "早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
-        "url": "https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱",
+        "url": "https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-05 08:24",
-        "source": "极客公园",
-        "title": "<![CDATA[传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元]]>",
-        "url": "http://www.geekpark.net/news/369871",
+        "time": "2026-09-05 16:00",
+        "source": "少数派",
+        "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+        "url": "https://sspai.com/post/114040",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-04 21:09",
+        "time": "2026-09-05 15:08",
         "source": "爱范儿",
-        "title": "24.99 万元起、全系四激光雷达，启境 GX7 还准备了一件「午休神器」",
-        "url": "https://www.ifanr.com/1678459?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学",
+        "url": "https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-04 17:47",
-        "source": "极客公园",
-        "title": "<![CDATA[GPT-6 曝光， OpenAI 总裁说：AGI 来了]]>",
-        "url": "http://www.geekpark.net/news/369867",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 17:32",
-        "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 8 部作品",
-        "url": "https://sspai.com/post/114175",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 16:37",
-        "source": "极客公园",
-        "title": "<![CDATA[对话 Sharpa 李一帆：通用机器人要么全能，要么无能]]>",
-        "url": "http://www.geekpark.net/news/369851",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 16:33",
-        "source": "极客公园",
-        "title": "<![CDATA[梅卡曼德上市，具身智能又跑出一家百亿公司]]>",
-        "url": "http://www.geekpark.net/news/369850",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 15:11",
-        "source": "少数派",
-        "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
-        "url": "https://sspai.com/post/114110",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 15:01",
-        "source": "少数派",
-        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
-        "url": "https://sspai.com/post/114117",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-04 12:57",
+        "time": "2026-09-05 13:37",
         "source": "爱范儿",
-        "title": "神行者 8 上市 30.99 万元起，全系双电机+后轮转向，还在安全上玩出了新花样",
-        "url": "https://www.ifanr.com/1678333?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了",
+        "url": "https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-05 12:59",
+        "source": "极客公园",
+        "title": "<![CDATA[互联网最古老的恐惧，被 AI 复活了]]>",
+        "url": "http://www.geekpark.net/news/369873",
         "topic": "",
         "impact": "",
         "crosscheck": false
