@@ -1,58 +1,67 @@
 {
-  "window_bjt": "2026-09-05 12:31 ～ 2026-09-06 12:31",
-  "generated_at_bjt": "2026-09-06 12:31",
+  "window_bjt": "2026-09-06 12:30 ～ 2026-09-07 12:30",
+  "generated_at_bjt": "2026-09-07 12:30",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-06 08:06",
-        "source": "极客公园",
-        "title": "<![CDATA[传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站]]>",
-        "url": "http://www.geekpark.net/news/369875",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-05 17:28",
-        "source": "爱范儿",
-        "title": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱",
-        "url": "https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-05 16:00",
+        "time": "2026-09-07 11:10",
         "source": "少数派",
-        "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
-        "url": "https://sspai.com/post/114040",
+        "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+        "url": "https://sspai.com/post/114103",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-05 15:08",
-        "source": "爱范儿",
-        "title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学",
-        "url": "https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-05 13:37",
-        "source": "爱范儿",
-        "title": "苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了",
-        "url": "https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-05 12:59",
+        "time": "2026-09-07 08:55",
         "source": "极客公园",
-        "title": "<![CDATA[互联网最古老的恐惧，被 AI 复活了]]>",
-        "url": "http://www.geekpark.net/news/369873",
+        "title": "<![CDATA[雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道]]>",
+        "url": "http://www.geekpark.net/news/369884",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 08:20",
+        "source": "少数派",
+        "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+        "url": "https://sspai.com/post/114250",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 08:10",
+        "source": "爱范儿",
+        "title": "早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色",
+        "url": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-06 18:30",
+        "source": "爱范儿",
+        "title": "专访康宁 CCO 李汉超：175 年以来，康宁始终是一家创新材料公司",
+        "url": "https://www.ifanr.com/1678257?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-06 15:00",
+        "source": "少数派",
+        "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+        "url": "https://sspai.com/post/114076",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-06 14:00",
+        "source": "爱范儿",
+        "title": "AI 降低了创造的门槛，B 站则想放大创造的回声",
+        "url": "https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
