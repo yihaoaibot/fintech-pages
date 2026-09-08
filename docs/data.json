@@ -1,67 +1,184 @@
 {
-  "window_bjt": "2026-09-06 12:30 ～ 2026-09-07 12:30",
-  "generated_at_bjt": "2026-09-07 12:30",
+  "window_bjt": "2026-09-07 12:28 ～ 2026-09-08 12:28",
+  "generated_at_bjt": "2026-09-08 12:28",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-07 11:10",
+        "time": "2026-09-08 11:06",
         "source": "少数派",
-        "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
-        "url": "https://sspai.com/post/114103",
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "url": "https://sspai.com/post/113299",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-07 08:55",
+        "time": "2026-09-08 11:06",
+        "source": "爱范儿",
+        "title": "AI 开始「互发微信」了，谁来管管它们？&#124; AI 器物志",
+        "url": "https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-08 10:00",
+        "source": "爱范儿",
+        "title": "手机影像的下半场，是成就作品",
+        "url": "https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-08 10:00",
+        "source": "爱范儿",
+        "title": "敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测",
+        "url": "https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-08 08:34",
         "source": "极客公园",
-        "title": "<![CDATA[雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/369884",
+        "title": "<![CDATA[传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机]]>",
+        "url": "http://www.geekpark.net/news/369965",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-07 08:20",
+        "time": "2026-09-08 08:14",
+        "source": "爱范儿",
+        "title": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
+        "url": "https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-08 08:07",
         "source": "少数派",
-        "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-        "url": "https://sspai.com/post/114250",
+        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+        "url": "https://sspai.com/post/114307",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-07 08:10",
+        "time": "2026-09-07 21:01",
+        "source": "极客公园",
+        "title": "<![CDATA[AI 时代，「种草」这件事会变成什么样？]]>",
+        "url": "http://www.geekpark.net/news/369962",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 18:40",
         "source": "爱范儿",
-        "title": "早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色",
-        "url": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "url": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-06 18:30",
+        "time": "2026-09-07 18:39",
         "source": "爱范儿",
-        "title": "专访康宁 CCO 李汉超：175 年以来，康宁始终是一家创新材料公司",
-        "url": "https://www.ifanr.com/1678257?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花",
+        "url": "https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-06 15:00",
+        "time": "2026-09-07 18:36",
+        "source": "爱范儿",
+        "title": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+        "url": "https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 18:32",
+        "source": "极客公园",
+        "title": "<![CDATA[判断用不用你的软件，Agent 只需 500 个 Token]]>",
+        "url": "http://www.geekpark.net/news/369960",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 18:26",
+        "source": "极客公园",
+        "title": "<![CDATA[童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」]]>",
+        "url": "http://www.geekpark.net/news/369959",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 18:08",
         "source": "少数派",
-        "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
-        "url": "https://sspai.com/post/114076",
+        "title": "派评｜近期值得关注的 App",
+        "url": "https://sspai.com/post/114288",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-06 14:00",
+        "time": "2026-09-07 17:29",
+        "source": "极客公园",
+        "title": "<![CDATA[「AI Native 」不是魔法，「创业者」这三个字依旧厚重]]>",
+        "url": "http://www.geekpark.net/news/369955",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 17:13",
         "source": "爱范儿",
-        "title": "AI 降低了创造的门槛，B 站则想放大创造的回声",
-        "url": "https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常",
+        "url": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 17:13",
+        "source": "极客公园",
+        "title": "<![CDATA[麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了]]>",
+        "url": "http://www.geekpark.net/news/369954",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 15:54",
+        "source": "爱范儿",
+        "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+        "url": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 15:00",
+        "source": "少数派",
+        "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+        "url": "https://sspai.com/post/113877",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-07 14:01",
+        "source": "爱范儿",
+        "title": "在零跑的工厂里，我们找到了它能月销 10 万辆的秘密",
+        "url": "https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
