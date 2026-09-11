@@ -1,121 +1,94 @@
 {
-  "window_bjt": "2026-09-09 12:34 ～ 2026-09-10 12:34",
-  "generated_at_bjt": "2026-09-10 12:34",
+  "window_bjt": "2026-09-10 12:31 ～ 2026-09-11 12:31",
+  "generated_at_bjt": "2026-09-11 12:31",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-10 10:36",
+        "time": "2026-09-11 08:41",
         "source": "爱范儿",
-        "title": "理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看",
-        "url": "https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」",
+        "url": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-10 08:58",
+        "time": "2026-09-11 08:31",
         "source": "极客公园",
-        "title": "<![CDATA[苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/370089",
+        "title": "<![CDATA[DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/370157",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-10 08:00",
+        "time": "2026-09-11 06:58",
+        "source": "少数派",
+        "title": "派早报：商务部回应美国 AI 蒸馏指控",
+        "url": "https://sspai.com/post/114439",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-10 21:52",
         "source": "爱范儿",
-        "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
-        "url": "https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配",
+        "url": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-10 06:38",
-        "source": "少数派",
-        "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
-        "url": "https://sspai.com/post/114394",
+        "time": "2026-09-10 21:46",
+        "source": "爱范儿",
+        "title": "补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池",
+        "url": "https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-10 05:30",
-        "source": "少数派",
-        "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
-        "url": "https://sspai.com/post/114393",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-10 05:21",
-        "source": "少数派",
-        "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-        "url": "https://sspai.com/post/114392",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-10 03:43",
+        "time": "2026-09-10 21:39",
         "source": "极客公园",
-        "title": "<![CDATA[苹果第一台折叠 iPhone，15999 元起]]>",
-        "url": "http://www.geekpark.net/news/370088",
+        "title": "<![CDATA[走出聊天框，Agent 开始进入现实世界]]>",
+        "url": "http://www.geekpark.net/news/370064",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-09 18:37",
-        "source": "爱范儿",
-        "title": "GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱",
-        "url": "https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-09 17:30",
-        "source": "少数派",
-        "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-        "url": "https://sspai.com/post/114366",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-09 17:15",
-        "source": "爱范儿",
-        "title": "首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口",
-        "url": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-09 16:45",
-        "source": "爱范儿",
-        "title": "阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了",
-        "url": "https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-09 15:07",
+        "time": "2026-09-10 21:36",
         "source": "极客公园",
-        "title": "<![CDATA[千问办公发布多人工作台，重写企业软件的最后一公里]]>",
-        "url": "http://www.geekpark.net/news/370061",
+        "title": "<![CDATA[微信，悄悄迈出 AI 社交的第一步]]>",
+        "url": "http://www.geekpark.net/news/370155",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-09 15:03",
+        "time": "2026-09-10 21:11",
+        "source": "爱范儿",
+        "title": "iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级",
+        "url": "https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-10 19:41",
+        "source": "极客公园",
+        "title": "<![CDATA[对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑]]>",
+        "url": "http://www.geekpark.net/news/370150",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-10 14:51",
         "source": "少数派",
-        "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
-        "url": "https://sspai.com/post/113842",
+        "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+        "url": "https://sspai.com/post/114384",
         "topic": "",
         "impact": "",
         "crosscheck": false
