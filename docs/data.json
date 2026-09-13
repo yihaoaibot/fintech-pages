@@ -1,76 +1,58 @@
 {
-  "window_bjt": "2026-09-11 12:28 ～ 2026-09-12 12:28",
-  "generated_at_bjt": "2026-09-12 12:28",
+  "window_bjt": "2026-09-12 12:40 ～ 2026-09-13 12:40",
+  "generated_at_bjt": "2026-09-13 12:40",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-12 08:35",
-        "source": "爱范儿",
-        "title": "早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市",
-        "url": "https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-09-13 08:22",
+        "source": "极客公园",
+        "title": "<![CDATA[OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话]]>",
+        "url": "http://www.geekpark.net/news/370228",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-11 21:02",
-        "source": "爱范儿",
-        "title": "制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%",
-        "url": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-09-12 21:03",
+        "source": "极客公园",
+        "title": "<![CDATA[AI 时代的「4399」，可把我玩嗨了｜AI 上新]]>",
+        "url": "http://www.geekpark.net/news/370227",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-11 18:02",
+        "time": "2026-09-12 16:30",
+        "source": "爱范儿",
+        "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
+        "url": "https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-12 15:00",
         "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 7 部作品",
-        "url": "https://sspai.com/post/114458",
+        "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+        "url": "https://sspai.com/post/114461",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-11 18:01",
+        "time": "2026-09-12 14:14",
         "source": "爱范儿",
-        "title": "在外滩大会上，我看到健康 AI+ 硬件的新可能",
-        "url": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "讲讲 Duo 作为科技产品命名的前世今生",
+        "url": "https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-11 16:49",
+        "time": "2026-09-12 14:08",
         "source": "爱范儿",
-        "title": "GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个",
-        "url": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-11 16:30",
-        "source": "少数派",
-        "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-        "url": "https://sspai.com/post/114449",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-11 15:27",
-        "source": "爱范儿",
-        "title": "iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃",
-        "url": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-11 14:50",
-        "source": "少数派",
-        "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-        "url": "https://sspai.com/post/113605",
+        "title": "刚刚，Apple Watch 成为了苹果最新的 AI 硬件",
+        "url": "https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
