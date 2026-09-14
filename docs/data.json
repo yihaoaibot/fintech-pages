@@ -1,58 +1,58 @@
 {
-  "window_bjt": "2026-09-12 12:40 ～ 2026-09-13 12:40",
-  "generated_at_bjt": "2026-09-13 12:40",
+  "window_bjt": "2026-09-13 12:49 ～ 2026-09-14 12:49",
+  "generated_at_bjt": "2026-09-14 12:49",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-13 08:22",
-        "source": "极客公园",
-        "title": "<![CDATA[OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话]]>",
-        "url": "http://www.geekpark.net/news/370228",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-12 21:03",
-        "source": "极客公园",
-        "title": "<![CDATA[AI 时代的「4399」，可把我玩嗨了｜AI 上新]]>",
-        "url": "http://www.geekpark.net/news/370227",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-12 16:30",
-        "source": "爱范儿",
-        "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
-        "url": "https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-12 15:00",
+        "time": "2026-09-14 11:00",
         "source": "少数派",
-        "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
-        "url": "https://sspai.com/post/114461",
+        "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+        "url": "https://sspai.com/post/114410",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-12 14:14",
+        "time": "2026-09-14 09:53",
         "source": "爱范儿",
-        "title": "讲讲 Duo 作为科技产品命名的前世今生",
-        "url": "https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？&#124;专访应用材料公司副总裁 Paul Meissner",
+        "url": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-12 14:08",
+        "time": "2026-09-14 08:09",
         "source": "爱范儿",
-        "title": "刚刚，Apple Watch 成为了苹果最新的 AI 硬件",
-        "url": "https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+        "url": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 06:55",
+        "source": "少数派",
+        "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+        "url": "https://sspai.com/post/114539",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 01:24",
+        "source": "极客公园",
+        "title": "<![CDATA[苹果的折叠屏等了十五年，体验还差临门一脚]]>",
+        "url": "http://www.geekpark.net/news/370231",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-13 15:51",
+        "source": "少数派",
+        "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+        "url": "https://sspai.com/post/113880",
         "topic": "",
         "impact": "",
         "crosscheck": false
