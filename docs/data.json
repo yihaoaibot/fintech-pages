@@ -1,58 +1,103 @@
 {
-  "window_bjt": "2026-09-13 12:49 ～ 2026-09-14 12:49",
-  "generated_at_bjt": "2026-09-14 12:49",
+  "window_bjt": "2026-09-14 12:48 ～ 2026-09-15 12:48",
+  "generated_at_bjt": "2026-09-15 12:48",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-14 11:00",
+        "time": "2026-09-15 11:10",
         "source": "少数派",
-        "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-        "url": "https://sspai.com/post/114410",
+        "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
+        "url": "https://sspai.com/post/47126",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-14 09:53",
-        "source": "爱范儿",
-        "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？&#124;专访应用材料公司副总裁 Paul Meissner",
-        "url": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 08:09",
-        "source": "爱范儿",
-        "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
-        "url": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 06:55",
-        "source": "少数派",
-        "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-        "url": "https://sspai.com/post/114539",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 01:24",
+        "time": "2026-09-15 08:17",
         "source": "极客公园",
-        "title": "<![CDATA[苹果的折叠屏等了十五年，体验还差临门一脚]]>",
-        "url": "http://www.geekpark.net/news/370231",
+        "title": "<![CDATA[iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束]]>",
+        "url": "http://www.geekpark.net/news/370306",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-13 15:51",
+        "time": "2026-09-15 08:08",
+        "source": "爱范儿",
+        "title": "早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预",
+        "url": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-15 08:06",
         "source": "少数派",
-        "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
-        "url": "https://sspai.com/post/113880",
+        "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
+        "url": "https://sspai.com/post/114593",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 21:05",
+        "source": "爱范儿",
+        "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
+        "url": "https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 18:15",
+        "source": "爱范儿",
+        "title": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」",
+        "url": "https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 17:24",
+        "source": "少数派",
+        "title": "派评｜近期值得关注的 App",
+        "url": "https://sspai.com/post/114577",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 16:35",
+        "source": "少数派",
+        "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+        "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 15:16",
+        "source": "少数派",
+        "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+        "url": "https://sspai.com/post/114453",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 14:00",
+        "source": "爱范儿",
+        "title": "新豆包手机助手首发体验，智能手机正在变成「行动终端」",
+        "url": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-14 13:14",
+        "source": "极客公园",
+        "title": "<![CDATA[专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件]]>",
+        "url": "http://www.geekpark.net/news/370269",
         "topic": "",
         "impact": "",
         "crosscheck": false
