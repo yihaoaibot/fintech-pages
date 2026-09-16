@@ -1,103 +1,139 @@
 {
-  "window_bjt": "2026-09-14 12:48 ～ 2026-09-15 12:48",
-  "generated_at_bjt": "2026-09-15 12:48",
+  "window_bjt": "2026-09-15 12:43 ～ 2026-09-16 12:43",
+  "generated_at_bjt": "2026-09-16 12:43",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-15 11:10",
-        "source": "少数派",
-        "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
-        "url": "https://sspai.com/post/47126",
+        "time": "2026-09-16 12:04",
+        "source": "爱范儿",
+        "title": "对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」",
+        "url": "https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-15 08:17",
+        "time": "2026-09-16 12:04",
+        "source": "爱范儿",
+        "title": "我和我的 AI 手机吃了 3 顿饭",
+        "url": "https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-16 10:38",
+        "source": "少数派",
+        "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+        "url": "https://sspai.com/post/113295",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-16 08:45",
+        "source": "爱范儿",
+        "title": "早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导",
+        "url": "https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-16 08:39",
+        "source": "少数派",
+        "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+        "url": "https://sspai.com/post/114638",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-16 08:22",
         "source": "极客公园",
-        "title": "<![CDATA[iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束]]>",
-        "url": "http://www.geekpark.net/news/370306",
+        "title": "<![CDATA[OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微「偷隐私」；美国已在太空部署武器]]>",
+        "url": "http://www.geekpark.net/news/370375",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-15 08:08",
+        "time": "2026-09-15 21:04",
         "source": "爱范儿",
-        "title": "早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预",
-        "url": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱",
+        "url": "https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-15 08:06",
-        "source": "少数派",
-        "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-        "url": "https://sspai.com/post/114593",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 21:05",
+        "time": "2026-09-15 17:43",
         "source": "爱范儿",
-        "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
-        "url": "https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么",
+        "url": "https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-14 18:15",
-        "source": "爱范儿",
-        "title": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」",
-        "url": "https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 17:24",
+        "time": "2026-09-15 17:00",
         "source": "少数派",
-        "title": "派评｜近期值得关注的 App",
-        "url": "https://sspai.com/post/114577",
+        "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
+        "url": "https://sspai.com/post/114613",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-14 16:35",
-        "source": "少数派",
-        "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-        "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 15:16",
-        "source": "少数派",
-        "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-        "url": "https://sspai.com/post/114453",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 14:00",
-        "source": "爱范儿",
-        "title": "新豆包手机助手首发体验，智能手机正在变成「行动终端」",
-        "url": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-14 13:14",
+        "time": "2026-09-15 15:10",
         "source": "极客公园",
-        "title": "<![CDATA[专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件]]>",
-        "url": "http://www.geekpark.net/news/370269",
+        "title": "<![CDATA[对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场]]>",
+        "url": "http://www.geekpark.net/news/370345",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-15 15:00",
+        "source": "少数派",
+        "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
+        "url": "https://sspai.com/post/114565",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-15 14:39",
+        "source": "爱范儿",
+        "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
+        "url": "https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-15 14:01",
+        "source": "极客公园",
+        "title": "<![CDATA[给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗]]>",
+        "url": "http://www.geekpark.net/news/370328",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-15 13:54",
+        "source": "极客公园",
+        "title": "<![CDATA[造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场]]>",
+        "url": "http://www.geekpark.net/news/370325",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-15 13:00",
+        "source": "爱范儿",
+        "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+        "url": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
