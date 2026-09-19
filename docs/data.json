@@ -1,175 +1,85 @@
 {
-  "window_bjt": "2026-09-17 12:36 ～ 2026-09-18 12:36",
-  "generated_at_bjt": "2026-09-18 12:36",
+  "window_bjt": "2026-09-18 12:32 ～ 2026-09-19 12:32",
+  "generated_at_bjt": "2026-09-19 12:32",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-18 12:14",
-        "source": "爱范儿",
-        "title": "iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」",
-        "url": "https://www.ifanr.com/1680844?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-18 11:30",
-        "source": "少数派",
-        "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
-        "url": "https://sspai.com/post/114670",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-18 11:19",
-        "source": "少数派",
-        "title": "让 Agent 读懂你的身体：数据获取篇",
-        "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-18 08:17",
-        "source": "少数派",
-        "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
-        "url": "https://sspai.com/post/114699",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-18 08:17",
+        "time": "2026-09-19 12:10",
         "source": "极客公园",
-        "title": "<![CDATA[影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍]]>",
-        "url": "http://www.geekpark.net/news/370539",
+        "title": "<![CDATA[对拿下一轮投资最有效的沟通，是「思想履约」]]>",
+        "url": "http://www.geekpark.net/news/370611",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-18 08:04",
+        "time": "2026-09-19 12:00",
         "source": "爱范儿",
-        "title": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
-        "url": "https://www.ifanr.com/1680525?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "iPhone 18 拿到手了吗？首选配件可以先安排上了",
+        "url": "https://www.ifanr.com/1680982?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-18 00:52",
+        "time": "2026-09-19 08:59",
         "source": "爱范儿",
-        "title": "零跑官宣第二品牌，新车将有小米 SUV 同款升顶能力",
-        "url": "https://www.ifanr.com/1680808?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
+        "url": "https://www.ifanr.com/1680956?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-18 00:47",
-        "source": "爱范儿",
-        "title": "23.18 万元起，小鹏 G9L 正式上市，王凤英：全球无对手！",
-        "url": "https://www.ifanr.com/1680790?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 17:56",
-        "source": "爱范儿",
-        "title": "刚刚，智谱首个 RSI 成果发布，10 万国产卡用 GLM 造 GLM",
-        "url": "https://www.ifanr.com/1680560?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 17:47",
-        "source": "少数派",
-        "title": "城市漫步指南｜威海初秋，看海玩沙",
-        "url": "https://sspai.com/post/114557",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 16:56",
-        "source": "爱范儿",
-        "title": "我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo",
-        "url": "https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 16:47",
-        "source": "爱范儿",
-        "title": "ColorOS 17 发布，OPPO 想让 AI 往前一步，主动一些聪明一些",
-        "url": "https://www.ifanr.com/1680691?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 16:06",
-        "source": "爱范儿",
-        "title": "独家实测｜15 分钟充 50%，iPhone 18 Pro 给出下一代快充的答案",
-        "url": "https://www.ifanr.com/1680682?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 15:51",
+        "time": "2026-09-19 08:01",
         "source": "极客公园",
-        "title": "<![CDATA[京东押注物理 AI，冲在前面的是一群 95 后]]>",
-        "url": "http://www.geekpark.net/news/370519",
+        "title": "<![CDATA[传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/370608",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-17 15:00",
-        "source": "少数派",
-        "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
-        "url": "https://sspai.com/post/114643",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 14:46",
-        "source": "爱范儿",
-        "title": "OPPO Find X10 体验：想得周到，拍得好看",
-        "url": "https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 14:45",
-        "source": "爱范儿",
-        "title": "用 Seedance 2.5 拍《沙丘 3》，我们替你把 AI 短片的坑全都踩过了",
-        "url": "https://www.ifanr.com/1680580?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 14:06",
-        "source": "爱范儿",
-        "title": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
-        "url": "https://www.ifanr.com/1680321?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-17 12:42",
+        "time": "2026-09-18 22:07",
         "source": "极客公园",
-        "title": "<![CDATA[追觅四大赛道 IFA 首秀：一套技术，四个出口]]>",
-        "url": "http://www.geekpark.net/news/370506",
+        "title": "<![CDATA[AI 硬件创业者，疯狂涌入手机的背面]]>",
+        "url": "http://www.geekpark.net/news/370610",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-18 17:58",
+        "source": "少数派",
+        "title": "本周看什么 | 最近值得一看的 9 部作品",
+        "url": "https://sspai.com/post/114716",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-18 17:36",
+        "source": "极客公园",
+        "title": "<![CDATA[那个教 ChatGPT 说话的人，做了一个「哑巴」模型]]>",
+        "url": "http://www.geekpark.net/news/370603",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-18 17:05",
+        "source": "爱范儿",
+        "title": "Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活",
+        "url": "https://www.ifanr.com/1680884?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-18 14:55",
+        "source": "少数派",
+        "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
+        "url": "https://sspai.com/post/114555",
         "topic": "",
         "impact": "",
         "crosscheck": false
