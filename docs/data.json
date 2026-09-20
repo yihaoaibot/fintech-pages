@@ -1,85 +1,49 @@
 {
-  "window_bjt": "2026-09-18 12:32 ～ 2026-09-19 12:32",
-  "generated_at_bjt": "2026-09-19 12:32",
+  "window_bjt": "2026-09-19 12:48 ～ 2026-09-20 12:48",
+  "generated_at_bjt": "2026-09-20 12:48",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-19 12:10",
-        "source": "极客公园",
-        "title": "<![CDATA[对拿下一轮投资最有效的沟通，是「思想履约」]]>",
-        "url": "http://www.geekpark.net/news/370611",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-19 12:00",
+        "time": "2026-09-20 12:00",
         "source": "爱范儿",
-        "title": "iPhone 18 拿到手了吗？首选配件可以先安排上了",
-        "url": "https://www.ifanr.com/1680982?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌",
+        "url": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-19 08:59",
-        "source": "爱范儿",
-        "title": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
-        "url": "https://www.ifanr.com/1680956?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-19 08:01",
-        "source": "极客公园",
-        "title": "<![CDATA[传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/370608",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-18 22:07",
-        "source": "极客公园",
-        "title": "<![CDATA[AI 硬件创业者，疯狂涌入手机的背面]]>",
-        "url": "http://www.geekpark.net/news/370610",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-18 17:58",
+        "time": "2026-09-20 11:01",
         "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 9 部作品",
-        "url": "https://sspai.com/post/114716",
+        "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+        "url": "https://sspai.com/post/114717",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-18 17:36",
+        "time": "2026-09-20 08:36",
         "source": "极客公园",
-        "title": "<![CDATA[那个教 ChatGPT 说话的人，做了一个「哑巴」模型]]>",
-        "url": "http://www.geekpark.net/news/370603",
+        "title": "<![CDATA[Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与]]>",
+        "url": "http://www.geekpark.net/news/370615",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-18 17:05",
+        "time": "2026-09-20 00:00",
         "source": "爱范儿",
-        "title": "Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活",
-        "url": "https://www.ifanr.com/1680884?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
+        "url": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-18 14:55",
+        "time": "2026-09-19 15:00",
         "source": "少数派",
-        "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
-        "url": "https://sspai.com/post/114555",
+        "title": "你的脸红是什么红：了解玫瑰痤疮",
+        "url": "https://sspai.com/post/114641",
         "topic": "",
         "impact": "",
         "crosscheck": false
