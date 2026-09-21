@@ -1,49 +1,139 @@
 {
-  "window_bjt": "2026-09-19 12:48 ～ 2026-09-20 12:48",
-  "generated_at_bjt": "2026-09-20 12:48",
+  "window_bjt": "2026-09-20 12:49 ～ 2026-09-21 12:49",
+  "generated_at_bjt": "2026-09-21 12:49",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-20 12:00",
-        "source": "爱范儿",
-        "title": "体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌",
-        "url": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-20 11:01",
-        "source": "少数派",
-        "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
-        "url": "https://sspai.com/post/114717",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-20 08:36",
+        "time": "2026-09-21 12:01",
         "source": "极客公园",
-        "title": "<![CDATA[Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与]]>",
-        "url": "http://www.geekpark.net/news/370615",
+        "title": "<![CDATA[对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞]]>",
+        "url": "http://www.geekpark.net/news/370717",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-20 00:00",
-        "source": "爱范儿",
-        "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
-        "url": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-09-21 11:57",
+        "source": "极客公园",
+        "title": "<![CDATA[Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化]]>",
+        "url": "http://www.geekpark.net/news/370607",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-19 15:00",
+        "time": "2026-09-21 11:38",
         "source": "少数派",
-        "title": "你的脸红是什么红：了解玫瑰痤疮",
-        "url": "https://sspai.com/post/114641",
+        "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+        "url": "https://sspai.com/post/114519",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-21 10:24",
+        "source": "爱范儿",
+        "title": "森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择",
+        "url": "https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-21 09:01",
+        "source": "极客公园",
+        "title": "<![CDATA[卢伟冰谈小米18 Pro涨价：大家会觉得合理；剪映发布 Hub 及 AI 助手「小映」；苹果或 10 月推出智能家居设备｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/370681",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-21 08:14",
+        "source": "爱范儿",
+        "title": "早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻",
+        "url": "https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-21 06:26",
+        "source": "少数派",
+        "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
+        "url": "https://sspai.com/post/114788",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 21:10",
+        "source": "爱范儿",
+        "title": "19999 元起，启元机器人想把「个人机器人」先卖进普通人的生活",
+        "url": "https://www.ifanr.com/1681137?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 20:04",
+        "source": "爱范儿",
+        "title": "50年首款纯电后驱！史上最强 GTI，赶不上时代",
+        "url": "https://www.ifanr.com/1681086?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 18:24",
+        "source": "爱范儿",
+        "title": "iPhone 18 Pro 系列开卖了，但苹果没告诉你的是……",
+        "url": "https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 15:27",
+        "source": "极客公园",
+        "title": "<![CDATA[三体还没降临，是因为叶文洁没用上千问办公吗？]]>",
+        "url": "http://www.geekpark.net/news/370667",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 15:15",
+        "source": "极客公园",
+        "title": "<![CDATA[机器人如何自进化，乐享科技走了一条新路]]>",
+        "url": "http://www.geekpark.net/news/370665",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 15:08",
+        "source": "极客公园",
+        "title": "<![CDATA[不可逆的人类衰老，快被 AI 破解了]]>",
+        "url": "http://www.geekpark.net/news/370664",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 15:00",
+        "source": "少数派",
+        "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
+        "url": "https://sspai.com/post/114495",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-20 14:23",
+        "source": "爱范儿",
+        "title": "苹果最强芯片 M8 Ultra，能让 Mac 重回服务器市场吗？",
+        "url": "https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
