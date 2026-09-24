@@ -1,139 +1,130 @@
 {
-  "window_bjt": "2026-09-22 12:39 ～ 2026-09-23 12:39",
-  "generated_at_bjt": "2026-09-23 12:39",
+  "window_bjt": "2026-09-23 12:41 ～ 2026-09-24 12:41",
+  "generated_at_bjt": "2026-09-24 12:41",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-23 10:25",
+        "time": "2026-09-24 11:58",
         "source": "爱范儿",
-        "title": "Claude 5.5 发布，性能直逼 Fable，还要卷价格",
-        "url": "https://www.ifanr.com/1681629?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "智能手表的尽头是「做减法」：小团队如何用「几秒钟」抢占穿戴新蓝海？",
+        "url": "https://www.ifanr.com/1681759?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 10:21",
+        "time": "2026-09-24 09:59",
         "source": "爱范儿",
-        "title": "⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地",
-        "url": "https://www.ifanr.com/1681605?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子",
+        "url": "https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 10:19",
-        "source": "少数派",
-        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-        "url": "https://sspai.com/post/114211",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-23 08:39",
+        "time": "2026-09-24 09:13",
         "source": "极客公园",
-        "title": "<![CDATA[OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/370829",
+        "title": "<![CDATA[OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运]]>",
+        "url": "http://www.geekpark.net/news/370917",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 08:05",
-        "source": "爱范儿",
-        "title": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
-        "url": "https://www.ifanr.com/1681566?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-23 07:30",
+        "time": "2026-09-24 08:19",
         "source": "少数派",
-        "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
-        "url": "https://sspai.com/post/114889",
+        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
+        "url": "https://sspai.com/post/114913",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-22 22:00",
+        "time": "2026-09-24 08:17",
+        "source": "爱范儿",
+        "title": "早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力",
+        "url": "https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-23 21:03",
+        "source": "爱范儿",
+        "title": "小米 18 Pro Max 首发评测：最好的小米手机，也是最好玩的小米手机",
+        "url": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-23 17:12",
+        "source": "爱范儿",
+        "title": "从 iPhone 18 开始，苹果给你的照片打上「看不见」的水印",
+        "url": "https://www.ifanr.com/1681780?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-23 17:02",
         "source": "少数派",
-        "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
-        "url": "https://sspai.com/post/114878",
+        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
+        "url": "https://sspai.com/post/114904",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-22 21:48",
+        "time": "2026-09-23 17:02",
         "source": "爱范儿",
-        "title": "10.99 万元起！日产新 N7 这次是真加量还降价",
-        "url": "https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "‌​⁣‌‌⁤⁡⁤‬⁡﻿​﻿‌⁤‬‬⁣​‌⁢​‬⁣‬​​⁤​‬​‬‍​⁤﻿﻿⁤​⁢⁣⁢​‍⁡​‬‬﻿⁢WorkBuddy 把办公 Agent，做成了人人可搭的「赛博乐高」",
+        "url": "https://www.ifanr.com/1681649?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-22 21:47",
-        "source": "爱范儿",
-        "title": "涨价 9 万？岚图梦想家 9 凭什么敢卖 41.99 万元",
-        "url": "https://www.ifanr.com/1681478?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-09-23 15:32",
+        "source": "极客公园",
+        "title": "<![CDATA[剪映，杀入 AI 互动影游]]>",
+        "url": "http://www.geekpark.net/news/370883",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-22 21:24",
-        "source": "爱范儿",
-        "title": "OPPO 新旗舰塞满了「两亿」，却只要 6799 元起",
-        "url": "https://www.ifanr.com/1681522?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-22 20:42",
-        "source": "爱范儿",
-        "title": "16.18 万元起！广汽传祺越 7 配备三把锁，「可城可野」有了新答案",
-        "url": "https://www.ifanr.com/1681498?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-22 18:10",
-        "source": "爱范儿",
-        "title": "光帆携手韶音，以 AI OS 破局单点功能内卷",
-        "url": "https://www.ifanr.com/1681475?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-22 17:06",
-        "source": "爱范儿",
-        "title": "千问办公押注的企业上下文，是 Agent 时代的组织语言",
-        "url": "https://www.ifanr.com/1681363?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-22 16:11",
+        "time": "2026-09-23 15:30",
         "source": "少数派",
-        "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-        "url": "https://sspai.com/post/114551",
+        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+        "url": "https://sspai.com/post/114901",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-22 14:39",
-        "source": "少数派",
-        "title": "Coast：用十年经验，给记账这件事一个「终点」",
-        "url": "https://sspai.com/post/114479",
+        "time": "2026-09-23 14:37",
+        "source": "爱范儿",
+        "title": "制糖工厂发布小电拼 Core：四口全 AVS，开启超快补能，小巧随行",
+        "url": "https://www.ifanr.com/1681696?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-23 14:02",
+        "source": "极客公园",
+        "title": "<![CDATA[拆解下阿里的 AI 经济学，与它的下注]]>",
+        "url": "http://www.geekpark.net/news/370865",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-23 13:55",
+        "source": "极客公园",
+        "title": "<![CDATA[从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局]]>",
+        "url": "http://www.geekpark.net/news/370864",
         "topic": "",
         "impact": "",
         "crosscheck": false
