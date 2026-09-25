@@ -1,130 +1,166 @@
 {
-  "window_bjt": "2026-09-23 12:41 ～ 2026-09-24 12:41",
-  "generated_at_bjt": "2026-09-24 12:41",
+  "window_bjt": "2026-09-24 12:51 ～ 2026-09-25 12:51",
+  "generated_at_bjt": "2026-09-25 12:51",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-24 11:58",
-        "source": "爱范儿",
-        "title": "智能手表的尽头是「做减法」：小团队如何用「几秒钟」抢占穿戴新蓝海？",
-        "url": "https://www.ifanr.com/1681759?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-24 09:59",
-        "source": "爱范儿",
-        "title": "刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子",
-        "url": "https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-24 09:13",
+        "time": "2026-09-25 09:50",
         "source": "极客公园",
-        "title": "<![CDATA[OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运]]>",
-        "url": "http://www.geekpark.net/news/370917",
+        "title": "<![CDATA[OPPO 姜昱辰：大模型的差距越来越小，AI 手机的差距才刚拉开]]>",
+        "url": "http://www.geekpark.net/news/371035",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-24 08:19",
+        "time": "2026-09-25 09:48",
+        "source": "极客公园",
+        "title": "<![CDATA[三折叠终于不像奇观了，但它还是 19999 元]]>",
+        "url": "http://www.geekpark.net/news/371034",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-25 09:14",
+        "source": "极客公园",
+        "title": "<![CDATA[「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/371033",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-25 08:24",
+        "source": "爱范儿",
+        "title": "早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运",
+        "url": "https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 22:49",
+        "source": "极客公园",
+        "title": "<![CDATA[Agent 时代来了，3D 生成大模型接下来比什么？]]>",
+        "url": "http://www.geekpark.net/news/371031",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 20:05",
+        "source": "爱范儿",
+        "title": "14.99 万元起，全新旅行者 7 开启预售，插混燃油两手抓",
+        "url": "https://www.ifanr.com/1682158?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 20:01",
+        "source": "爱范儿",
+        "title": "奕境 X9 上市 28.98 万元起！华为系大六座有了一个新选项",
+        "url": "https://www.ifanr.com/1682142?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 20:00",
+        "source": "爱范儿",
+        "title": "1/3 价格，1/8 重量，Meta 新眼镜秒杀 Vision Pro 了？",
+        "url": "https://www.ifanr.com/1682116?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 19:34",
+        "source": "极客公园",
+        "title": "<![CDATA[李彦宏的长期主义，进入回报周期]]>",
+        "url": "http://www.geekpark.net/news/371030",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 17:58",
+        "source": "爱范儿",
+        "title": "00 后开发者，给我安利了这几个超好用的鸿蒙新能力",
+        "url": "https://www.ifanr.com/1682109?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 17:30",
         "source": "少数派",
-        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
-        "url": "https://sspai.com/post/114913",
+        "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/114954",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-24 08:17",
+        "time": "2026-09-24 17:29",
         "source": "爱范儿",
-        "title": "早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力",
-        "url": "https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "小团队的大创意，为什么能在 HarmonyOS 7 上变为现实？",
+        "url": "https://www.ifanr.com/1682085?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 21:03",
+        "time": "2026-09-24 16:30",
         "source": "爱范儿",
-        "title": "小米 18 Pro Max 首发评测：最好的小米手机，也是最好玩的小米手机",
-        "url": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "5999 起！无需多言｜小米 18 Pro 系列发布会",
+        "url": "https://www.ifanr.com/1682002?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 17:12",
-        "source": "爱范儿",
-        "title": "从 iPhone 18 开始，苹果给你的照片打上「看不见」的水印",
-        "url": "https://www.ifanr.com/1681780?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-23 17:02",
+        "time": "2026-09-24 16:20",
         "source": "少数派",
-        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-        "url": "https://sspai.com/post/114904",
+        "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+        "url": "https://sspai.com/prime/story/home-made-beverages-5",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 17:02",
-        "source": "爱范儿",
-        "title": "‌​⁣‌‌⁤⁡⁤‬⁡﻿​﻿‌⁤‬‬⁣​‌⁢​‬⁣‬​​⁤​‬​‬‍​⁤﻿﻿⁤​⁢⁣⁢​‍⁡​‬‬﻿⁢WorkBuddy 把办公 Agent，做成了人人可搭的「赛博乐高」",
-        "url": "https://www.ifanr.com/1681649?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-23 15:32",
+        "time": "2026-09-24 16:13",
         "source": "极客公园",
-        "title": "<![CDATA[剪映，杀入 AI 互动影游]]>",
-        "url": "http://www.geekpark.net/news/370883",
+        "title": "<![CDATA[从数人头到数智能体：一场正在发生的企业生产力换血]]>",
+        "url": "http://www.geekpark.net/news/371011",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 15:30",
+        "time": "2026-09-24 16:08",
+        "source": "爱范儿",
+        "title": "高通新王牌：个人 AI 时代来了",
+        "url": "https://www.ifanr.com/1682048?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-24 15:06",
         "source": "少数派",
-        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
-        "url": "https://sspai.com/post/114901",
+        "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+        "url": "https://sspai.com/post/113823",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-23 14:37",
+        "time": "2026-09-24 13:35",
         "source": "爱范儿",
-        "title": "制糖工厂发布小电拼 Core：四口全 AVS，开启超快补能，小巧随行",
-        "url": "https://www.ifanr.com/1681696?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-23 14:02",
-        "source": "极客公园",
-        "title": "<![CDATA[拆解下阿里的 AI 经济学，与它的下注]]>",
-        "url": "http://www.geekpark.net/news/370865",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-23 13:55",
-        "source": "极客公园",
-        "title": "<![CDATA[从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局]]>",
-        "url": "http://www.geekpark.net/news/370864",
+        "title": "AI 想包办你的一切，高通想包办你的 AI",
+        "url": "https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
