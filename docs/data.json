@@ -1,22 +1,76 @@
 {
-  "window_bjt": "2026-09-26 13:12 ～ 2026-09-27 13:12",
-  "generated_at_bjt": "2026-09-27 13:12",
+  "window_bjt": "2026-09-27 13:16 ～ 2026-09-28 13:16",
+  "generated_at_bjt": "2026-09-28 13:16",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-09-27 08:38",
-        "source": "极客公园",
-        "title": "<![CDATA[接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲]]>",
-        "url": "http://www.geekpark.net/news/371039",
+        "time": "2026-09-28 12:00",
+        "source": "爱范儿",
+        "title": "补能行业变天！蔚来迎来新盟友，吉利将推出换电新车型",
+        "url": "https://www.ifanr.com/1682222?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-09-26 14:00",
+        "time": "2026-09-28 11:00",
         "source": "少数派",
-        "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
-        "url": "https://sspai.com/post/114958",
+        "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
+        "url": "https://sspai.com/post/114967",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-28 10:32",
+        "source": "爱范儿",
+        "title": "百万阿莱失踪案｜荣耀Magic9 Pro Max 首发评测",
+        "url": "https://www.ifanr.com/1682199?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-28 08:25",
+        "source": "爱范儿",
+        "title": "早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行",
+        "url": "https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-28 08:06",
+        "source": "极客公园",
+        "title": "<![CDATA[传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？]]>",
+        "url": "http://www.geekpark.net/news/371044",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-28 07:03",
+        "source": "少数派",
+        "title": "派早报：OpenAI 称与苹果合作效果不佳",
+        "url": "https://sspai.com/post/115079",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-27 17:50",
+        "source": "少数派",
+        "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+        "url": "https://sspai.com/post/115056",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-27 16:38",
+        "source": "极客公园",
+        "title": "<![CDATA[阿里整合 AI 办公力量后，千问办公怎么打这场大战？]]>",
+        "url": "http://www.geekpark.net/news/371040",
         "topic": "",
         "impact": "",
         "crosscheck": false
