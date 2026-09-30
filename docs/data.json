@@ -1,175 +1,166 @@
 {
-  "window_bjt": "2026-09-28 13:38 ～ 2026-09-29 13:38",
-  "generated_at_bjt": "2026-09-29 13:38",
+  "window_bjt": "2026-09-29 13:26 ～ 2026-09-30 13:26",
+  "generated_at_bjt": "2026-09-30 13:26",
   "buckets": {
     "us-ai-chip": [
+      {
+        "time": "2026-09-30 11:02",
+        "source": "少数派",
+        "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+        "url": "https://sspai.com/post/114945",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-30 09:34",
+        "source": "爱范儿",
+        "title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+        "url": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-30 08:26",
+        "source": "爱范儿",
+        "title": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+        "url": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-30 08:25",
+        "source": "极客公园",
+        "title": "<![CDATA[OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道]]>",
+        "url": "http://www.geekpark.net/news/372005",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-30 08:20",
+        "source": "爱范儿",
+        "title": "OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了",
+        "url": "https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-30 07:39",
+        "source": "少数派",
+        "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+        "url": "https://sspai.com/post/115197",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-30 02:59",
+        "source": "极客公园",
+        "title": "<![CDATA[除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」]]>",
+        "url": "http://www.geekpark.net/news/372003",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-30 00:07",
+        "source": "爱范儿",
+        "title": "DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱",
+        "url": "https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 19:21",
+        "source": "极客公园",
+        "title": "<![CDATA[AMD 82 亿美元收购 World Labs，买的不只是世界模型]]>",
+        "url": "http://www.geekpark.net/news/372000",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 18:23",
+        "source": "爱范儿",
+        "title": "9.99 万元起！现代艾尼氪 V 上市，十万级最先锋的设计来了",
+        "url": "https://www.ifanr.com/1682479?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 17:19",
+        "source": "爱范儿",
+        "title": "AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+        "url": "https://www.ifanr.com/1682401?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 17:12",
+        "source": "极客公园",
+        "title": "<![CDATA[Anthropic 招股书里，最耐人寻味的 7 个细节]]>",
+        "url": "http://www.geekpark.net/news/371994",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 17:04",
+        "source": "爱范儿",
+        "title": "Muse 帮我卖键盘，顺便把我家地址也「卖」了",
+        "url": "https://www.ifanr.com/1682462?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 17:03",
+        "source": "少数派",
+        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+        "url": "https://sspai.com/post/115153",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 16:15",
+        "source": "爱范儿",
+        "title": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+        "url": "https://www.ifanr.com/1682291?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 15:44",
+        "source": "少数派",
+        "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+        "url": "https://sspai.com/post/115061",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-09-29 14:53",
+        "source": "极客公园",
+        "title": "<![CDATA[三个月，5000 人：拼多多在这里搭起一座新业务基地]]>",
+        "url": "http://www.geekpark.net/news/371850",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
       {
         "time": "2026-09-29 13:27",
         "source": "极客公园",
         "title": "<![CDATA[Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶]]>",
         "url": "http://www.geekpark.net/news/371493",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-29 12:00",
-        "source": "爱范儿",
-        "title": "对话一目科技：机器人还缺失的「手感」，我们用「光」来搞定丨多样性公司",
-        "url": "https://www.ifanr.com/1682314?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-29 11:28",
-        "source": "少数派",
-        "title": "可塑的白昼：ColorOS17 深度评测",
-        "url": "https://sspai.com/post/114728",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-29 11:24",
-        "source": "爱范儿",
-        "title": "可灵4.0首发实测，国产AI视频再次掀桌？",
-        "url": "https://www.ifanr.com/1682361?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-29 10:27",
-        "source": "爱范儿",
-        "title": "5000 吨的星舰入轨，人类最大的火箭开始「送快递」了",
-        "url": "https://www.ifanr.com/1682333?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-29 08:41",
-        "source": "爱范儿",
-        "title": "早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」",
-        "url": "https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-29 08:09",
-        "source": "少数派",
-        "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-        "url": "https://sspai.com/post/115134",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-29 08:07",
-        "source": "极客公园",
-        "title": "<![CDATA[AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/371359",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 22:54",
-        "source": "极客公园",
-        "title": "<![CDATA[中国智能汽车的后台，越来越像阿里云的主场]]>",
-        "url": "http://www.geekpark.net/news/371357",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 20:40",
-        "source": "极客公园",
-        "title": "<![CDATA[蔚来换电，终于等来了「别人家的车」]]>",
-        "url": "http://www.geekpark.net/news/371233",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 18:17",
-        "source": "爱范儿",
-        "title": "余承东：鸿蒙智行「最好开的车」来了！智界 RX 上市，25.98 万元起",
-        "url": "https://www.ifanr.com/1682272?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 17:50",
-        "source": "极客公园",
-        "title": "<![CDATA[不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了]]>",
-        "url": "http://www.geekpark.net/news/371126",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 17:45",
-        "source": "少数派",
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/115094",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 17:45",
-        "source": "极客公园",
-        "title": "<![CDATA[OpenAI，经历了最漫长的一天]]>",
-        "url": "http://www.geekpark.net/news/371123",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 17:33",
-        "source": "少数派",
-        "title": "基于 Termux 的 Android 手机开发服务器实操",
-        "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 17:15",
-        "source": "极客公园",
-        "title": "<![CDATA[AI 手机只是起点，高通要为智能体铺一条全栈技术路线]]>",
-        "url": "http://www.geekpark.net/news/371113",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 17:02",
-        "source": "爱范儿",
-        "title": "豆包输入法大更新，AI 最自然的入口回到了键盘",
-        "url": "https://www.ifanr.com/1682232?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 16:08",
-        "source": "极客公园",
-        "title": "<![CDATA[从超级个体到超级组织，究竟还有多远？]]>",
-        "url": "http://www.geekpark.net/news/371104",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-28 15:00",
-        "source": "少数派",
-        "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-        "url": "https://sspai.com/post/114972",
         "topic": "",
         "impact": "",
         "crosscheck": false
