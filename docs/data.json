@@ -1,94 +1,22 @@
 {
-  "window_bjt": "2026-09-30 13:44 ～ 2026-10-01 13:44",
-  "generated_at_bjt": "2026-10-01 13:44",
+  "window_bjt": "2026-10-01 13:28 ～ 2026-10-02 13:28",
+  "generated_at_bjt": "2026-10-02 13:28",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-01 11:21",
+        "time": "2026-10-02 08:28",
         "source": "极客公园",
-        "title": "<![CDATA[从数据到智能，再到进化：Agent正在重写AI基础设施]]>",
-        "url": "http://www.geekpark.net/news/372065",
+        "title": "<![CDATA[苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》]]>",
+        "url": "http://www.geekpark.net/news/372069",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-01 08:43",
+        "time": "2026-10-01 14:17",
         "source": "爱范儿",
-        "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
-        "url": "https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-01 08:31",
-        "source": "爱范儿",
-        "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
-        "url": "https://www.ifanr.com/1682765?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-01 08:28",
-        "source": "极客公园",
-        "title": "<![CDATA[谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%]]>",
-        "url": "http://www.geekpark.net/news/372064",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-30 23:04",
-        "source": "爱范儿",
-        "title": "突发！苹果全新产品线曝光，Siri AI 进家门",
-        "url": "https://www.ifanr.com/1682750?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-30 22:32",
-        "source": "少数派",
-        "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
-        "url": "https://sspai.com/post/115070",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-30 18:30",
-        "source": "爱范儿",
-        "title": "iQOO 16 体验：可能是今年最卷的「性能旗舰」",
-        "url": "https://www.ifanr.com/1682609?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-30 17:03",
-        "source": "爱范儿",
-        "title": "问界新 M8 预售 38.98 万元，自行主导后，赛力斯迎来第一场实战",
-        "url": "https://www.ifanr.com/1682703?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-30 15:00",
-        "source": "少数派",
-        "title": "经典任务管理软件的现代重构：新版 2Do 详解",
-        "url": "https://sspai.com/post/115166",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-09-30 14:50",
-        "source": "爱范儿",
-        "title": "宝马新一代 3 系亮相！内外全换新，顶配还有 3.0T 六缸",
-        "url": "https://www.ifanr.com/1682682?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
+        "url": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
