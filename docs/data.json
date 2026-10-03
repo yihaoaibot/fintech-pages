@@ -1,22 +1,40 @@
 {
-  "window_bjt": "2026-10-01 13:28 ～ 2026-10-02 13:28",
-  "generated_at_bjt": "2026-10-02 13:28",
+  "window_bjt": "2026-10-02 13:11 ～ 2026-10-03 13:11",
+  "generated_at_bjt": "2026-10-03 13:11",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-02 08:28",
+        "time": "2026-10-03 09:17",
         "source": "极客公园",
-        "title": "<![CDATA[苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》]]>",
-        "url": "http://www.geekpark.net/news/372069",
+        "title": "<![CDATA[英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文]]>",
+        "url": "http://www.geekpark.net/news/372070",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-01 14:17",
+        "time": "2026-10-02 17:30",
+        "source": "少数派",
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "url": "https://sspai.com/post/115211",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-02 14:10",
         "source": "爱范儿",
-        "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
-        "url": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "你的下一台「泡面盖」，何必是塑料的？",
+        "url": "https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-02 14:01",
+        "source": "爱范儿",
+        "title": "和 Opus 5.5 同题交卷，MiniMax M3.1 让 Flash 开始超纲了",
+        "url": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
