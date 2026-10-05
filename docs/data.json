@@ -1,49 +1,58 @@
 {
-  "window_bjt": "2026-10-03 13:45 ～ 2026-10-04 13:45",
-  "generated_at_bjt": "2026-10-04 13:45",
+  "window_bjt": "2026-10-04 13:30 ～ 2026-10-05 13:30",
+  "generated_at_bjt": "2026-10-05 13:30",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-04 13:27",
-        "source": "极客公园",
-        "title": "<![CDATA[点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」]]>",
-        "url": "http://www.geekpark.net/news/372075",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-04 13:16",
-        "source": "极客公园",
-        "title": "<![CDATA[Claude Code 的「乐高」模式，让程序员彻底玩「上头」了]]>",
-        "url": "http://www.geekpark.net/news/372074",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-04 08:33",
-        "source": "极客公园",
-        "title": "<![CDATA[苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/372073",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-03 15:00",
+        "time": "2026-10-05 10:59",
         "source": "少数派",
-        "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-        "url": "https://sspai.com/post/114922",
+        "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+        "url": "https://sspai.com/post/114536",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-03 15:00",
+        "time": "2026-10-05 08:36",
+        "source": "极客公园",
+        "title": "<![CDATA[马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/372082",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-04 22:49",
         "source": "爱范儿",
-        "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
-        "url": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
+        "url": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-04 19:41",
+        "source": "极客公园",
+        "title": "<![CDATA[Jev 之后，中国团队开始深挖 AI 的「直觉层」]]>",
+        "url": "http://www.geekpark.net/news/372081",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-04 15:58",
+        "source": "少数派",
+        "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+        "url": "https://sspai.com/post/115308",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-04 15:08",
+        "source": "爱范儿",
+        "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "url": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
