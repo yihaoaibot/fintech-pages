@@ -1,58 +1,31 @@
 {
-  "window_bjt": "2026-10-04 13:30 ～ 2026-10-05 13:30",
-  "generated_at_bjt": "2026-10-05 13:30",
+  "window_bjt": "2026-10-05 14:13 ～ 2026-10-06 14:13",
+  "generated_at_bjt": "2026-10-06 14:13",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-05 10:59",
-        "source": "少数派",
-        "title": "十个案例助你轻松上手 iOS 27 通知自动化",
-        "url": "https://sspai.com/post/114536",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-05 08:36",
+        "time": "2026-10-06 09:16",
         "source": "极客公园",
-        "title": "<![CDATA[马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/372082",
+        "title": "<![CDATA[OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」]]>",
+        "url": "http://www.geekpark.net/news/372086",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-04 22:49",
-        "source": "爱范儿",
-        "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
-        "url": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-04 19:41",
+        "time": "2026-10-06 09:15",
         "source": "极客公园",
-        "title": "<![CDATA[Jev 之后，中国团队开始深挖 AI 的「直觉层」]]>",
-        "url": "http://www.geekpark.net/news/372081",
+        "title": "<![CDATA[交付 19 天，小米澎程破万台，雷军又赢了。]]>",
+        "url": "http://www.geekpark.net/news/372087",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-04 15:58",
-        "source": "少数派",
-        "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-        "url": "https://sspai.com/post/115308",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-04 15:08",
-        "source": "爱范儿",
-        "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
-        "url": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-05 17:45",
+        "source": "极客公园",
+        "title": "<![CDATA[AI，为什么总在画美女？]]>",
+        "url": "http://www.geekpark.net/news/372084",
         "topic": "",
         "impact": "",
         "crosscheck": false
