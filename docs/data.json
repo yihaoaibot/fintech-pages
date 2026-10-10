@@ -1,130 +1,103 @@
 {
-  "window_bjt": "2026-10-08 14:01 ～ 2026-10-09 14:01",
-  "generated_at_bjt": "2026-10-09 14:01",
+  "window_bjt": "2026-10-09 13:44 ～ 2026-10-10 13:44",
+  "generated_at_bjt": "2026-10-10 13:44",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-09 12:34",
+        "time": "2026-10-10 12:12",
+        "source": "爱范儿",
+        "title": "这三个摄影 App， 配得上你全新的 iPhone 18 Pro",
+        "url": "https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-10 10:19",
+        "source": "少数派",
+        "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+        "url": "https://sspai.com/post/115237",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-10 10:13",
+        "source": "爱范儿",
+        "title": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+        "url": "https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-10 09:27",
         "source": "极客公园",
-        "title": "<![CDATA[我使用国产「个人 AI 助手」的十天｜AI 上新]]>",
-        "url": "http://www.geekpark.net/news/372163",
+        "title": "<![CDATA[Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景]]>",
+        "url": "http://www.geekpark.net/news/372184",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-09 12:28",
-        "source": "极客公园",
-        "title": "<![CDATA[攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」]]>",
-        "url": "http://www.geekpark.net/news/372148",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-09 12:00",
+        "time": "2026-10-10 08:14",
         "source": "爱范儿",
-        "title": "全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」",
-        "url": "https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+        "url": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-09 10:08",
+        "time": "2026-10-09 18:44",
+        "source": "爱范儿",
+        "title": "停产一年，宝马带着 iX4 重回溜背市场，海外售价 53 万元起",
+        "url": "https://www.ifanr.com/1683421?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-09 18:21",
+        "source": "爱范儿",
+        "title": "陶哲轩转发抵制声明，数学界和OpenAI彻底撕破脸",
+        "url": "https://www.ifanr.com/1683401?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-09 18:06",
+        "source": "爱范儿",
+        "title": "新款理想 i6 六项升级公布，旗舰配置下放，要做「全球爆款」！",
+        "url": "https://www.ifanr.com/1683385?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-09 18:04",
         "source": "少数派",
-        "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
-        "url": "https://sspai.com/post/114869",
+        "title": "本周看什么 | 最近值得一看的 11 部作品",
+        "url": "https://sspai.com/post/115566",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-09 08:51",
+        "time": "2026-10-09 15:12",
+        "source": "爱范儿",
+        "title": "苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？",
+        "url": "https://www.ifanr.com/1683356?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-09 14:43",
         "source": "少数派",
-        "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-        "url": "https://sspai.com/post/115532",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-09 08:51",
-        "source": "爱范儿",
-        "title": "早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位",
-        "url": "https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-09 08:35",
-        "source": "极客公园",
-        "title": "<![CDATA[谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序]]>",
-        "url": "http://www.geekpark.net/news/372143",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-08 20:24",
-        "source": "爱范儿",
-        "title": "苹果 CEO 最爱的汽车品牌，要推出新超跑了",
-        "url": "https://www.ifanr.com/1683229?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-08 18:41",
-        "source": "爱范儿",
-        "title": "和过往的捷豹说再见吧：Type 01 发布，用千匹动力迎接一批新买家",
-        "url": "https://www.ifanr.com/1683214?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-08 17:28",
-        "source": "少数派",
-        "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
-        "url": "https://sspai.com/post/115282",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-08 17:04",
-        "source": "爱范儿",
-        "title": "我用 Vidu Q4 Preview 把奥特曼和 Dario 凑成男团，跳起了 APT",
-        "url": "https://www.ifanr.com/1683089?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-08 16:15",
-        "source": "爱范儿",
-        "title": "Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战",
-        "url": "https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-08 16:10",
-        "source": "少数派",
-        "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
-        "url": "https://sspai.com/post/113843",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-08 14:42",
-        "source": "少数派",
-        "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
-        "url": "https://sspai.com/post/115209",
+        "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+        "url": "https://sspai.com/post/115456",
         "topic": "",
         "impact": "",
         "crosscheck": false
