@@ -1,103 +1,58 @@
 {
-  "window_bjt": "2026-10-10 13:39 ～ 2026-10-11 13:39",
-  "generated_at_bjt": "2026-10-11 13:39",
+  "window_bjt": "2026-10-11 13:49 ～ 2026-10-12 13:49",
+  "generated_at_bjt": "2026-10-12 13:49",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-11 12:30",
-        "source": "爱范儿",
-        "title": "DDR4 内存重出江湖，PC 终于癫成我不认识的样子",
-        "url": "https://www.ifanr.com/1683529?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-12 11:20",
+        "source": "少数派",
+        "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+        "url": "https://sspai.com/post/114821",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-11 10:03",
+        "time": "2026-10-12 08:12",
         "source": "爱范儿",
-        "title": "AMD YES！老哥给老车插上显卡，手搓「真智驾」",
-        "url": "https://www.ifanr.com/1683790?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+        "url": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-11 08:53",
-        "source": "爱范儿",
-        "title": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
-        "url": "https://www.ifanr.com/1683829?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-11 08:53",
+        "time": "2026-10-12 08:02",
         "source": "极客公园",
-        "title": "<![CDATA[马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手]]>",
-        "url": "http://www.geekpark.net/news/372216",
+        "title": "<![CDATA[尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/372218",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-10 21:46",
-        "source": "爱范儿",
-        "title": "17.98 万元起，银河战舰 700 上市，三电机千匹马力，装进家用方盒子",
-        "url": "https://www.ifanr.com/1683809?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-12 06:34",
+        "source": "少数派",
+        "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+        "url": "https://sspai.com/post/115845",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-10 18:30",
-        "source": "爱范儿",
-        "title": "华为 Mate 90 Pro Max 深度体验��Mate 系列新高峰",
-        "url": "https://www.ifanr.com/1683673?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-11 15:00",
+        "source": "少数派",
+        "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+        "url": "https://sspai.com/post/115568",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-10 17:11",
-        "source": "爱范儿",
-        "title": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
-        "url": "https://www.ifanr.com/1683674?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-10 16:28",
-        "source": "爱范儿",
-        "title": "这届 AI PC，太烧心了",
-        "url": "https://www.ifanr.com/1683688?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-10 15:26",
-        "source": "爱范儿",
-        "title": "森海 Momentum 5 真无线降噪耳机体验：升级无线传输与空间音频，它依然是那个正统 「森海味」",
-        "url": "https://www.ifanr.com/1683383?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-10 14:07",
+        "time": "2026-10-11 13:52",
         "source": "极客公园",
-        "title": "<![CDATA[好产品就是与时代和生活共振｜2026 年度极客最爱好物启动]]>",
-        "url": "http://www.geekpark.net/news/372196",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-10 13:58",
-        "source": "极客公园",
-        "title": "<![CDATA[记录生生不息的创新力量｜2026 年度「InnoForce 50」启动]]>",
-        "url": "http://www.geekpark.net/news/372195",
+        "title": "<![CDATA[12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准]]>",
+        "url": "http://www.geekpark.net/news/372213",
         "topic": "",
         "impact": "",
         "crosscheck": false
