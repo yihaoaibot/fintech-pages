@@ -1,58 +1,103 @@
 {
-  "window_bjt": "2026-10-11 13:49 ～ 2026-10-12 13:49",
-  "generated_at_bjt": "2026-10-12 13:49",
+  "window_bjt": "2026-10-12 14:43 ～ 2026-10-13 14:43",
+  "generated_at_bjt": "2026-10-13 14:43",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-12 11:20",
-        "source": "少数派",
-        "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
-        "url": "https://sspai.com/post/114821",
+        "time": "2026-10-13 13:19",
+        "source": "极客公园",
+        "title": "<![CDATA[上线九个月下载破亿，字节在海外再造「红果」]]>",
+        "url": "http://www.geekpark.net/news/372284",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-12 08:12",
+        "time": "2026-10-13 12:30",
         "source": "爱范儿",
-        "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
-        "url": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "2026 年，日本翻盖手机终于过气了",
+        "url": "https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-12 08:02",
+        "time": "2026-10-13 11:44",
         "source": "极客公园",
-        "title": "<![CDATA[尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/372218",
+        "title": "<![CDATA[复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界]]>",
+        "url": "http://www.geekpark.net/news/372278",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-12 06:34",
+        "time": "2026-10-13 11:30",
         "source": "少数派",
-        "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
-        "url": "https://sspai.com/post/115845",
+        "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
+        "url": "https://sspai.com/post/116028",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-11 15:00",
+        "time": "2026-10-13 11:09",
         "source": "少数派",
-        "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
-        "url": "https://sspai.com/post/115568",
+        "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
+        "url": "https://sspai.com/post/114561",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-11 13:52",
+        "time": "2026-10-13 08:27",
         "source": "极客公园",
-        "title": "<![CDATA[12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准]]>",
-        "url": "http://www.geekpark.net/news/372213",
+        "title": "<![CDATA[曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/372264",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 08:17",
+        "source": "爱范儿",
+        "title": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能",
+        "url": "https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 08:01",
+        "source": "少数派",
+        "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+        "url": "https://sspai.com/post/116033",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-12 20:15",
+        "source": "极客公园",
+        "title": "<![CDATA[一周 10 万星，AI「逆向一切」，但大家不要过于兴奋]]>",
+        "url": "http://www.geekpark.net/news/372263",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-12 17:30",
+        "source": "少数派",
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/115934",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-12 15:00",
+        "source": "少数派",
+        "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+        "url": "https://sspai.com/post/115242",
         "topic": "",
         "impact": "",
         "crosscheck": false
