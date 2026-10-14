@@ -1,103 +1,166 @@
 {
-  "window_bjt": "2026-10-12 14:43 ～ 2026-10-13 14:43",
-  "generated_at_bjt": "2026-10-13 14:43",
+  "window_bjt": "2026-10-13 12:46 ～ 2026-10-14 12:46",
+  "generated_at_bjt": "2026-10-14 12:46",
   "buckets": {
     "us-ai-chip": [
+      {
+        "time": "2026-10-14 10:56",
+        "source": "爱范儿",
+        "title": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
+        "url": "https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-14 10:31",
+        "source": "爱范儿",
+        "title": "我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！",
+        "url": "https://www.ifanr.com/1684204?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-14 10:30",
+        "source": "爱范儿",
+        "title": "企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了",
+        "url": "https://www.ifanr.com/1684200?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-14 10:00",
+        "source": "少数派",
+        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+        "url": "https://sspai.com/post/92653",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-14 08:40",
+        "source": "少数派",
+        "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+        "url": "https://sspai.com/post/116138",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-14 08:28",
+        "source": "极客公园",
+        "title": "<![CDATA[超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线]]>",
+        "url": "http://www.geekpark.net/news/372304",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-14 08:08",
+        "source": "爱范儿",
+        "title": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布",
+        "url": "https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-14 00:08",
+        "source": "爱范儿",
+        "title": "一加 16 体验：收敛锐气，依然是「不出错」的旗舰",
+        "url": "https://www.ifanr.com/1684097?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 23:01",
+        "source": "爱范儿",
+        "title": "刚刚，苹果 HomeView 发布！10+ 款「果家」新品，你能买到的只有一个",
+        "url": "https://www.ifanr.com/1684070?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 22:37",
+        "source": "爱范儿",
+        "title": "理想 i6 化名「Li 6」，吉利拿下福特工厂，这届巴黎车展全是中国车",
+        "url": "https://www.ifanr.com/1684048?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 21:51",
+        "source": "极客公园",
+        "title": "<![CDATA[苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元]]>",
+        "url": "http://www.geekpark.net/news/372302",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 21:04",
+        "source": "爱范儿",
+        "title": "不是水桶机，却想颠覆行业：一台「模型原生」手机的疯狂野心",
+        "url": "https://www.ifanr.com/1684008?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 19:33",
+        "source": "极客公园",
+        "title": "<![CDATA[说个事：极客公园创新大会 2027！]]>",
+        "url": "http://www.geekpark.net/news/372300",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 17:00",
+        "source": "少数派",
+        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+        "url": "https://sspai.com/post/116068",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 16:51",
+        "source": "爱范儿",
+        "title": "AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型",
+        "url": "https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 16:25",
+        "source": "爱范儿",
+        "title": "小扎发布神秘「西瓜」模型，跑分媲美 Opus 5.5，口碑却一言难尽",
+        "url": "https://www.ifanr.com/1683963?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-13 15:00",
+        "source": "少数派",
+        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+        "url": "https://sspai.com/post/115400",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
       {
         "time": "2026-10-13 13:19",
         "source": "极客公园",
         "title": "<![CDATA[上线九个月下载破亿，字节在海外再造「红果」]]>",
         "url": "http://www.geekpark.net/news/372284",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-13 12:30",
-        "source": "爱范儿",
-        "title": "2026 年，日本翻盖手机终于过气了",
-        "url": "https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-13 11:44",
-        "source": "极客公园",
-        "title": "<![CDATA[复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界]]>",
-        "url": "http://www.geekpark.net/news/372278",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-13 11:30",
-        "source": "少数派",
-        "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-        "url": "https://sspai.com/post/116028",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-13 11:09",
-        "source": "少数派",
-        "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-        "url": "https://sspai.com/post/114561",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-13 08:27",
-        "source": "极客公园",
-        "title": "<![CDATA[曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/372264",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-13 08:17",
-        "source": "爱范儿",
-        "title": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能",
-        "url": "https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-13 08:01",
-        "source": "少数派",
-        "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-        "url": "https://sspai.com/post/116033",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-12 20:15",
-        "source": "极客公园",
-        "title": "<![CDATA[一周 10 万星，AI「逆向一切」，但大家不要过于兴奋]]>",
-        "url": "http://www.geekpark.net/news/372263",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-12 17:30",
-        "source": "少数派",
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/115934",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-12 15:00",
-        "source": "少数派",
-        "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-        "url": "https://sspai.com/post/115242",
         "topic": "",
         "impact": "",
         "crosscheck": false
