@@ -1,94 +1,184 @@
 {
-  "window_bjt": "2026-10-14 12:29 ～ 2026-10-15 12:29",
-  "generated_at_bjt": "2026-10-15 12:29",
+  "window_bjt": "2026-10-15 12:24 ～ 2026-10-16 12:24",
+  "generated_at_bjt": "2026-10-16 12:24",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-15 11:00",
-        "source": "少数派",
-        "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-        "url": "https://sspai.com/post/115238",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-15 08:31",
-        "source": "少数派",
-        "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
-        "url": "https://sspai.com/post/116193",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-15 08:29",
+        "time": "2026-10-16 10:22",
         "source": "极客公园",
-        "title": "<![CDATA[腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/372366",
+        "title": "<![CDATA[巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖]]>",
+        "url": "http://www.geekpark.net/news/372437",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-15 08:13",
-        "source": "爱范儿",
-        "title": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
-        "url": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-14 20:35",
-        "source": "爱范儿",
-        "title": "苹果 HomeView 上手汇总：「果家」首秀小惊艳，SiriAI 很聪明",
-        "url": "https://www.ifanr.com/1684341?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-14 18:14",
-        "source": "爱范儿",
-        "title": "Nothing Headphone (1) Pro 体验：全面晋级，当旗舰头戴也开始玩多单元",
-        "url": "https://www.ifanr.com/1683906?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-14 17:33",
+        "time": "2026-10-16 10:18",
         "source": "少数派",
-        "title": "认知心理学背后的播客剪辑技巧",
-        "url": "https://sspai.com/post/114861",
+        "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+        "url": "https://sspai.com/post/115688",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-14 15:00",
+        "time": "2026-10-16 10:18",
+        "source": "极客公园",
+        "title": "<![CDATA[第一款 AI 手机，被半个互联网「拒」了]]>",
+        "url": "http://www.geekpark.net/news/372436",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-16 10:15",
+        "source": "极客公园",
+        "title": "<![CDATA[腾讯盯上了字节的摇钱树]]>",
+        "url": "http://www.geekpark.net/news/372435",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-16 08:23",
         "source": "少数派",
-        "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-        "url": "https://sspai.com/post/115426",
+        "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+        "url": "https://sspai.com/post/116355",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-14 14:52",
-        "source": "爱范儿",
-        "title": "纯电续航破千！比亚迪大汉 23.59 万元起，看齐全尺寸行政旗舰",
-        "url": "https://www.ifanr.com/1684288?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-16 08:15",
+        "source": "极客公园",
+        "title": "<![CDATA[DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/372430",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-14 14:10",
+        "time": "2026-10-16 08:07",
         "source": "爱范儿",
-        "title": "刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了",
-        "url": "https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+        "url": "https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-16 07:23",
+        "source": "爱范儿",
+        "title": "Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
+        "url": "https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-16 01:08",
+        "source": "极客公园",
+        "title": "<![CDATA[手机大厂开始做穿戴录音，卷的已经不是转写：OPPO 心力球体验]]>",
+        "url": "http://www.geekpark.net/news/372428",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-16 00:17",
+        "source": "爱范儿",
+        "title": "大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？",
+        "url": "https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 22:20",
+        "source": "爱范儿",
+        "title": "给现实世界按下复制键，禾赛做了一台「AI 空间相机」",
+        "url": "https://www.ifanr.com/1684538?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 20:00",
+        "source": "爱范儿",
+        "title": "技术没有捷径：十年 1.3 万亿研发投入，华为选择走自己的路",
+        "url": "https://www.ifanr.com/1684477?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 20:00",
+        "source": "爱范儿",
+        "title": "Surface Laptop Ultra 首发体验：是最强 Windows 笔记本，也是 AI 时代的全能本",
+        "url": "https://www.ifanr.com/1684442?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 18:20",
+        "source": "极客公园",
+        "title": "<![CDATA[人形机器人最尴尬的事：长了一双腿，却只能定住干活]]>",
+        "url": "http://www.geekpark.net/news/372420",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 17:10",
+        "source": "少数派",
+        "title": "新玩意 253｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/116246",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 17:09",
+        "source": "爱范儿",
+        "title": "独家｜库克确认苹果国行 AI，10 月底上线测试版！",
+        "url": "https://www.ifanr.com/1684431?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 16:09",
+        "source": "少数派",
+        "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
+        "url": "https://sspai.com/post/116181",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 14:30",
+        "source": "少数派",
+        "title": "学得会的快捷指令，零基础入门苹果效率魔法",
+        "url": "https://sspai.com/post/116182",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 13:37",
+        "source": "爱范儿",
+        "title": "一台车出厂前，要过多少道关？我们在一汽-大众工厂找到了答案",
+        "url": "https://www.ifanr.com/1684409?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-15 12:40",
+        "source": "极客公园",
+        "title": "<![CDATA[卖出去≠全球化成功，中国企业出海究竟还差什么？]]>",
+        "url": "http://www.geekpark.net/news/372386",
         "topic": "",
         "impact": "",
         "crosscheck": false
