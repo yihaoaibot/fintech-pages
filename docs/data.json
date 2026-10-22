@@ -1,112 +1,121 @@
 {
-  "window_bjt": "2026-10-20 12:37 ～ 2026-10-21 12:37",
-  "generated_at_bjt": "2026-10-21 12:37",
+  "window_bjt": "2026-10-21 12:35 ～ 2026-10-22 12:35",
+  "generated_at_bjt": "2026-10-22 12:35",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-21 12:16",
+        "time": "2026-10-22 08:48",
         "source": "极客公园",
-        "title": "<![CDATA[亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点]]>",
-        "url": "http://www.geekpark.net/news/372671",
+        "title": "<![CDATA[微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨]]>",
+        "url": "http://www.geekpark.net/news/372711",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-21 11:50",
+        "time": "2026-10-22 08:45",
         "source": "爱范儿",
-        "title": "当回音壁学会了「通吃」｜Sonos Beam Ultra 体验",
-        "url": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
+        "url": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-21 10:23",
+        "time": "2026-10-22 08:29",
         "source": "少数派",
-        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
-        "url": "https://sspai.com/post/115107",
+        "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+        "url": "https://sspai.com/post/116953",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-21 09:31",
+        "time": "2026-10-22 08:21",
         "source": "爱范儿",
-        "title": "三十而立，奇瑞不想只做一家汽车公司",
-        "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
+        "url": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-21 08:37",
+        "time": "2026-10-22 08:14",
         "source": "极客公园",
-        "title": "<![CDATA[曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具]]>",
-        "url": "http://www.geekpark.net/news/372650",
+        "title": "<![CDATA[我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」]]>",
+        "url": "http://www.geekpark.net/news/372710",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-21 08:21",
+        "time": "2026-10-21 23:22",
         "source": "爱范儿",
-        "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
-        "url": "https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
+        "url": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-21 08:07",
-        "source": "少数派",
-        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-        "url": "https://sspai.com/post/116887",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-20 22:13",
+        "time": "2026-10-21 23:20",
         "source": "爱范儿",
-        "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
-        "url": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "电池自燃直接赔新车？理想发布自研电池「连山」，理想 i6 首发搭载",
+        "url": "https://www.ifanr.com/1685205?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-20 18:01",
-        "source": "少数派",
-        "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-        "url": "https://sspai.com/prime/story/inside-release-notes-261020",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-20 17:30",
-        "source": "少数派",
-        "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
-        "url": "https://sspai.com/post/115475",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-20 15:07",
-        "source": "少数派",
-        "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
-        "url": "https://sspai.com/post/116661",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-20 13:46",
+        "time": "2026-10-21 22:26",
         "source": "极客公园",
-        "title": "<![CDATA[设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了]]>",
-        "url": "http://www.geekpark.net/news/372612",
+        "title": "<![CDATA[奇瑞说，中国家庭的下一台车是摩托]]>",
+        "url": "http://www.geekpark.net/news/372692",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-21 20:08",
+        "source": "爱范儿",
+        "title": "首发 &#124; 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
+        "url": "https://www.ifanr.com/1685170?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-21 17:10",
+        "source": "极客公园",
+        "title": "<![CDATA[当车企要说为「人类自由」奋斗时，它在说什么]]>",
+        "url": "http://www.geekpark.net/news/372698",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-21 17:00",
+        "source": "少数派",
+        "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+        "url": "https://sspai.com/post/116820",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-21 15:00",
+        "source": "少数派",
+        "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+        "url": "https://sspai.com/post/116445",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-21 14:56",
+        "source": "爱范儿",
+        "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
+        "url": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
