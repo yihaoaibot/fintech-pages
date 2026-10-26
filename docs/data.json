@@ -1,49 +1,58 @@
 {
-  "window_bjt": "2026-10-24 12:33 ～ 2026-10-25 12:33",
-  "generated_at_bjt": "2026-10-25 12:33",
+  "window_bjt": "2026-10-25 12:38 ～ 2026-10-26 12:38",
+  "generated_at_bjt": "2026-10-26 12:38",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-25 12:10",
-        "source": "爱范儿",
-        "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
-        "url": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-25 08:52",
-        "source": "极客公园",
-        "title": "<![CDATA[苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机]]>",
-        "url": "http://www.geekpark.net/news/372860",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-24 22:35",
-        "source": "爱范儿",
-        "title": "史上最快宾利！竟然是一辆 SUV？",
-        "url": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-24 18:10",
-        "source": "爱范儿",
-        "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
-        "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-24 16:26",
+        "time": "2026-10-26 11:26",
         "source": "少数派",
-        "title": "在硅谷，遇见个人计算机历史",
-        "url": "https://sspai.com/post/116128",
+        "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
+        "url": "https://sspai.com/post/115074",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-26 11:00",
+        "source": "少数派",
+        "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+        "url": "https://sspai.com/post/117180",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-26 08:34",
+        "source": "极客公园",
+        "title": "<![CDATA[苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/372863",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-26 08:16",
+        "source": "爱范儿",
+        "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "url": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-26 07:36",
+        "source": "少数派",
+        "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+        "url": "https://sspai.com/post/117460",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-25 14:30",
+        "source": "少数派",
+        "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+        "url": "https://sspai.com/post/114741",
         "topic": "",
         "impact": "",
         "crosscheck": false
