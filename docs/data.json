@@ -1,139 +1,157 @@
 {
-  "window_bjt": "2026-10-26 12:56 ～ 2026-10-27 12:56",
-  "generated_at_bjt": "2026-10-27 12:56",
+  "window_bjt": "2026-10-27 13:31 ～ 2026-10-28 13:31",
+  "generated_at_bjt": "2026-10-28 13:31",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-27 11:02",
-        "source": "少数派",
-        "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
-        "url": "https://sspai.com/post/115855",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-27 10:30",
+        "time": "2026-10-28 13:06",
         "source": "爱范儿",
-        "title": "iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
-        "url": "https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "2030 年之前，我们可能再也买不到便宜的电脑了",
+        "url": "https://www.ifanr.com/1686326?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-27 09:13",
-        "source": "爱范儿",
-        "title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
-        "url": "https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-27 08:27",
+        "time": "2026-10-28 10:22",
         "source": "少数派",
-        "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-        "url": "https://sspai.com/post/117600",
+        "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+        "url": "https://sspai.com/post/115533",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-27 08:26",
+        "time": "2026-10-28 10:08",
+        "source": "爱范儿",
+        "title": "Rokid Glasses 2：想每天戴的 AI 眼镜",
+        "url": "https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-28 08:55",
+        "source": "爱范儿",
+        "title": "苹果终于对「摇一摇」广告动手了！",
+        "url": "https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-28 08:37",
+        "source": "少数派",
+        "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+        "url": "https://sspai.com/post/117684",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-28 08:07",
+        "source": "爱范儿",
+        "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+        "url": "https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-28 06:37",
+        "source": "爱范儿",
+        "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
+        "url": "https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-27 18:23",
+        "source": "爱范儿",
+        "title": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
+        "url": "https://www.ifanr.com/1686154?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-27 17:24",
         "source": "极客公园",
-        "title": "<![CDATA[苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/372952",
+        "title": "<![CDATA[iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」]]>",
+        "url": "http://www.geekpark.net/news/373008",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-27 08:06",
+        "time": "2026-10-27 17:19",
         "source": "爱范儿",
-        "title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
-        "url": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "7.69 万元起，第三代秦 PLUS DM-i 上市，内饰颜值大提升！",
+        "url": "https://www.ifanr.com/1686110?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-26 22:39",
-        "source": "爱范儿",
-        "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
-        "url": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-26 18:17",
+        "time": "2026-10-27 17:02",
         "source": "少数派",
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/117529",
+        "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+        "url": "https://sspai.com/post/117633",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-26 18:16",
+        "time": "2026-10-27 16:55",
         "source": "极客公园",
-        "title": "<![CDATA[今年的 1024，可能是最后一个程序员节]]>",
-        "url": "http://www.geekpark.net/news/372944",
+        "title": "<![CDATA[看了招股书，我终于知道为什么 Anthropic 不在乎用户了]]>",
+        "url": "http://www.geekpark.net/news/373006",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-26 18:16",
+        "time": "2026-10-27 16:49",
         "source": "极客公园",
-        "title": "<![CDATA[Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5]]>",
-        "url": "http://www.geekpark.net/news/372943",
+        "title": "<![CDATA[Manus，刚刚悄悄发布了自己的 2.0 宣言]]>",
+        "url": "http://www.geekpark.net/news/373004",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-26 18:10",
-        "source": "爱范儿",
-        "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
-        "url": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-27 16:46",
+        "source": "极客公园",
+        "title": "<![CDATA[启元机器人第 5000 台下线，从规模化量产迈向商业化验证]]>",
+        "url": "http://www.geekpark.net/news/373003",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-26 18:07",
-        "source": "爱范儿",
-        "title": "最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人",
-        "url": "https://www.ifanr.com/1685866?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-27 16:42",
+        "source": "极客公园",
+        "title": "<![CDATA[帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状]]>",
+        "url": "http://www.geekpark.net/news/373002",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-26 15:42",
-        "source": "爱范儿",
-        "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
-        "url": "https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-10-27 15:59",
+        "source": "极客公园",
+        "title": "<![CDATA[左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场]]>",
+        "url": "http://www.geekpark.net/news/372939",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-26 15:36",
-        "source": "爱范儿",
-        "title": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
-        "url": "https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-26 15:00",
+        "time": "2026-10-27 15:27",
         "source": "少数派",
-        "title": "秋冬换季护肤买什么，双 11 选购推荐",
-        "url": "https://sspai.com/post/117414",
+        "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
+        "url": "https://sspai.com/post/117557",
         "topic": "",
         "impact": "",
         "crosscheck": false
