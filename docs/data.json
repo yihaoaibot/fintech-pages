@@ -1,121 +1,40 @@
 {
-  "window_bjt": "2026-10-30 13:29 ～ 2026-10-31 13:29",
-  "generated_at_bjt": "2026-10-31 13:29",
+  "window_bjt": "2026-10-31 13:55 ～ 2026-11-01 13:55",
+  "generated_at_bjt": "2026-11-01 13:55",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-10-31 12:10",
-        "source": "少数派",
-        "title": "一图流 | 一张图看懂中国版 Apple 智能",
-        "url": "https://sspai.com/post/117953",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-31 09:37",
-        "source": "爱范儿",
-        "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
-        "url": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-31 08:14",
-        "source": "爱范儿",
-        "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
-        "url": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-31 08:03",
+        "time": "2026-11-01 09:46",
         "source": "极客公园",
-        "title": "<![CDATA[苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/373220",
+        "title": "<![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]>",
+        "url": "http://www.geekpark.net/news/373245",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-31 06:34",
-        "source": "爱范儿",
-        "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
-        "url": "https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-31 06:26",
+        "time": "2026-11-01 09:41",
         "source": "极客公园",
-        "title": "<![CDATA[国行 Apple 智能官网正式上线：千问接入，11 月推送]]>",
-        "url": "http://www.geekpark.net/news/373238",
+        "title": "<![CDATA[个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新]]>",
+        "url": "http://www.geekpark.net/news/373244",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-30 21:03",
-        "source": "爱范儿",
-        "title": "汽车工业的下一条流水线，开始由 AI 来安排",
-        "url": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-30 18:06",
-        "source": "爱范儿",
-        "title": "红魔 12 Pro+ 体验：水冷加上 RGB 灯，游戏性能全面升级",
-        "url": "https://www.ifanr.com/1686916?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-30 18:00",
-        "source": "爱范儿",
-        "title": "「史上最强」的 iPad mini，为什么还是 60Hz 屏幕？",
-        "url": "https://www.ifanr.com/1686901?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-30 17:57",
-        "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 9 部作品",
-        "url": "https://sspai.com/post/117867",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-30 15:42",
-        "source": "爱范儿",
-        "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
-        "url": "https://www.ifanr.com/1686874?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-30 14:59",
-        "source": "少数派",
-        "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
-        "url": "https://sspai.com/post/116047",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-10-30 13:49",
+        "time": "2026-11-01 08:29",
         "source": "极客公园",
-        "title": "<![CDATA[TRAE 开发者个人助理，打响 AI Coding 的下半场]]>",
-        "url": "http://www.geekpark.net/news/373190",
+        "title": "<![CDATA[ DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人]]>",
+        "url": "http://www.geekpark.net/news/373243",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-10-31 21:59",
+        "source": "爱范儿",
+        "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+        "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
