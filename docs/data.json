@@ -1,40 +1,76 @@
 {
-  "window_bjt": "2026-10-31 13:55 ～ 2026-11-01 13:55",
-  "generated_at_bjt": "2026-11-01 13:55",
+  "window_bjt": "2026-11-01 13:54 ～ 2026-11-02 13:54",
+  "generated_at_bjt": "2026-11-02 13:54",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-01 09:46",
-        "source": "极客公园",
-        "title": "<![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]>",
-        "url": "http://www.geekpark.net/news/373245",
+        "time": "2026-11-02 11:00",
+        "source": "少数派",
+        "title": "Xnip 十周年：长截图的新生，也是新的起点",
+        "url": "https://sspai.com/post/115662",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-01 09:41",
+        "time": "2026-11-02 09:51",
+        "source": "爱范儿",
+        "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+        "url": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-02 08:27",
+        "source": "极客公园",
+        "title": "<![CDATA[​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场]]>",
+        "url": "http://www.geekpark.net/news/373252",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-02 08:03",
+        "source": "爱范儿",
+        "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+        "url": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-02 07:22",
+        "source": "少数派",
+        "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+        "url": "https://sspai.com/post/118191",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-01 18:03",
         "source": "极客公园",
         "title": "<![CDATA[个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新]]>",
-        "url": "http://www.geekpark.net/news/373244",
+        "url": "http://www.geekpark.net/news/373249",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-01 08:29",
+        "time": "2026-11-01 17:57",
         "source": "极客公园",
-        "title": "<![CDATA[ DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人]]>",
-        "url": "http://www.geekpark.net/news/373243",
+        "title": "<![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]>",
+        "url": "http://www.geekpark.net/news/373248",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-10-31 21:59",
-        "source": "爱范儿",
-        "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
-        "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-11-01 15:02",
+        "source": "少数派",
+        "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+        "url": "https://sspai.com/post/116991",
         "topic": "",
         "impact": "",
         "crosscheck": false
