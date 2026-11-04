@@ -1,121 +1,139 @@
 {
-  "window_bjt": "2026-11-02 14:39 ～ 2026-11-03 14:39",
-  "generated_at_bjt": "2026-11-03 14:39",
+  "window_bjt": "2026-11-03 14:06 ～ 2026-11-04 14:06",
+  "generated_at_bjt": "2026-11-04 14:06",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-03 12:09",
+        "time": "2026-11-04 12:34",
         "source": "爱范儿",
-        "title": "苹果的一切都在变贵，全怪 AI",
-        "url": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "Claude 开始拒绝抄游戏，但可能已经太晚了",
+        "url": "https://www.ifanr.com/1687508?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-03 10:53",
+        "time": "2026-11-04 12:13",
+        "source": "爱范儿",
+        "title": "连夜实测 iPhone 国行 AI，亮点和槽点都在这了",
+        "url": "https://www.ifanr.com/1687585?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-04 11:29",
+        "source": "爱范儿",
+        "title": "抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷",
+        "url": "https://www.ifanr.com/1687549?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-04 10:41",
         "source": "少数派",
-        "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
-        "url": "https://sspai.com/post/118211",
+        "title": "国行 Apple 智能上手：这些功能已经准备好",
+        "url": "https://sspai.com/post/118404",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-03 10:09",
+        "time": "2026-11-04 09:25",
         "source": "爱范儿",
-        "title": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
-        "url": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "15.98 万元起，东风奕派 M8 天元激光版上市，用自研智驾替换华为乾崑",
+        "url": "https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-03 08:40",
+        "time": "2026-11-04 08:28",
         "source": "极客公园",
-        "title": "<![CDATA[马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份]]>",
-        "url": "http://www.geekpark.net/news/373358",
+        "title": "<![CDATA[国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/373427",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-03 08:18",
+        "time": "2026-11-04 08:26",
+        "source": "爱范儿",
+        "title": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+        "url": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-04 08:00",
         "source": "少数派",
-        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
-        "url": "https://sspai.com/post/118232",
+        "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+        "url": "https://sspai.com/post/118402",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-03 08:17",
+        "time": "2026-11-03 23:18",
         "source": "爱范儿",
-        "title": "早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头",
-        "url": "https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "iPad mini 8 首发评测：本该是一台完美的平板电脑",
+        "url": "https://www.ifanr.com/1687473?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-02 20:18",
-        "source": "爱范儿",
-        "title": "全面支持华为手机！奔驰发布新款长轴距 E 级，42.38 万元起",
-        "url": "https://www.ifanr.com/1687178?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-02 17:57",
+        "time": "2026-11-03 22:00",
         "source": "少数派",
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/118240",
+        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+        "url": "https://sspai.com/post/118263",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-02 16:03",
+        "time": "2026-11-03 19:54",
+        "source": "极客公园",
+        "title": "<![CDATA[拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」]]>",
+        "url": "http://www.geekpark.net/news/373424",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-03 15:22",
         "source": "爱范儿",
-        "title": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
-        "url": "https://www.ifanr.com/1687094?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨",
+        "url": "https://www.ifanr.com/1687285?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-02 15:41",
-        "source": "爱范儿",
-        "title": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
-        "url": "https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-02 15:37",
-        "source": "爱范儿",
-        "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
-        "url": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-02 15:37",
-        "source": "爱范儿",
-        "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
-        "url": "https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-02 15:00",
+        "time": "2026-11-03 15:12",
         "source": "少数派",
-        "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-        "url": "https://sspai.com/post/118122",
+        "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+        "url": "https://sspai.com/post/118317",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-03 15:11",
+        "source": "极客公园",
+        "title": "<![CDATA[心言巴布「Bubbo 1」：一台机器人，如何成为家人]]>",
+        "url": "http://www.geekpark.net/news/373399",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-03 15:05",
+        "source": "爱范儿",
+        "title": "不穿的旧衣服呢？放「AI 版转转」，毛利 80%",
+        "url": "https://www.ifanr.com/1687274?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
