@@ -1,148 +1,139 @@
 {
-  "window_bjt": "2026-11-04 14:35 ～ 2026-11-05 14:35",
-  "generated_at_bjt": "2026-11-05 14:35",
+  "window_bjt": "2026-11-05 14:31 ～ 2026-11-06 14:31",
+  "generated_at_bjt": "2026-11-06 14:31",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-05 14:29",
+        "time": "2026-11-06 13:26",
         "source": "爱范儿",
-        "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司",
-        "url": "https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
+        "url": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 14:14",
-        "source": "爱范儿",
-        "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
-        "url": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-05 10:57",
+        "time": "2026-11-06 11:06",
         "source": "少数派",
-        "title": "Apple 官网排版细节鉴赏",
-        "url": "https://sspai.com/post/115399",
+        "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+        "url": "https://sspai.com/post/118570",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 08:45",
+        "time": "2026-11-06 09:01",
         "source": "极客公园",
-        "title": "<![CDATA[Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/373494",
+        "title": "<![CDATA[中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber]]>",
+        "url": "http://www.geekpark.net/news/373554",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 08:16",
+        "time": "2026-11-06 08:24",
         "source": "少数派",
-        "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-        "url": "https://sspai.com/post/118498",
+        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+        "url": "https://sspai.com/post/118587",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 08:15",
+        "time": "2026-11-06 08:15",
         "source": "爱范儿",
-        "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
-        "url": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "url": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 01:30",
-        "source": "爱范儿",
-        "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
-        "url": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-04 23:12",
-        "source": "爱范儿",
-        "title": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失",
-        "url": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-04 20:25",
+        "time": "2026-11-05 22:00",
         "source": "少数派",
-        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-        "url": "https://sspai.com/post/117713",
+        "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+        "url": "https://sspai.com/post/118546",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-04 18:34",
+        "time": "2026-11-05 22:00",
         "source": "爱范儿",
-        "title": "Anthropic微微发力，AI中转站的天就要塌了？",
-        "url": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
+        "url": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-04 18:06",
+        "time": "2026-11-05 21:15",
+        "source": "极客公园",
+        "title": "<![CDATA[极客公园创新大会 2027 首批嘉宾揭晓！]]>",
+        "url": "http://www.geekpark.net/news/373553",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-05 19:03",
         "source": "爱范儿",
-        "title": "安东内利加冕 F1 最年轻世界冠军，梅赛德斯的十年豪赌拿到了大结果",
-        "url": "https://www.ifanr.com/1687672?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
+        "url": "https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-04 18:04",
+        "time": "2026-11-05 18:00",
         "source": "爱范儿",
-        "title": "加油、充电还能加甲醇！吉利银河星耀 6 EF 上市，7.68 万元起",
-        "url": "https://www.ifanr.com/1687688?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
+        "url": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-04 17:55",
+        "time": "2026-11-05 17:19",
+        "source": "极客公园",
+        "title": "<![CDATA[世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一]]>",
+        "url": "http://www.geekpark.net/news/373542",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-05 17:15",
+        "source": "极客公园",
+        "title": "<![CDATA[一个人用得好 AI，为什么一家公司却用不好？]]>",
+        "url": "http://www.geekpark.net/news/373541",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-05 17:13",
         "source": "爱范儿",
-        "title": "拓竹给 3D 打印机装了 9 个头，这次真能打印万物了？",
-        "url": "https://www.ifanr.com/1687646?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
+        "url": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-04 17:01",
-        "source": "爱范儿",
-        "title": "奥运赛事首次来到非洲，AI 也学着「入乡随俗」",
-        "url": "https://www.ifanr.com/1687242?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-04 16:37",
-        "source": "爱范儿",
-        "title": "实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了",
-        "url": "https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-04 14:50",
+        "time": "2026-11-05 17:11",
         "source": "少数派",
-        "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
-        "url": "https://sspai.com/post/115819",
+        "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/118541",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-05 15:16",
+        "source": "少数派",
+        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+        "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
         "topic": "",
         "impact": "",
         "crosscheck": false
