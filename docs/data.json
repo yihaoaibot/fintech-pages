@@ -1,139 +1,85 @@
 {
-  "window_bjt": "2026-11-05 14:31 ～ 2026-11-06 14:31",
-  "generated_at_bjt": "2026-11-06 14:31",
+  "window_bjt": "2026-11-06 13:51 ～ 2026-11-07 13:51",
+  "generated_at_bjt": "2026-11-07 13:51",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-06 13:26",
-        "source": "爱范儿",
-        "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
-        "url": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-06 11:06",
-        "source": "少数派",
-        "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-        "url": "https://sspai.com/post/118570",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-06 09:01",
+        "time": "2026-11-07 11:35",
         "source": "极客公园",
-        "title": "<![CDATA[中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber]]>",
-        "url": "http://www.geekpark.net/news/373554",
+        "title": "<![CDATA[博世用豆包工作：让工程师少搬信息，多解问题]]>",
+        "url": "http://www.geekpark.net/news/373643",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-06 08:24",
-        "source": "少数派",
-        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-        "url": "https://sspai.com/post/118587",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-06 08:15",
-        "source": "爱范儿",
-        "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
-        "url": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-05 22:00",
-        "source": "少数派",
-        "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-        "url": "https://sspai.com/post/118546",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-05 22:00",
-        "source": "爱范儿",
-        "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
-        "url": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-05 21:15",
+        "time": "2026-11-07 11:31",
         "source": "极客公园",
-        "title": "<![CDATA[极客公园创新大会 2027 首批嘉宾揭晓！]]>",
-        "url": "http://www.geekpark.net/news/373553",
+        "title": "<![CDATA[办公提效之后，企业级 Agent 开始对经营结果负责]]>",
+        "url": "http://www.geekpark.net/news/373642",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 19:03",
-        "source": "爱范儿",
-        "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
-        "url": "https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-05 18:00",
-        "source": "爱范儿",
-        "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
-        "url": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-05 17:19",
+        "time": "2026-11-07 08:48",
         "source": "极客公园",
-        "title": "<![CDATA[世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一]]>",
-        "url": "http://www.geekpark.net/news/373542",
+        "title": "<![CDATA[马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/373639",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 17:15",
-        "source": "极客公园",
-        "title": "<![CDATA[一个人用得好 AI，为什么一家公司却用不好？]]>",
-        "url": "http://www.geekpark.net/news/373541",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-05 17:13",
+        "time": "2026-11-07 08:27",
         "source": "爱范儿",
-        "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
-        "url": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "url": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 17:11",
-        "source": "少数派",
-        "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-        "url": "https://sspai.com/post/118541",
+        "time": "2026-11-06 20:13",
+        "source": "极客公园",
+        "title": "<![CDATA[估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对]]>",
+        "url": "http://www.geekpark.net/news/373637",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-05 15:16",
+        "time": "2026-11-06 20:09",
+        "source": "极客公园",
+        "title": "<![CDATA[AI 时代没有标准答案的问题，我们面对面聊]]>",
+        "url": "http://www.geekpark.net/news/373636",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-06 17:30",
         "source": "少数派",
-        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-        "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+        "title": "本周看什么 | 最近值得一看的 9 部作品",
+        "url": "https://sspai.com/post/118623",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-06 17:25",
+        "source": "爱范儿",
+        "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
+        "url": "https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-06 14:56",
+        "source": "少数派",
+        "title": "iPhone 变强了，但我没有",
+        "url": "https://sspai.com/post/118250",
         "topic": "",
         "impact": "",
         "crosscheck": false
