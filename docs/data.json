@@ -1,157 +1,112 @@
 {
-  "window_bjt": "2026-11-09 15:08 ～ 2026-11-10 15:08",
-  "generated_at_bjt": "2026-11-10 15:08",
+  "window_bjt": "2026-11-10 14:03 ～ 2026-11-11 14:03",
+  "generated_at_bjt": "2026-11-11 14:03",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-10 13:43",
+        "time": "2026-11-11 13:23",
         "source": "极客公园",
-        "title": "<![CDATA[中国汽车市场，不止一种赢法 | 极客车间]]>",
-        "url": "http://www.geekpark.net/news/373765",
+        "title": "<![CDATA[当美国无法建设数据中心，会对 AI 产生怎样的冲击]]>",
+        "url": "http://www.geekpark.net/news/373816",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-10 12:52",
+        "time": "2026-11-11 11:13",
+        "source": "少数派",
+        "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+        "url": "https://sspai.com/post/118458",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-11 10:08",
+        "source": "爱范儿",
+        "title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+        "url": "https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-11 08:34",
         "source": "极客公园",
-        "title": "<![CDATA[千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了]]>",
-        "url": "http://www.geekpark.net/news/373760",
+        "title": "<![CDATA[Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员]]>",
+        "url": "http://www.geekpark.net/news/373796",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-10 11:00",
+        "time": "2026-11-11 08:26",
         "source": "少数派",
-        "title": "今年双十一，这些鼠标值得一看",
-        "url": "https://sspai.com/post/111065",
+        "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+        "url": "https://sspai.com/post/118905",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-10 09:19",
+        "time": "2026-11-11 08:26",
         "source": "爱范儿",
-        "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
-        "url": "https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+        "url": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-10 08:47",
+        "time": "2026-11-11 08:20",
         "source": "爱范儿",
-        "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
-        "url": "https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
+        "url": "https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-10 08:45",
+        "time": "2026-11-11 00:04",
         "source": "爱范儿",
-        "title": "曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产",
-        "url": "https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+        "url": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-10 08:24",
+        "time": "2026-11-10 17:30",
+        "source": "爱范儿",
+        "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
+        "url": "https://www.ifanr.com/1688570?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-10 17:30",
+        "source": "爱范儿",
+        "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
+        "url": "https://www.ifanr.com/1688755?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-10 16:44",
         "source": "少数派",
-        "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-        "url": "https://sspai.com/post/118854",
+        "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+        "url": "https://sspai.com/post/118861",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-10 08:19",
-        "source": "极客公园",
-        "title": "<![CDATA[ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/373736",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-10 06:54",
-        "source": "爱范儿",
-        "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
-        "url": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 22:56",
-        "source": "爱范儿",
-        "title": "玛莎拉蒂将与尊界联合造车，首发车型或为双门 GT，明年正式量产",
-        "url": "https://www.ifanr.com/1688586?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 20:01",
-        "source": "爱范儿",
-        "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
-        "url": "https://www.ifanr.com/1688447?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 18:27",
+        "time": "2026-11-10 16:02",
         "source": "少数派",
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/118833",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 17:19",
-        "source": "爱范儿",
-        "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
-        "url": "https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 16:24",
-        "source": "少数派",
-        "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
-        "url": "https://sspai.com/post/118799",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 16:15",
-        "source": "极客公园",
-        "title": "<![CDATA[一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场]]>",
-        "url": "http://www.geekpark.net/news/373715",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 15:56",
-        "source": "爱范儿",
-        "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
-        "url": "https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-09 15:40",
-        "source": "少数派",
-        "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验&#xA;",
-        "url": "https://sspai.com/post/118227",
+        "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+        "url": "https://sspai.com/post/118824",
         "topic": "",
         "impact": "",
         "crosscheck": false
