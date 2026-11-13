@@ -1,139 +1,139 @@
 {
-  "window_bjt": "2026-11-11 15:03 ～ 2026-11-12 15:03",
-  "generated_at_bjt": "2026-11-12 15:03",
+  "window_bjt": "2026-11-12 14:32 ～ 2026-11-13 14:32",
+  "generated_at_bjt": "2026-11-13 14:32",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-12 12:50",
-        "source": "爱范儿",
-        "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
-        "url": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-12 12:00",
-        "source": "爱范儿",
-        "title": "拆解触屏 MacBook Pro：点亮苹果 LOGO 的秘密，藏在这里",
-        "url": "https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-12 11:44",
+        "time": "2026-11-13 12:57",
         "source": "极客公园",
-        "title": "<![CDATA[体验「跟拍机器人」Beni：谁不想要一个不会喊累还会拍照的出行搭子]]>",
-        "url": "http://www.geekpark.net/news/373860",
+        "title": "<![CDATA[AI 录音硬件卖的是时间差，窗口可能只剩半年]]>",
+        "url": "http://www.geekpark.net/news/373946",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-12 11:12",
-        "source": "少数派",
-        "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
-        "url": "https://sspai.com/post/118921",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-12 10:34",
-        "source": "爱范儿",
-        "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有",
-        "url": "https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-12 09:39",
-        "source": "爱范儿",
-        "title": "折叠屏手机的转身｜明日后视镜",
-        "url": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-12 08:55",
-        "source": "爱范儿",
-        "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
-        "url": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-12 08:39",
+        "time": "2026-11-13 11:43",
         "source": "极客公园",
-        "title": "<![CDATA[苹果突然永久关闭官方「支持社区」；字节即将推出个人 AI 助手；华为新品牌星芒 OSTA 曝光 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/373839",
+        "title": "<![CDATA[李彦宏定义 AI 下一个十年，智能组织是「新厂房」]]>",
+        "url": "http://www.geekpark.net/news/373937",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-12 08:24",
-        "source": "爱范儿",
-        "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
-        "url": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-12 08:22",
+        "time": "2026-11-13 11:35",
         "source": "少数派",
-        "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-        "url": "https://sspai.com/post/118935",
+        "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+        "url": "https://sspai.com/post/118512",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-12 07:59",
+        "time": "2026-11-13 08:48",
+        "source": "少数派",
+        "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+        "url": "https://sspai.com/post/118966",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-13 08:16",
         "source": "极客公园",
-        "title": "<![CDATA[飞行汽车登上 Web Summit 主舞台, 中国科技公司在欧洲讲了一个什么故事?]]>",
-        "url": "http://www.geekpark.net/news/373838",
+        "title": "<![CDATA[黄仁勋宣布辞职，特朗普：库克适合接任；微信「看一看」测试短剧入口；《GTA 6》还没发售就狂卖近千万份｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/373907",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-11 19:52",
+        "time": "2026-11-13 08:00",
         "source": "爱范儿",
-        "title": "曝字节要做「中国版 Muse」，给豆包造个「超级大脑」",
-        "url": "https://www.ifanr.com/1689016?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+        "url": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-11 17:47",
+        "time": "2026-11-13 07:11",
         "source": "爱范儿",
-        "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
-        "url": "https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+        "url": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-11 17:30",
+        "time": "2026-11-12 23:55",
+        "source": "极客公园",
+        "title": "<![CDATA[穿了 33 年皮衣的那个人，离开了英伟达]]>",
+        "url": "http://www.geekpark.net/news/373906",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-12 22:36",
+        "source": "爱范儿",
+        "title": "突发！黄仁勋辞任 CEO，英伟达迎来历史性换帅",
+        "url": "https://www.ifanr.com/1689249?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-12 21:39",
+        "source": "爱范儿",
+        "title": "26.99 万元起！腾势 N8 上市，内饰最美的比亚迪来了",
+        "url": "https://www.ifanr.com/1689232?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-12 19:23",
+        "source": "爱范儿",
+        "title": "森海塞尔 HDB 630 体验：把 Hi-Fi 音响，装进这副降噪耳机里",
+        "url": "https://www.ifanr.com/1689209?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-12 18:47",
+        "source": "爱范儿",
+        "title": "iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？&#124; 附开通指南",
+        "url": "https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-12 16:37",
         "source": "少数派",
-        "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
-        "url": "https://sspai.com/post/118781",
+        "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+        "url": "https://sspai.com/post/118366",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-11 15:03",
-        "source": "爱范儿",
-        "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
-        "url": "https://www.ifanr.com/1688897?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-11-12 16:24",
+        "source": "极客公园",
+        "title": "<![CDATA[接入多款第三方模型，豆包工作也模型自由了]]>",
+        "url": "http://www.geekpark.net/news/373881",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-12 14:42",
+        "source": "少数派",
+        "title": "Mac 选购指南 2026 冬季版",
+        "url": "https://sspai.com/post/85735",
         "topic": "",
         "impact": "",
         "crosscheck": false
