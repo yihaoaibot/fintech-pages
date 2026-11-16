@@ -1,31 +1,76 @@
 {
-  "window_bjt": "2026-11-14 14:18 ～ 2026-11-15 14:18",
-  "generated_at_bjt": "2026-11-15 14:18",
+  "window_bjt": "2026-11-15 14:18 ～ 2026-11-16 14:18",
+  "generated_at_bjt": "2026-11-16 14:18",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-15 10:47",
-        "source": "爱范儿",
-        "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
-        "url": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-15 08:02",
-        "source": "极客公园",
-        "title": "<![CDATA[传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生]]>",
-        "url": "http://www.geekpark.net/news/373993",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-14 15:40",
+        "time": "2026-11-16 10:52",
         "source": "少数派",
-        "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-        "url": "https://sspai.com/post/118276",
+        "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+        "url": "https://sspai.com/post/119012",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 09:11",
+        "source": "爱范儿",
+        "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+        "url": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 08:56",
+        "source": "爱范儿",
+        "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
+        "url": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 08:47",
+        "source": "极客公园",
+        "title": "<![CDATA[曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队]]>",
+        "url": "http://www.geekpark.net/news/373994",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 07:55",
+        "source": "爱范儿",
+        "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
+        "url": "https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 07:24",
+        "source": "少数派",
+        "title": "派早报：逾十万人次联署要求黄仁勋复职",
+        "url": "https://sspai.com/post/119119",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-15 18:00",
+        "source": "爱范儿",
+        "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
+        "url": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-15 15:55",
+        "source": "少数派",
+        "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+        "url": "https://sspai.com/post/118392",
         "topic": "",
         "impact": "",
         "crosscheck": false
