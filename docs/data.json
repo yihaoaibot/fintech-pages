@@ -1,76 +1,148 @@
 {
-  "window_bjt": "2026-11-15 14:18 ～ 2026-11-16 14:18",
-  "generated_at_bjt": "2026-11-16 14:18",
+  "window_bjt": "2026-11-16 15:48 ～ 2026-11-17 15:48",
+  "generated_at_bjt": "2026-11-17 15:48",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-16 10:52",
-        "source": "少数派",
-        "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-        "url": "https://sspai.com/post/119012",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-16 09:11",
-        "source": "爱范儿",
-        "title": "超 16 万人请愿，黄仁勋准备「回宫」",
-        "url": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-16 08:56",
-        "source": "爱范儿",
-        "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
-        "url": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-16 08:47",
+        "time": "2026-11-17 15:12",
         "source": "极客公园",
-        "title": "<![CDATA[曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队]]>",
-        "url": "http://www.geekpark.net/news/373994",
+        "title": "<![CDATA[腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代]]>",
+        "url": "http://www.geekpark.net/news/374083",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-16 07:55",
+        "time": "2026-11-17 14:41",
+        "source": "极客公园",
+        "title": "<![CDATA[全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」]]>",
+        "url": "http://www.geekpark.net/news/374079",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-17 14:24",
+        "source": "极客公园",
+        "title": "<![CDATA[OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」]]>",
+        "url": "http://www.geekpark.net/news/374075",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-17 11:22",
         "source": "爱范儿",
-        "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
-        "url": "https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+        "url": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-16 07:24",
+        "time": "2026-11-17 10:59",
         "source": "少数派",
-        "title": "派早报：逾十万人次联署要求黄仁勋复职",
-        "url": "https://sspai.com/post/119119",
+        "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+        "url": "https://sspai.com/post/118442",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-15 18:00",
+        "time": "2026-11-17 10:23",
         "source": "爱范儿",
-        "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
-        "url": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+        "url": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-15 15:55",
+        "time": "2026-11-17 08:42",
+        "source": "极客公园",
+        "title": "<![CDATA[消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚]]>",
+        "url": "http://www.geekpark.net/news/374056",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-17 08:18",
+        "source": "爱范儿",
+        "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+        "url": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-17 07:57",
         "source": "少数派",
-        "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
-        "url": "https://sspai.com/post/118392",
+        "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+        "url": "https://sspai.com/post/119160",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 20:00",
+        "source": "爱范儿",
+        "title": "影石这张「魔法相纸」，怎么治好了我的相册吃灰症？",
+        "url": "https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 18:53",
+        "source": "爱范儿",
+        "title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
+        "url": "https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 18:27",
+        "source": "爱范儿",
+        "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
+        "url": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 18:09",
+        "source": "少数派",
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/119148",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 17:53",
+        "source": "爱范儿",
+        "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+        "url": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 16:37",
+        "source": "爱范儿",
+        "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
+        "url": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-16 16:24",
+        "source": "爱范儿",
+        "title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
+        "url": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
