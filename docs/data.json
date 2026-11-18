@@ -1,148 +1,130 @@
 {
-  "window_bjt": "2026-11-16 15:48 ～ 2026-11-17 15:48",
-  "generated_at_bjt": "2026-11-17 15:48",
+  "window_bjt": "2026-11-17 15:17 ～ 2026-11-18 15:17",
+  "generated_at_bjt": "2026-11-18 15:17",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-17 15:12",
+        "time": "2026-11-18 12:12",
         "source": "极客公园",
-        "title": "<![CDATA[腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代]]>",
-        "url": "http://www.geekpark.net/news/374083",
+        "title": "<![CDATA[影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！]]>",
+        "url": "http://www.geekpark.net/news/374125",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-17 14:41",
-        "source": "极客公园",
-        "title": "<![CDATA[全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」]]>",
-        "url": "http://www.geekpark.net/news/374079",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-17 14:24",
-        "source": "极客公园",
-        "title": "<![CDATA[OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」]]>",
-        "url": "http://www.geekpark.net/news/374075",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-17 11:22",
+        "time": "2026-11-18 12:00",
         "source": "爱范儿",
-        "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
-        "url": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
+        "url": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-17 10:59",
+        "time": "2026-11-18 11:40",
+        "source": "爱范儿",
+        "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
+        "url": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-18 11:00",
         "source": "少数派",
-        "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
-        "url": "https://sspai.com/post/118442",
+        "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+        "url": "https://sspai.com/post/119193",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-17 10:23",
-        "source": "爱范儿",
-        "title": "微软全球大宕机，AI 怎么又成了背锅侠",
-        "url": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "time": "2026-11-18 10:30",
+        "source": "少数派",
+        "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+        "url": "https://sspai.com/post/118975",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-17 08:42",
+        "time": "2026-11-18 08:48",
         "source": "极客公园",
-        "title": "<![CDATA[消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚]]>",
-        "url": "http://www.geekpark.net/news/374056",
+        "title": "<![CDATA[OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/374109",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-17 08:18",
-        "source": "爱范儿",
-        "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
-        "url": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-17 07:57",
+        "time": "2026-11-18 08:46",
         "source": "少数派",
-        "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-        "url": "https://sspai.com/post/119160",
+        "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+        "url": "https://sspai.com/post/119210",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-16 20:00",
+        "time": "2026-11-18 08:39",
         "source": "爱范儿",
-        "title": "影石这张「魔法相纸」，怎么治好了我的相册吃灰症？",
-        "url": "https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
+        "url": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-16 18:53",
+        "time": "2026-11-18 08:32",
         "source": "爱范儿",
-        "title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
-        "url": "https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
+        "url": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-16 18:27",
+        "time": "2026-11-17 19:18",
+        "source": "极客公园",
+        "title": "<![CDATA[最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？]]>",
+        "url": "http://www.geekpark.net/news/374103",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-17 18:00",
         "source": "爱范儿",
-        "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
-        "url": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "Mac 收紧权限，苹果开始防着 AI 了",
+        "url": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-16 18:09",
+        "time": "2026-11-17 17:58",
+        "source": "极客公园",
+        "title": "<![CDATA[AI，没有抛弃小城商家]]>",
+        "url": "http://www.geekpark.net/news/374101",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-17 17:02",
         "source": "少数派",
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/119148",
+        "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+        "url": "https://sspai.com/post/119184",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-16 17:53",
+        "time": "2026-11-17 16:51",
         "source": "爱范儿",
-        "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
-        "url": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-16 16:37",
-        "source": "爱范儿",
-        "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
-        "url": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-16 16:24",
-        "source": "爱范儿",
-        "title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
-        "url": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "DeepSeek 不限额的用法，都在这里了 &#124;  附指南",
+        "url": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
