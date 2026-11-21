@@ -1,112 +1,85 @@
 {
-  "window_bjt": "2026-11-19 15:03 ～ 2026-11-20 15:03",
-  "generated_at_bjt": "2026-11-20 15:03",
+  "window_bjt": "2026-11-20 14:57 ～ 2026-11-21 14:57",
+  "generated_at_bjt": "2026-11-21 14:57",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-20 12:00",
-        "source": "爱范儿",
-        "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
-        "url": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-20 10:47",
+        "time": "2026-11-21 12:00",
         "source": "少数派",
-        "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
-        "url": "https://sspai.com/post/118879",
+        "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+        "url": "https://sspai.com/post/119291",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-20 09:17",
+        "time": "2026-11-21 08:25",
         "source": "爱范儿",
-        "title": "AI Agent 元年，苹果是最后一个入局的巨头",
-        "url": "https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+        "url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-20 09:04",
+        "time": "2026-11-21 08:17",
         "source": "极客公园",
-        "title": "<![CDATA[1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/374235",
+        "title": "<![CDATA[林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机]]>",
+        "url": "http://www.geekpark.net/news/374299",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-20 08:34",
-        "source": "少数派",
-        "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
-        "url": "https://sspai.com/post/119311",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-20 08:29",
+        "time": "2026-11-20 18:39",
         "source": "爱范儿",
-        "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
-        "url": "https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+        "url": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-19 23:01",
-        "source": "爱范儿",
-        "title": "比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！",
-        "url": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-19 22:58",
-        "source": "爱范儿",
-        "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
-        "url": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-19 21:00",
-        "source": "爱范儿",
-        "title": "今年是阔屏的元年，阔屏是手机的今后十年",
-        "url": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-19 18:25",
+        "time": "2026-11-20 17:54",
         "source": "少数派",
-        "title": "给 Apple 的 2026 年打分，请你一起参与",
-        "url": "https://sspai.com/post/119191",
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "url": "https://sspai.com/post/119337",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-19 17:16",
-        "source": "少数派",
-        "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-        "url": "https://sspai.com/post/119287",
+        "time": "2026-11-20 17:17",
+        "source": "爱范儿",
+        "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+        "url": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-19 15:34",
+        "time": "2026-11-20 17:03",
+        "source": "爱范儿",
+        "title": "给 Gemini 道歉，请自觉排队",
+        "url": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-20 16:24",
+        "source": "极客公园",
+        "title": "<![CDATA[估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」]]>",
+        "url": "http://www.geekpark.net/news/374282",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-20 15:34",
         "source": "少数派",
-        "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-        "url": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
+        "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+        "url": "https://sspai.com/post/119327",
         "topic": "",
         "impact": "",
         "crosscheck": false
