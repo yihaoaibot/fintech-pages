@@ -1,85 +1,67 @@
 {
-  "window_bjt": "2026-11-20 14:57 ～ 2026-11-21 14:57",
-  "generated_at_bjt": "2026-11-21 14:57",
+  "window_bjt": "2026-11-21 14:37 ～ 2026-11-22 14:37",
+  "generated_at_bjt": "2026-11-22 14:37",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-21 12:00",
-        "source": "少数派",
-        "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-        "url": "https://sspai.com/post/119291",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-21 08:25",
-        "source": "爱范儿",
-        "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
-        "url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-21 08:17",
+        "time": "2026-11-22 10:03",
         "source": "极客公园",
-        "title": "<![CDATA[林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机]]>",
-        "url": "http://www.geekpark.net/news/374299",
+        "title": "<![CDATA[重控制、轻渲染，达瓦科技的 AI 视频工业路线]]>",
+        "url": "http://www.geekpark.net/news/374303",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-20 18:39",
-        "source": "爱范儿",
-        "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
-        "url": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-20 17:54",
-        "source": "少数派",
-        "title": "本周看什么 | 最近值得一看的 10 部作品",
-        "url": "https://sspai.com/post/119337",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-20 17:17",
-        "source": "爱范儿",
-        "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
-        "url": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-20 17:03",
-        "source": "爱范儿",
-        "title": "给 Gemini 道歉，请自觉排队",
-        "url": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-20 16:24",
+        "time": "2026-11-22 09:58",
         "source": "极客公园",
-        "title": "<![CDATA[估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」]]>",
-        "url": "http://www.geekpark.net/news/374282",
+        "title": "<![CDATA[资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段]]>",
+        "url": "http://www.geekpark.net/news/374302",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-20 15:34",
+        "time": "2026-11-22 09:56",
+        "source": "极客公园",
+        "title": "<![CDATA[关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切]]>",
+        "url": "http://www.geekpark.net/news/374301",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-22 09:35",
+        "source": "爱范儿",
+        "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+        "url": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-22 09:34",
+        "source": "爱范儿",
+        "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
+        "url": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-22 09:05",
         "source": "少数派",
-        "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
-        "url": "https://sspai.com/post/119327",
+        "title": "从深圳到上海，少数派的共创故事还在继续",
+        "url": "https://sspai.com/post/119318",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-22 09:05",
+        "source": "极客公园",
+        "title": "<![CDATA[黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办]]>",
+        "url": "http://www.geekpark.net/news/374300",
         "topic": "",
         "impact": "",
         "crosscheck": false
