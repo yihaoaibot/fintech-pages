@@ -1,67 +1,85 @@
 {
-  "window_bjt": "2026-11-21 14:37 ～ 2026-11-22 14:37",
-  "generated_at_bjt": "2026-11-22 14:37",
+  "window_bjt": "2026-11-22 15:25 ～ 2026-11-23 15:25",
+  "generated_at_bjt": "2026-11-23 15:25",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-22 10:03",
+        "time": "2026-11-23 15:18",
         "source": "极客公园",
-        "title": "<![CDATA[重控制、轻渲染，达瓦科技的 AI 视频工业路线]]>",
-        "url": "http://www.geekpark.net/news/374303",
+        "title": "<![CDATA[利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿]]>",
+        "url": "http://www.geekpark.net/news/374348",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-22 09:58",
-        "source": "极客公园",
-        "title": "<![CDATA[资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段]]>",
-        "url": "http://www.geekpark.net/news/374302",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-22 09:56",
-        "source": "极客公园",
-        "title": "<![CDATA[关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切]]>",
-        "url": "http://www.geekpark.net/news/374301",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-22 09:35",
+        "time": "2026-11-23 14:07",
         "source": "爱范儿",
-        "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
-        "url": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
+        "url": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-22 09:34",
-        "source": "爱范儿",
-        "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
-        "url": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-22 09:05",
+        "time": "2026-11-23 14:00",
         "source": "少数派",
-        "title": "从深圳到上海，少数派的共创故事还在继续",
-        "url": "https://sspai.com/post/119318",
+        "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+        "url": "https://sspai.com/post/118705",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-22 09:05",
+        "time": "2026-11-23 12:00",
+        "source": "爱范儿",
+        "title": "XREAL AURA 体验：科幻电影的未来，这么近那么远",
+        "url": "https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 09:22",
         "source": "极客公园",
-        "title": "<![CDATA[黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办]]>",
-        "url": "http://www.geekpark.net/news/374300",
+        "title": "<![CDATA[OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/374304",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 08:57",
+        "source": "爱范儿",
+        "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+        "url": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 08:25",
+        "source": "爱范儿",
+        "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+        "url": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 07:34",
+        "source": "少数派",
+        "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+        "url": "https://sspai.com/post/119418",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 06:19",
+        "source": "爱范儿",
+        "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+        "url": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
