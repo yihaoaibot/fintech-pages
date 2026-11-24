@@ -1,85 +1,157 @@
 {
-  "window_bjt": "2026-11-22 15:25 ～ 2026-11-23 15:25",
-  "generated_at_bjt": "2026-11-23 15:25",
+  "window_bjt": "2026-11-23 17:46 ～ 2026-11-24 17:46",
+  "generated_at_bjt": "2026-11-24 17:46",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-23 15:18",
+        "time": "2026-11-24 17:09",
+        "source": "爱范儿",
+        "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
+        "url": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-24 15:47",
         "source": "极客公园",
-        "title": "<![CDATA[利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿]]>",
-        "url": "http://www.geekpark.net/news/374348",
+        "title": "<![CDATA[华为星芒O1 Pro，如何把手机 AI 再往前努一小步]]>",
+        "url": "http://www.geekpark.net/news/374417",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-23 14:07",
-        "source": "爱范儿",
-        "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
-        "url": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-23 14:00",
+        "time": "2026-11-24 15:38",
         "source": "少数派",
-        "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
-        "url": "https://sspai.com/post/118705",
+        "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+        "url": "https://sspai.com/post/119035",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-23 12:00",
+        "time": "2026-11-24 13:55",
         "source": "爱范儿",
-        "title": "XREAL AURA 体验：科幻电影的未来，这么近那么远",
-        "url": "https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "「试用期」已到，苹果开始给 AI 收费了 &#124; AG&#038;I",
+        "url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-23 09:22",
+        "time": "2026-11-24 13:40",
+        "source": "爱范儿",
+        "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+        "url": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-24 12:37",
         "source": "极客公园",
-        "title": "<![CDATA[OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/374304",
+        "title": "<![CDATA[极客公园创新大会 2027 全议程公布！]]>",
+        "url": "http://www.geekpark.net/news/374395",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-23 08:57",
-        "source": "爱范儿",
-        "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
-        "url": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-23 08:25",
-        "source": "爱范儿",
-        "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
-        "url": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-23 07:34",
+        "time": "2026-11-24 11:03",
         "source": "少数派",
-        "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-        "url": "https://sspai.com/post/119418",
+        "title": "写在动荡之后：漫步巴黎的寻常一日",
+        "url": "https://sspai.com/post/119412",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-23 06:19",
+        "time": "2026-11-24 10:10",
         "source": "爱范儿",
-        "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
-        "url": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "title": "刚刚，Claude 黎曼猜想证明的主导者回应一切",
+        "url": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-24 08:37",
+        "source": "少数派",
+        "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+        "url": "https://sspai.com/post/119460",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-24 08:28",
+        "source": "极客公园",
+        "title": "<![CDATA[黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」]]>",
+        "url": "http://www.geekpark.net/news/374375",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-24 08:02",
+        "source": "爱范儿",
+        "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+        "url": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 23:47",
+        "source": "极客公园",
+        "title": "<![CDATA[字节，该造手机了]]>",
+        "url": "http://www.geekpark.net/news/374374",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 22:50",
+        "source": "爱范儿",
+        "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
+        "url": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 22:30",
+        "source": "爱范儿",
+        "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
+        "url": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 18:08",
+        "source": "少数派",
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/119438",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 18:00",
+        "source": "少数派",
+        "title": "怪手机们要回来了吗？",
+        "url": "https://sspai.com/prime/story/weird-phones-are-returning",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-23 17:53",
+        "source": "爱范儿",
+        "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
+        "url": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=",
         "topic": "",
         "impact": "",
         "crosscheck": false
