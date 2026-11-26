@@ -1,130 +1,139 @@
 {
-  "window_bjt": "2026-11-24 16:21 ～ 2026-11-25 16:21",
-  "generated_at_bjt": "2026-11-25 16:21",
+  "window_bjt": "2026-11-25 16:06 ～ 2026-11-26 16:06",
+  "generated_at_bjt": "2026-11-26 16:06",
   "buckets": {
     "us-ai-chip": [
       {
-        "time": "2026-11-25 14:59",
+        "time": "2026-11-26 15:00",
         "source": "少数派",
-        "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-        "url": "https://sspai.com/post/119310",
+        "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+        "url": "https://sspai.com/post/119563",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-25 14:45",
-        "source": "极客公园",
-        "title": "<![CDATA[从手腕到雪鞋，运动可穿戴探索下一个可能 | 对话 Heygo]]>",
-        "url": "http://www.geekpark.net/news/374470",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-25 13:21",
+        "time": "2026-11-26 12:28",
         "source": "爱范儿",
-        "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
-        "url": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
+        "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+        "url": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-25 13:02",
-        "source": "极客公园",
-        "title": "<![CDATA[荣耀眼里的 AI 手机：前沿模型可以进来，但入口不能拿走]]>",
-        "url": "http://www.geekpark.net/news/374462",
+        "time": "2026-11-26 12:04",
+        "source": "爱范儿",
+        "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
+        "url": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-25 11:07",
+        "time": "2026-11-26 12:02",
+        "source": "爱范儿",
+        "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
+        "url": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-26 11:48",
+        "source": "爱范儿",
+        "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
+        "url": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-26 11:13",
         "source": "少数派",
-        "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
-        "url": "https://sspai.com/post/118791",
+        "title": "我用AI做了一张两千年的中国历史地图",
+        "url": "https://sspai.com/post/117510",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-25 08:44",
+        "time": "2026-11-26 10:25",
+        "source": "爱范儿",
+        "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
+        "url": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-26 09:28",
+        "source": "爱范儿",
+        "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
+        "url": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-26 08:19",
         "source": "极客公园",
-        "title": "<![CDATA[豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道]]>",
-        "url": "http://www.geekpark.net/news/374438",
+        "title": "<![CDATA[黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道]]>",
+        "url": "http://www.geekpark.net/news/374500",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-25 08:22",
+        "time": "2026-11-26 08:08",
         "source": "少数派",
-        "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
-        "url": "https://sspai.com/post/119527",
+        "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+        "url": "https://sspai.com/post/119560",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-25 08:08",
+        "time": "2026-11-26 08:02",
         "source": "爱范儿",
-        "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
-        "url": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
+        "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
+        "url": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-24 21:36",
+        "time": "2026-11-25 18:47",
         "source": "爱范儿",
-        "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
-        "url": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign",
+        "title": "蔚来发布 NOMI 4.0！0.6 秒极速响应，正式迈入「智能体」时代",
+        "url": "https://www.ifanr.com/1695482?utm_source=rss&utm_medium=rss&utm_campaign",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-24 19:04",
-        "source": "爱范儿",
-        "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
-        "url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
+        "time": "2026-11-25 17:48",
+        "source": "少数派",
+        "title": "翻开 2027， 值得入手的新年日历推荐",
+        "url": "https://sspai.com/post/119264",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-24 18:30",
-        "source": "爱范儿",
-        "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
-        "url": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-24 17:58",
+        "time": "2026-11-25 17:33",
         "source": "极客公园",
-        "title": "<![CDATA[黄仁勋，离开英伟达的 11 天]]>",
-        "url": "http://www.geekpark.net/news/374431",
+        "title": "<![CDATA[Plaud、影石、小红书、Looki......我们发起了一场 AI 硬件圈的年度聚会]]>",
+        "url": "http://www.geekpark.net/news/374487",
         "topic": "",
         "impact": "",
         "crosscheck": false
       },
       {
-        "time": "2026-11-24 17:14",
-        "source": "少数派",
-        "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
-        "url": "https://sspai.com/post/119492",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-24 17:09",
+        "time": "2026-11-25 17:00",
         "source": "爱范儿",
-        "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
-        "url": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign",
+        "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
+        "url": "https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign",
         "topic": "",
         "impact": "",
         "crosscheck": false
