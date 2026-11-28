@@ -1,139 +1,202 @@
 {
-  "window_bjt": "2026-11-26 16:16 ～ 2026-11-27 16:16",
-  "generated_at_bjt": "2026-11-27 16:16",
+  "window_bjt": "2026-11-27 15:38 ～ 2026-11-28 15:38",
+  "generated_at_bjt": "2026-11-28 15:38",
   "buckets": {
     "us-ai-chip": [
       {
+        "time": "2026-11-28 13:01",
+        "source": "爱范儿",
+        "title": "德系最大 SUV 来了！奥迪 Q9 国内首秀，车长超 5 米 3，还有一台大 V6丨广州车展",
+        "url": "https://www.ifanr.com/1696001?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-28 11:30",
+        "source": "少数派",
+        "title": "「黑五」值得买：不容错过的数码硬件优惠",
+        "url": "https://sspai.com/post/119651",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-28 08:53",
+        "source": "极客公园",
+        "title": "<![CDATA[AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作]]>",
+        "url": "http://www.geekpark.net/news/374621",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-28 08:47",
+        "source": "少数派",
+        "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+        "url": "https://sspai.com/post/119686",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-28 00:41",
+        "source": "爱范儿",
+        "title": "24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展",
+        "url": "https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 23:29",
+        "source": "爱范儿",
+        "title": "9.69 万元，奇瑞 QQ3 变身一辆可以开咖啡馆的「QQ 啡车」丨广州车展",
+        "url": "https://www.ifanr.com/1695964?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 20:20",
+        "source": "爱范儿",
+        "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+        "url": "https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 20:16",
+        "source": "爱范儿",
+        "title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+        "url": "https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 20:13",
+        "source": "爱范儿",
+        "title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+        "url": "https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 20:11",
+        "source": "爱范儿",
+        "title": "43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展",
+        "url": "https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 20:09",
+        "source": "爱范儿",
+        "title": "限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展",
+        "url": "https://www.ifanr.com/1695904?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 18:01",
+        "source": "爱范儿",
+        "title": "Agent 上车元年，支付宝造了一个行动座舱",
+        "url": "https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 17:26",
+        "source": "极客公园",
+        "title": "<![CDATA[大厂的应届生名额，正在先让给 AI 预算]]>",
+        "url": "http://www.geekpark.net/news/374601",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 17:17",
+        "source": "爱范儿",
+        "title": "阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展",
+        "url": "https://www.ifanr.com/1695875?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 17:06",
+        "source": "爱范儿",
+        "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+        "url": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 16:55",
+        "source": "爱范儿",
+        "title": "蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型丨广州车展",
+        "url": "https://www.ifanr.com/1695848?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 16:49",
+        "source": "爱范儿",
+        "title": "限时 25.49 万元起！奔驰纯电 GLC「大件夹抵食」",
+        "url": "https://www.ifanr.com/1695815?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 16:32",
+        "source": "少数派",
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "url": "https://sspai.com/post/119658",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 16:31",
+        "source": "爱范儿",
+        "title": "广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底｜广州车展",
+        "url": "https://www.ifanr.com/1695800?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 16:29",
+        "source": "极客公园",
+        "title": "<![CDATA[B 站十几年的家底，在 AI 时代「升值」]]>",
+        "url": "http://www.geekpark.net/news/374593",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
+        "time": "2026-11-27 16:21",
+        "source": "爱范儿",
+        "title": "10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展",
+        "url": "https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign",
+        "topic": "",
+        "impact": "",
+        "crosscheck": false
+      },
+      {
         "time": "2026-11-27 16:01",
         "source": "爱范儿",
-        "title": "30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相广州车展",
+        "title": "30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相｜广州车展",
         "url": "https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 15:29",
-        "source": "爱范儿",
-        "title": "30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展",
-        "url": "https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 15:16",
-        "source": "极客公园",
-        "title": "<![CDATA[AI 创作，走过产能竞速之后]]>",
-        "url": "http://www.geekpark.net/news/374584",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 15:06",
-        "source": "爱范儿",
-        "title": "华为全新一代巨鲸电池平台：电池安全，不能只看新车出厂的那一天",
-        "url": "https://www.ifanr.com/1695738?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 11:49",
-        "source": "爱范儿",
-        "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
-        "url": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 11:48",
-        "source": "少数派",
-        "title": "「黑五」值得买：不容错过的 App 和服务优惠",
-        "url": "https://sspai.com/post/119601",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 11:06",
-        "source": "爱范儿",
-        "title": "华为 Mate X8 评测：终局之战",
-        "url": "https://www.ifanr.com/1695642?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 08:43",
-        "source": "极客公园",
-        "title": "<![CDATA[智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道]]>",
-        "url": "http://www.geekpark.net/news/374546",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 08:27",
-        "source": "少数派",
-        "title": "派早报：1Password 确认内部系统遭入侵等",
-        "url": "https://sspai.com/post/119632",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-27 08:08",
-        "source": "爱范儿",
-        "title": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
-        "url": "https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-26 18:02",
-        "source": "爱范儿",
-        "title": "2026 年，国产模型还能追上 Opus 5.5 吗",
-        "url": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-26 17:51",
-        "source": "爱范儿",
-        "title": "ChatGPT即将到来的大更新，为何让老用户集体破防",
-        "url": "https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-26 17:30",
-        "source": "少数派",
-        "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
-        "url": "https://sspai.com/post/116773",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-26 17:04",
-        "source": "极客公园",
-        "title": "<![CDATA[好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI]]>",
-        "url": "http://www.geekpark.net/news/374536",
-        "topic": "",
-        "impact": "",
-        "crosscheck": false
-      },
-      {
-        "time": "2026-11-26 16:38",
-        "source": "极客公园",
-        "title": "<![CDATA[成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代]]>",
-        "url": "http://www.geekpark.net/news/374532",
         "topic": "",
         "impact": "",
         "crosscheck": false
